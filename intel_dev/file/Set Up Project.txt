@@ -1,0 +1,115 @@
+
+
+
+                          Set Up Project                        
+
+
+
+
+Before running an analysis with the Intel® VTune™ Amplifier, you have to create a project, which is a container for an analysis target and analysis type configuration and data collection results.
+For Microsoft Visual Studio* IDE, the VTune Amplifier automatically creates a project for an active startup project, inherits Visual Studio settings and uses the application generated for the selected project as your analysis target. Default project directory is My Amplifier XE Results-[project name] in the solution directory.
+For standalone graphical interface, you need to create a project by explicitly specifying its name and path to an analysis target. Default project directory is %USERPROFILE%\My Documents\Amplifier XE\Projects on Windows* and $HOME/intel/amplxe/projects on Linux*.
+To create a VTune Amplifier project for the standalone GUI:
+
+Open the Create a Project dialog box using any of the following options:
+
+
+Click the  menu button and select New > Project....
+
+
+Click the New Project toolbar button.
+
+
+Click the New Project... hyperlink in the Welcome page.
+
+
+For example, on Linux:
+
+
+
+In the Create a Project dialog box, configure the following settings:
+
+
+Use This
+
+
+To Do This
+
+
+Project Name field
+
+
+Enter the name of a new project.
+
+
+Location field and Browse button
+
+
+Choose or create a directory to contain the project.
+
+
+Tip
+Store all your project directories in the same location.
+
+
+
+
+Create Project button
+
+
+Create a container *.amplxeproj file and open the Choose Target and Analysis Type window to choose and configure an analysis target.
+
+
+
+
+Click the Create Project button.
+The New Amplifier Result tab opens.
+
+
+Note
+You cannot run a performance analysis or import analysis data without creating a project.
+
+
+What's Next
+
+
+Specify and configure an analysis target.
+
+
+Select an analysis type.
+
+
+Optionally, configure search directories.
+
+
+Run the performance analysis.
+
+
+
+
+
+See Also
+
+Filenames and Locations
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+macOS* Support
+
+
+
+
+Next
+Search Directories
+
+
+
+
+ 
+
+

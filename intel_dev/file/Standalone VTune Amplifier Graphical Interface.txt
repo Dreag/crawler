@@ -1,0 +1,136 @@
+
+
+
+                          Standalone VTune Amplifier Graphical Interface                        
+
+
+
+
+By default, the VTune Amplifier opens a Welcome page that provides hints on your next steps and links to necessary options:
+
+
+
+
+
+
+
+Click the Find Your Analysis link to get a quick guidance on which analysis to run for your application domain.
+Click the Getting Started link to view basic steps on configuring and launching an analysis with the VTune Amplifier and browse the most important local and online documentation resources.
+
+
+
+
+
+To start with the VTune Amplifier, you need to have a project that specifies an application to analyze. If a project is open, its name shows up on the Welcome page as the Current project.
+
+
+
+
+
+When a project is open, you may quickly re-run a recently used analysis configuration by clicking its name in the list. To configure and run a new configuration, click the New Analysis... link.
+To import a result into an existing project, click Import Result....
+To configure target and analysis settings for a currently opened project, click Configure Project....
+
+
+
+
+
+For quick and easy access to an existing project used recently, click the required project name in the Recent Projects list. Hover over a project name in the list to see the full path to the project file.
+The name of the currently opened project is displayed in the window caption. When the project is open, you can run a new data collection for the specified target application or explore/compare existing data collection results.
+
+
+
+
+
+Click the New Project... link to create a new project, or click Open Project... to open an existing project (*.amplxeproj). Click Open Result to open a result file (*.amplxe).
+
+
+
+
+
+To open a recently collected result, click the required item in the Recent Results list. By default, each result name has an identifier of its analysis type (last two letters in the result name); for example, cc stands for Concurrency analysis. Hover over a result name in the list to see the full path to the result file.
+
+
+
+When a VTune Amplifier project is created, you may explore basic product mechanisms that help you analyze data:
+
+
+
+
+
+
+Toolbar. Use the toolbar to configure and control result collection. Click the  button to open/close the Project Navigator. Use the VTune Amplifier result tabs to manage result data. You can click the Configure Project toolbar button to view or change the result file location.
+
+
+
+
+
+Menu. Use the VTune Amplifier menu to control result collection, define and view project properties, and set various options:
+
+
+
+
+
+
+Project Navigator. Use to manage your project and collected analysis results.
+
+
+
+
+
+Viewpoint Selection. Click the (change) link to select a viewpoint, a pre-set configuration of windows/panes for an analysis result. For each analysis type, you can switch among several viewpoints to focus on particular performance metrics.
+
+
+
+
+
+Analysis Windows. Switch between window tabs to explore the analysis type configuration options and collected data provided by the selected viewpoint.
+
+
+
+
+
+Grouping. Use the Grouping drop-down menu to choose a granularity level for grouping data in the grid. Available groupings are based on the hierarchy of the program units and let you analyze the collected data from different perspectives; for example, if you are developing specific modules in an application and interested only in their performance, you may select the Module/Function/Call Stack grouping and view aggregated data per module functions.
+
+
+
+
+
+Filtering. VTune Amplifier provides two basic options for filtering the collected data: per object and per time regions. Use the filter toolbar to filter out the result data according to the selected object categories: Module, Process, Thread, and so on. To filter the data by a time region, select this region on the timeline, right-click and choose Filter In by Selection content menu option.
+
+This could be useful, for example, to get region specific data in the context summary for the HPC Performance Characterization or GPU Hotspots analyses.
+
+
+
+
+Parent topic: Launch Intel® VTune™ Amplifier
+
+
+See Also
+
+Launch VTune Amplifier
+Analyze Performance
+Control Data Collection
+Microsoft Visual Studio* Integration
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Launch Intel® VTune™ Amplifier
+
+
+
+
+Next
+Microsoft Visual Studio* Integration
+
+
+
+
+ 
+
+

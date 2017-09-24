@@ -1,0 +1,81 @@
+
+
+
+                          Search Directories                        
+
+
+
+
+Search directories are used to locate supporting files and display analysis information in relation to your source code.
+In some cases, the Intel® VTune™ Amplifier cannot locate the supporting user files necessary for displaying analysis information and you may need to configure additional search locations or override standard ones. This is required for .exe projects on Windows* created out of Visual Studio*, where no information about project directory structure is available, for C++ projects with a third party library for which you wish to define binaries/sources, or for the imported projects with the data collected remotely. When you run a remote data collection, the VTune Amplifier copies binary files from the target system to the host by default. You need to either copy symbol and source files to the host or mount a directory with these files.
+VTune Amplifier searches the directories in the particular order when finalizing the collected data. For the VTune Amplifier integrated into the Visual Studio* IDE, the search directories are defined by the Microsoft Visual Studio* C++ project properties.
+For successful module resolution, the VTune Amplifier needs to locate the following files:
+
+binaries (executables and dynamic libraries)
+
+
+symbols
+
+
+source files
+
+It automatically locates the files for C/C++ projects which are not moved after building the application and collecting the performance data.
+
+Configuring Search Directories
+To configure search directories:
+
+Click the  Configure Project toolbar button.
+The result configuration tab opens with the Analysis Target tab active.
+
+
+Click the Binary/Symbol Search or Source Search button on the right to open the corresponding dialog box and specify paths for symbol, binary and source files for the file resolution on the host.
+
+
+To add a new search directory in the Search Directories table, click the <Add new search location> row and type the path and name of the directory in the activated text box, or click the browse button on the right to select a directory from the list. For example, if your project was initially located in /work/projects/my_project on Linux* and then moved to /home/user/my_project_copy, you need to specify the /home/user/my_project_copy as a search directory for binary/symbol and source files.
+
+
+Note
+The search is non-recursive. Make sure to specify all required directories.
+
+If the search directories are not configured properly, you may see the following:
+
+In the Bottom-up or Top-down Tree pane, the module shows only one [Unknown] line instead of meaningful lines with function names.
+
+
+When you double-click a row to view the related source code, you get a Cannot find the source file window asking you to locate the source file.
+
+If the VTune Amplifier cannot locate symbol files for system modules, it may provide incomplete stack information in the Bottom-up/Top-down Tree panes and Call Stack pane. In this case, you may see [Unknown frame(s)] hotspots when attributing system layers to user code using the Call Stack Mode option on the filter toolbar. To avoid this for Windows targets, make sure to configure the Microsoft* symbol server or set the _NT_SYMBOL_PATH environment variable.
+
+
+
+See Also
+
+Dialog Box: Binary/Symbol Search
+Dialog Box: Source Search
+Problem: Unknown Frames
+Finalization
+Search Directories for Remote Linux* OS
+Search Directories for Android* Targets
+Specifying Search Directories from command line
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Set Up Project
+
+
+
+
+Next
+Search Order
+
+
+
+
+ 
+
+

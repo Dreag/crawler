@@ -1,0 +1,140 @@
+
+
+
+                          Getting Help                        
+
+
+
+
+
+Note
+Starting with Intel® VTune Amplifier 2018 version, product help, tutorials, and Release Notes are available online only from the Intel Software Documentation Library in the Intel Developer Zone (IDZ). You can also download an offline version of the product help either from IDZ or from the Intel Software Products Registration Center.
+
+Intel® VTune™ Amplifier provides multiple documentation formats and resources that help you better understand product functionality:
+
+Getting Started page
+
+
+Help
+
+
+Tutorials
+
+
+Videos and Technical Articles
+
+
+Intel Processor Event Reference
+
+
+Release Notes
+
+
+Installation Guides
+
+
+Accessing Documentation
+To access product documentation, do any of the following:
+
+For the cross-platform standalone user interface of the VTune Amplifier: Click the  menu button and select Help > documentation_format or click the Help button on the product toolbar.
+
+
+Windows* only:
+
+For the VTune Amplifier integrated into the Visual Studio user interface: Select Intel VTune Amplifier version > documentation_format from the Help menu or click the Help button on the toolbar.
+
+
+From the Start menu, select Program Files > Intel_Studio_version > Intel VTune Amplifier version > documentation_format > Intel VTune Amplifier documentation_format. For example: Program Files > Intel Parallel Studio XE 2018 > Intel VTune Amplifier 2018 > Documentation > Intel VTune Amplifier Documentation.
+
+
+
+Note
+
+You need an internet connection to access all VTune Amplifier documentation formats listed in the menu except for the Getting Started document that is available offline with the product.
+
+
+If you use Microsoft* Internet Explorer* or Microsoft Edge* browser for viewing a downloaded copy of the VTune Amplifier documentation, you may encounter the following known issues:
+
+Internet Explorer 11: No help topics show up when you select them in the TOC pane. Solution: add http://localhost to the list of trusted sites in the Tools > Internet Options > Security tab. You may remove the site when you finish viewing the documentation.
+
+
+Microsoft Edge: Help panes are truncated and a proper style sheet is not applied. Solution: click the Menu <…> and select Open with Internet Explorer.
+
+
+
+
+
+Getting Started Page
+VTune Amplifier provides a Getting Started page that includes a brief product introduction, provides a basic usage flow and links to additional resources, like Tutorials using a variety of tuning scenarios for sample applications. This page automatically opens after product installation. You can also access this page through the Help menu/toolbar button or Getting Stared link on the Welcome page of the standalone product version.
+
+
+VTune Amplifier Help
+VTune Amplifier Help system documents concepts, procedures, and reference information required to successfully work with the product. VTune Amplifier Help is available from the Intel Software Documentation Library on the web. Installed help opens in the default HTML browser available on your system.
+
+
+VTune Amplifier enables easy access to help topics on active GUI elements by providing context-sensitive help. The following context-sensitive help features are available on a product-specific basis:
+
+Learn more or F1 help: Click the Learn more hyperlink in the configuration pane or press F1 to get help for an active dialog box, property page, pane, or window.
+
+
+What's This Column: In the grid, right-click a performance metric column and select the What's This Column entry from the context menu to open a help topic for this particular metric. You can also view a lightweight metric description in the pop-up window when hovering over the column name.
+
+
+
+
+
+
+
+
+Tutorials and Cookbook
+VTune Amplifier provides 15-minute tutorials that show you how to use basic or advanced product features with a short sample. The tutorials provide an excellent foundation before you read the VTune Amplifier help. For details, see the Tutorials and Samples topic.
+For end-to-end analysis scenarios, explore the Intel® VTune™ Amplifier Performance Analysis Cookbook.
+
+
+Video and Technical Articles
+You can select the Video and Articles Help menu item to access the VTune Amplifier online training page with How-to videos and technical articles.
+
+
+Intel Processor Event Reference
+VTune Amplifier documentation includes Reference for Intel processor events. To access the Reference for a particular Intel processor/microarchitecture, select Intel Processor Event Reference option from the Help menu and choose the required microarchitecture/processor.
+You can also find it useful to explore Tuning Guides for Intel microarchitecture created by Intel architects and available on the web.
+
+
+Release Notes
+VTune Amplifier Release Notes provide the most up-to-date information about the product, including a product description, system requirements, technical support, and known limitations and issues.
+
+
+Installation Guides
+Installation Guides contain installation instructions for installing the product. Before installation, the Installation Guides are located at the root level (same level as the installation script/executable) of the installation download package. After installation they are available in the product documentation folder.
+
+
+
+Parent topic: Introduction
+
+
+See Also
+
+Tutorials and Samples
+Related Information
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Notational Conventions
+
+
+
+
+Next
+Product Website and Support
+
+
+
+
+ 
+
+

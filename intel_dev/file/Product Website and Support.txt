@@ -1,0 +1,78 @@
+
+
+
+                          Product Website and Support                        
+
+
+
+
+
+The following links provide information and support on Intel® VTune™ Amplifier:
+
+http://software.intel.com/en-us/intel-vtune-amplifier-xe
+Intel VTune Amplifier product page providing links to the product downloads, documentation, forums and other support resources.
+
+
+http://www.intel.com/software/products/
+At this site, you will find comprehensive product information, including:
+
+Links to each product, where you will find technical information such as white papers and articles
+
+
+Links to user forums
+
+
+Links to news and events
+
+
+
+http://software.intel.com/en-us/intel-parallel-studio-xe/
+Intel Parallel Studio XE support page, with links to support forums, startup help, knowledge base, and getting started video.
+
+
+http://software.intel.com/en-us/intel-system-studio/
+Intel System Studio support page, with links to support forums, startup help, knowledge base, and getting started video.
+
+
+http://software.intel.com/en-us/intel-sdp-products/
+Intel Software Development Products
+
+
+http://www.intel.com/software/products/support/
+Technical support information, to register your product, or to contact Intel.
+
+
+https://software.intel.com/en-us/articles/processor-specific-performance-analysis-papers
+Tuning guides and performance analysis papers.
+
+
+For additional support information, see the Technical Support section of your Release Notes.
+
+
+System Requirements
+For detailed information on system requirements, see the Release Notes.
+
+
+
+Parent topic: Introduction
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Getting Help
+
+
+
+
+Next
+Related Information
+
+
+
+
+ 
+
+

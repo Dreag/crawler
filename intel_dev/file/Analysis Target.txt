@@ -1,0 +1,184 @@
+
+
+
+                          Analysis Target                        
+
+
+
+
+A target is an executable file you analyze using the Intel® VTune™ Amplifier .
+VTune Amplifier supports the analysis targets that vary as follows:
+
+
+Target Type
+
+
+
+
+Application
+
+
+Process
+
+
+System
+
+
+Android Package
+
+
+
+
+Accessibility
+
+
+
+
+Accessible targets that can be configured and launched directly from the current host system either locally or via a remote connection
+
+
+Arbitrary targets that cannot be accessed from the current system. Use the VTune Amplifier to generate a command line analysis configuration according to the selected hardware platform and operating system, save it to the buffer, and later run this command line from the intended platform.
+
+
+
+
+Development Environment Integration
+
+
+
+
+Microsoft* Visual Studio*
+
+
+Eclipse*
+
+
+
+
+Target Platform
+
+
+
+
+Linux* OS
+
+
+local Windows* OS, including a Windows Store applications, and remote Windows OS for Energy analysis
+
+
+Android* OS
+
+
+FreeBSD*
+
+
+Intel® Xeon Phi® processors (code name: Knights Landing)
+
+
+
+
+Programming Language
+
+
+
+
+C/C++
+
+
+Fortran
+
+
+C#
+
+
+Java*
+
+
+JavaScript
+
+
+Python*
+
+
+Go*
+
+
+.NET*
+
+
+
+
+Programming Model
+
+
+
+
+Windows* API
+
+
+OpenMP* API
+
+
+Intel Cilk™ Plus
+
+
+OpenCL™ API
+
+
+Message Passing Interface (MPI)
+
+
+Intel Threading Building Blocks
+
+
+Intel Media SDK API
+
+
+
+
+Virtual Environment
+
+
+
+
+VMWare*
+
+
+Parallels*
+
+
+KVM*
+
+
+
+
+
+
+Parent topic: Set Up Analysis Target
+
+
+See Also
+
+Set Up Analysis Target
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Set Up Analysis Target
+
+
+
+
+Next
+Linux* Targets
+
+
+
+
+ 
+
+

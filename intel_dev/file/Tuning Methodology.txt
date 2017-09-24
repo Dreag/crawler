@@ -1,0 +1,47 @@
+
+
+
+                          Tuning Methodology                        
+
+
+
+
+When optimizing your code for parallel hardware, consider using the following iterative approach:
+
+Ignore the top two elements if you are not running on a cluster. There is not a recommended start point what to optimize first as this may vary. Pop up a level, look at all the potential optimizations and see where you can get the biggest gain for the least work. That is where you want to start.
+Intel provides the following performance analysis tools that can help you to go through this performance optimization workflow:
+
+Explore available performance analysis and tuning scenarios with VTune Amplifier provided in:
+
+Tutorials
+
+
+Performance Analysis Cookbook
+
+
+Profiling Scenarios for managed code and applications using Intel® runtime libraries
+
+
+Tuning Guides
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+What's New in Intel® VTune™ Amplifier
+
+
+
+
+Next
+Tutorials and Samples
+
+
+
+
+ 
+
+

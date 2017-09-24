@@ -1,0 +1,120 @@
+
+
+
+                          Configuring SSH Access for Remote Collection                        
+
+
+
+
+To collect data on a remote Linux* system, configure SSH to work in a password-less mode so it does not prompt for the password on each invocation.
+
+Configuring a Password-less SSH Access for Linux-to-Linux Collection
+For remote collection on a Linux target system, set up the password-less mode on the local Linux host as follows:
+
+Generate the key with an empty passphrase:
+host> ssh-keygen -t rsa
+
+
+Copy the key to target system:
+host> ssh-copy-id user@target
+Alternatively, if you do not have ssh-copy-id on your host system, use the following command:
+host> cat .ssh/id_rsa.pub | ssh user@target 'cat >> .ssh/authorized_keys'
+
+
+Verify that a password is not required anymore, for example:
+host> ssh user@target ls
+
+
+
+Configuring a Password-less SSH Access with Cygwin*
+For remote collection with Cygwin*, set up the password-less mode as follows:
+
+Set a path to the Cygwin bin directory:
+host> set $PATH=CYGWIN_ROOT\bin;%path%
+
+
+Create a user directory in CYGWIN_ROOT\home if it does not exist:
+host> mkdir $CYGWIN_ROOT\home\hostuser
+
+
+Generate the dsa key with an empty passphrase:
+host> ssh-keygen -t dsa
+
+
+Set correct permissions on the generated file:
+host> chmod 600 /home/hostuser/.ssh/id_dsa
+
+
+Make sure the .ssh directory exists in the home directory on your device/card. If it is missing, create it.
+host> ssh user@target mkdir -p .ssh
+
+
+Copy the generated id_dsa.pub file to the device/card:
+host> scp /home/user/.ssh/id_dsa.pub user@target:.ssh/authorized_keys
+
+In the command console, you can login to a remote target system without a password. VTune Amplifier GUI will try to find the ssh from environment. You may need to add CYGWIN_ROOT\bin into Windows PATH environment variable so that VTune Amplifier GUI can find the ssh command when doing the remote collection.
+
+
+Configuring a Password-less SSH Access with PuTTY*
+For remote collection with PuTTY* Plink, set up the password-less mode as follows:
+
+Add the path to the PuTTy tools directory to the System variables > PATH variable.
+
+
+Launch the PuTTY Key Generator using the puttygen.exe file.
+
+
+Click the Generate button (with all default settings intact) to generate keys.
+
+
+Save the private key to your local drive, for example: C:\temp\linux_private_key.ppk.
+
+
+Copy the public key from the PuTTY Key Generator window and paste it to the file in the shared Linux /home directory: ~/.ssh/authorized_keys.
+
+If the file is absent, create it and set the following permissions:
+chmod 0700 .ssh
+chmod 0644 .ssh/authorized_keys
+
+
+In the PuTTY Configuration window, make sure to have the following settings:
+
+
+
+Save the settings as the Default Settings session in PuTTY.
+
+
+Verify the connection and make sure the password is not required:
+host> plink.exe user@target ls
+
+
+
+
+Parent topic: Remote Linux* Target Setup
+
+
+See Also
+
+Remote Linux Target Setup
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Linux* System Setup for Remote Analysis
+
+
+
+
+Next
+Embedded Linux* System Setup for Remote Analysis
+
+
+
+
+ 
+
+

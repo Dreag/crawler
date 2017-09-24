@@ -1,0 +1,48 @@
+
+
+
+                          Eclipse* IDE Integration                        
+
+
+
+
+After Intel® System Studio installation, Intel® VTune™ Amplifier is integrated into the Eclipse* IDE. As a result, you get access to the VTune Amplifier standalone interface from the Eclipse toolbar and menu.
+To open the VTune Amplifier from the Eclipse environment, do one of the following:
+
+Click the Launch Intel VTune Amplifier button from the toolbar.
+
+
+Select Intel System Studio > VTune Amplifier > Launch VTune Amplifier menu option:
+
+
+
+
+Parent topic: Launch Intel® VTune™ Amplifier
+
+
+See Also
+
+Performance Analysis Setup
+Standalone VTune Amplifier Interface
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Microsoft Visual Studio* Integration
+
+
+
+
+Next
+macOS* Support
+
+
+
+
+ 
+
+

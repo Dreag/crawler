@@ -1,0 +1,146 @@
+
+
+
+                          Remote Linux* Target Setup                        
+
+
+
+
+Use the Intel® VTune™ Amplifier installed on the Windows*, Linux*, or macOS* host to analyze code performance on remote Linux systems.
+
+VTune Amplifier supports the following usage modes for remote analysis of Linux applications on regular and embedded systems:
+
+
+Remote CLI (amplxe-cl) or GUI (amplxe-gui) (recommended for regular and embedded systems)
+
+
+Native CLI with installing and running amplxe-cl directly on a remote Linux system
+
+
+Native SEP with sep (recommended for tiny embedded systems)
+
+
+
+
+Remote CLI and GUI Usage Mode
+Requirements for the target system: ~25 MB disk space
+This mode is recommended for most cross-development scenarios supported by the VTune Amplifier, especially if your target system is resource-constrained (insufficient disk space, memory, or CPU power) or if you use a highly customized Linux target system.
+To collect data on a remote Linux system:
+
+
+
+
+1.
+
+
+Install VTune Amplifier
+
+
+Install the full-scale VTune Amplifier product on the host system.
+
+
+2.
+
+
+Prepare your target system for analysis
+
+
+
+
+Set up a password-less SSH access to the target using RSA keys.
+
+
+Install the VTune Amplifier target package with data collectors on the target Linux system.
+
+Note
+If you choose to install the target package to a non-default location, make sure to specify the correct path either with the VTune Amplifier installation directory on the remote system option in the Analysis Target tab (GUI) or with the -target-install-dir option (CLI).
+
+
+
+Build the drivers on the host (if required), copy them to the target system and install the drivers.
+
+Note
+To build the sampling driver as RPM using build services as Open Build Service (OBS), use the sepdk.spec file located at <install_dir>/sepdk/src the directory.
+
+
+
+
+
+3.
+
+
+Configure and run remote analysis
+
+
+
+
+Specify your target application and remote system and make sure to specify search directories for symbol/source files required for finalization on the host.
+
+
+Choose an analysis type.
+
+
+Configure the analysis type.
+
+
+Run the analysis from the host.
+
+
+VTune Amplifier collects launches your application on the target, collects data, copies the analysis result and binary files to the host, and finalizes the analysis data.
+
+
+4.
+
+
+View results
+
+
+View the collected data on the host.
+
+
+
+
+
+Native Usage Mode
+Requirements for the target system: ~200 MB disk space.
+This mode is recommended for regular Linux target systems from supported operating systems listed in the product Release notes. In this mode, you install the full-scale VTune Amplifier product on the host system and install the command line interface of the VTune Amplifier, amplxe-cl, on the target system, which enables you to run native data collection directly on the target.
+The following figure shows an overview of the remote analysis that is run with amplxe-cl directly on the target system:
+
+In the native usage mode, workflow steps to configure and run analysis on a remote system are similar to the remote collectors mode.
+
+
+Native Sampling Collector (SEP) Usage Mode
+Sampling сollector (SEP) is a command-line tool for hardware event-based sampling analysis targeted for resource-restricted systems. The SEP package is delivered as part of the target package of the VTune Amplifier. The SEP package contains both sep utilities and the sepdk source code (for pax.ko and sep4_x.ko) to build the sampling drivers.
+To use SEP, you need just to extract the SEP package from system_studio_target.tgz file, build the driver and upload both driver and sep utilities to the target, and then collect the event-based sampling performance data in command line. See SEP_Users_Guide.pdf for more details.
+
+Note
+VTune Amplifier also provides the sepdk sources for building sampling drivers. This source code could be same as the source code provided in the SEP package, if the VTune Amplifier uses the same driver as SEP. VTune Amplifier sepdk sources also include the event-based stack sampling data collector that is not part of the SEP package.
+
+
+
+
+See Also
+
+Collecting Data on Remote Linux Systems from Command Line
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Profiling Container Targets
+
+
+
+
+Next
+Linux* System Setup for Remote Analysis
+
+
+
+
+ 
+
+

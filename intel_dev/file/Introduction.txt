@@ -1,0 +1,446 @@
+
+
+
+                          Introduction                        
+
+
+
+
+Intel VTune Amplifier is a performance analysis tool for users developing serial and multithreaded applications. VTune Amplifier helps you analyze the algorithm choices and identify where and how your application can benefit from available hardware resources.
+Use the VTune Amplifier to locate or determine the following:
+
+The most time-consuming (hot) functions in your application and/or on the whole system
+
+
+Sections of code that do not effectively utilize available processor time
+
+
+The best sections of code to optimize for sequential performance and for threaded performance
+
+
+Synchronization objects that affect the application performance
+
+
+Whether, where, and why your application spends time on input/output operations
+
+
+The performance impact of different synchronization methods, different numbers of threads, or different algorithms
+
+
+Thread activity and transitions
+
+
+Hardware-related issues in your code such as data sharing, cache misses, branch misprediction, and others
+
+VTune Amplifier can be installed on Windows*, macOS*, and Linux* platforms and used for analysis of local and remote target systems. Default installation directories are:
+
+Windows OS: [Program Files]\IntelSWTools\VTune Amplifier <version>
+
+
+Linux OS: /opt/intel/vtune_amplifier_version
+
+
+macOS: /Applications/Intel VTune Amplifier <version>.app
+
+On Windows systems, VTune Amplifier integrates into Microsoft Visual Studio* software and is also available as a standalone GUI client. On Linux and macOS systems, VTune Amplifier works exclusively as a standalone GUI client. On macOS, you can set up your project, run remote analysis, and view the data collection result on the host. Local macOS analysis is not supported. On all supported systems, you can use the command line interface (amplxe-cl) for collecting data and performing regression testing.
+Intel System Studio provides the Intel Energy Profiler analyzing power consumption of your application or system with the Intel SoC Watch command line utility. You can use the VTune Amplifier as a viewer for the Energy analysis by importing the collection results (*.sww1 for Windows OS /*.pwr for Android or Linux OS) into the GUI version. Standalone and Intel Parallel Studio version of the VTune Amplifier also supports import of the Intel SoC Watch results.
+
+Key Features
+This table summarizes availability of the key VTune Amplifier types of analysis per host and remote target platform:
+
+
+Analysis
+
+
+Windows Target
+
+
+Linux Target
+
+
+Android Target
+
+
+FreeBSD* Target
+
+
+Basic Hotspots
+
+
++
+
+
++
+
+
++
+
+ 
+
+Advanced Hotspots
+
+
++
+
+
++
+
+
++
+
+ 
+
+Concurrency analysis
+
+
++
+
+
++
+
+ 
+ 
+
+Locks and Waits analysis
+
+
++
+
+
++
+
+ 
+ 
+
+Remote analysis
+
+
++
+
+
++
+
+
++
+
+
++
+
+
+Analysis for targets running in containers
+
+ 
+
++
+
+ 
+ 
+
+IDE (Eclipse*/Visual Studio*)
+
+
++
+
+
++
+
+ 
+ 
+
+HPC Performance Characterization analysis
+
+
++
+
+
++
+
+ 
+ 
+
+General Exploration
+
+
++
+
+
++
+
+
++
+
+
++
+
+
+Memory Access analysis
+
+
++
+
+
++
+
+ 
+ 
+
+Memory Consumption analysis
+
+ 
+
++
+
+ 
+ 
+
+Disk I/O analysis
+
+
++¹
+
+
++
+
+ 
+ 
+
+System Overview analysis
+
+
++
+
+
++
+
+
++
+
+ 
+
+Custom analysis
+
+
++
+
+
++
+
+
++
+
+
++
+
+
+GPU analysis
+
+
++
+
+
++²
+
+
++
+
+ 
+
+OpenCL™ kernel analysis
+
+
++
+
+
++²
+
+ 
+ 
+
+Intel Media SDK program analysis
+
+ 
+
++²
+
+ 
+ 
+
+Java* code analysis
+
+
++
+
+
++
+
+
++
+
+ 
+
+.NET* code analysis
+
+
++
+
+ 
+ 
+ 
+
+Python* code analysis
+
+
++
+
+
++
+
+ 
+ 
+
+Go* application analysis
+
+
++³
+
+
++³
+
+ 
+ 
+
+OpenMP* analysis
+
+
++
+
+
++
+
+ 
+ 
+
+MPI analysis
+
+
++
+
+
++
+
+ 
+ 
+
+KVM Guest OS analysis
+
+ 
+
++
+
+ 
+ 
+
+Ftrace* events analysis
+
+ 
+
++
+
+
++
+
+ 
+
+Atrace* events analysis
+
+ 
+ 
+
++
+
+ 
+
+Energy analysis (visualization only)
+
+
++
+
+
++
+
+
++
+
+ 
+
+¹Preview only; ²Intel HD Graphics and Intel Iris™ Graphics only; ³EBS analysis only
+VTune Amplifier provides features that facilitate the analysis and interpretation of the results:
+
+Top-down tree analysis: Use to understand which execution flow in your application is more performance-critical.
+
+
+Timeline analysis: Analyze thread activity and the transitions between threads.
+
+
+ITT API analysis: Use the ITT API to mark significant transition points in your code and analyze performance per frame, task, and so on.
+
+
+Architecture diagram: Analyze GPU OpenCL™ applications by exploring the GPU hardware metrics per GPU architecture blocks.
+
+
+Source analysis: View source with performance data attributed per source line to explore possible causes of an issue.
+
+
+Comparison analysis: Compare performance analysis results for several application runs to localize the performance changes you got after optimization.
+
+
+Start data collection paused: Click the Start Paused button on the command bar to start the application without collecting performance data and click the Resume button to enable the collection at the right moment.
+
+
+Grouping: Group your data by different granularity in the grid view to analyze the problem from different angles.
+
+
+Viewpoints: Choose among preset configurations of windows and panes available for the analysis result. This helps focus on particular performance problems.
+
+
+Hot keys to start and stop the analysis: Use a batch file to create hot keys to start and stop a particular analysis.
+
+
+CAUTION
+Because the VTune Amplifier requires specific knowledge of assembly-level instructions, its analysis may not operate correctly if a program (target) is compiled to generate non-Intel architecture instructions. In this case, run the analysis with a target executable compiled to generate only Intel instructions. After you finish using the VTune Amplifier, you can use optimizing compiler options that generate non-Intel architecture instructions.
+
+
+
+
+See Also
+
+Getting Started
+Install VTune Amplifier
+Microsoft Visual Studio* Integration
+Standalone VTune Amplifier Interface
+Command Line Interface Support
+Using VTune Amplifier with a Virtual Machine
+Analyze Performance
+Troubleshooting
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Intel® VTune™ Amplifier 2018 Help
+
+
+
+
+Next
+What's New in Intel® VTune™ Amplifier
+
+
+
+
+ 
+
+

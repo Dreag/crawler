@@ -1,0 +1,162 @@
+
+
+
+                          Search Order                        
+
+
+
+
+When locating binary/symbol/source files, the Intel® VTune™ Amplifier searches the following directories, in the following order:
+
+Directory <result dir>\all<result dir>/all (recursively).
+
+
+Additional search directories that you defined for this project in the VTune Amplifier Source Search and Binary/Symbol Search dialog boxes.
+
+
+For local collection, absolute path.
+For remote collection, the VTune Amplifier searches its cache directory for modules copied from the remote system or tries to get the module from the remote system using the absolute path.
+For results copied from a different machine, make sure to copy all the necessary source, symbol, and binary files required for result finalization.
+
+For binaries, the path is captured in the result data files.
+
+
+For symbol files, the path is referenced in the binary file.
+
+
+For source files, the path is referenced in the symbol file.
+
+To locate the vmlinux file, the VTune Amplifier searches the following directories:
+
+/usr/lib/debug/lib/modules/`uname -r`/vmlinux
+
+
+/boot/vmlinuz-`uname -r`
+
+
+
+
+Search around the binary file.
+
+Search the directory of the corresponding binary file.
+
+
+Search the directory of the corresponding binary file and alter the name of the symbol file holding the initial extension (for example, app.dll + app_x86.pdb -> app.pdb).
+
+
+Search the .debug subdirectory of the corresponding binary file directory.
+
+
+
+
+Microsoft Visual Studio* search directories. All directories are considered as non-recursive. Directories may be specific to the selected build configuration and platform in time of collection.
+
+
+System directories:
+
+Binary files: %SYSTEMROOT%\system32\drivers (non-recursively)
+
+
+Symbol files:
+
+All directories specified in the _NT_SYMBOL_PATH environment variable (non-recursively). Symbol server paths are possible here as well as in step 2.
+
+
+srv*%SYSTEMROOT%\symbols (treated as a symbol server path)
+
+
+%SYSTEMROOT%\symbols\dll (non-recursively)
+
+
+
+
+
+System directories:
+
+Binary files: If the file to search is a bare name only (no full path, no extension), it is appended by the .ko extension before searching in the following directories:
+
+/lib/modules (non-recursively)
+
+
+/lib/modules/`uname -r`/kernel (recursively)
+
+
+
+
+Symbol files:
+
+/usr/lib/debug (non-recursively)
+
+
+/usr/lib/debug with appended path to the corresponding binary file (for example, /usr/lib/debug/usr/bin/ls.debug)
+
+
+
+
+Source files:
+
+/usr/src (non-recursively)
+
+
+/usr/src/linux-headers-`uname -r` (non-recursively)
+
+
+
+
+If the VTune Amplifier cannot find a file that is necessary for a certain operation, such as viewing source, it brings up a window enabling you to enter the location of the missing file.
+
+Note
+VTune Amplifier automatically applies recursive search to the <result dir>\all<result dir>/all directory and some system directories. Additional directories you specify in the project configuration are searched non-recursively.
+
+
+For non-recursive directories, the VTune Amplifier searches paths by merging the parts of the file path with the specified directory iteratively. For example, for the /aaa/bbb/ccc/filename.ext\aaa\bbb\ccc\filename.ext file:
+/specified/search/directory/aaa/bbb/ccc/filename.ext\specified\search\directory\aaa\bbb\ccc\filename.ext
+/specified/search/directory/bbb/ccc/filename.ext\specified\search\directory\bbb\ccc\filename.ext
+/specified/search/directory/ccc/filename.ext\specified\search\directory\ccc\filename.ext
+/specified/search/directory/filename.ext\specified\search\directory\filename.ext
+
+
+For recursive directories, the VTune Amplifier searches the same paths as for the non-recursive directory and, in addition, paths in all sub-directories up to the deepest available level. For example:
+/specified/search/directory/subdir1/filename.ext\specified\search\directory\subdir1\filename.ext
+/specified/search/directory/subdir1/sub…subdir1/filename.ext\specified\search\directory\subdir1\sub…subdir1\filename.ext
+...
+/specified/search/directory/subdir1/sub…subdirN/filename.ext\specified\search\directory\subdir1\sub…subdirN\filename.ext
+...
+/specified/search/directory/subdirN/filename.ext\specified\search\directory\subdirN\filename.ext
+
+For symbol server paths, symsrv.dll is used from product distributive. Custom symsrv.dll:s are not supported.
+
+
+
+
+Parent topic: Search Directories
+
+
+See Also
+
+Search Directories
+Window: Cannot find file type file
+Dialog Box: Binary/Symbol Search
+Dialog Box: Source Search
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Search Directories
+
+
+
+
+Next
+Set Up Analysis Target
+
+
+
+
+ 
+
+

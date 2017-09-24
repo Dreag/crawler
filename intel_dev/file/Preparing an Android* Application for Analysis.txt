@@ -1,0 +1,60 @@
+
+
+
+                          Preparing an Android* Application for Analysis                        
+
+
+
+
+Before starting an analysis with the VTune Amplifier, make sure your Android application is compiled with required settings:
+
+Compilation Settings
+Performance analysis is only useful on binaries that have been optimized and have symbols to attribute samples to source code. To achieve that:
+
+Compile your code with release level settings (for example, do not use the /O0 setting on GCC*).
+
+
+Do not set APP_OPTIM to debug in your Application.mk as this setting disables optimization (it uses /O0) when the compiler builds your binary.
+
+
+To run performance analysis (Basic Hotspots) on non-rooted devices, make sure to compile your code setting the debuggable attribute to true in AndroidManifest.xml.
+
+Note
+If your application is debuggable (android:debuggable="true"), the default setting will be debug instead of release. Make sure to override this by setting APP_OPTIM to release.
+
+
+By default, the Android NDK build process for Android applications using JNI creates a version of your .so files with symbols.
+The binaries with symbols included go to [ApplicationProjectDir]/obj/local/x86.
+The stripped binaries installed on the target Android system via the .apk file go to [ApplicationProjectDir]/libs/x86 . These versions of the binaries cannot be used to find source in the VTune Amplifier. However, you may collect data on the target system with these stripped binaries and then later use the binaries with symbols to do analysis (as long as it is an exact match).
+When the VTune Amplifier finishes collecting the data, it copies .so files from the device (which have had their symbols stripped). This allows the very basic functionality of associating samples to assembly code.
+
+
+
+Parent topic: Android* Targets
+
+
+See Also
+
+Collecting Data Remotely from Command Line
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Android* System Setup
+
+
+
+
+Next
+Analyze Unplugged Devices
+
+
+
+
+ 
+
+

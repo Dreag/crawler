@@ -1,0 +1,90 @@
+
+
+
+                          Notational Conventions                        
+
+
+
+
+The following conventions may be used in this document.
+
+
+Convention
+
+
+Explanation
+
+
+Example
+
+
+Italic
+
+
+Used for introducing new terms, denotation of terms, placeholders, or titles of manuals.
+
+
+The filename consists of the basename and the extension.
+For more information, refer to the Intel® Linker Manual.
+
+
+Bold
+
+
+Denotes GUI elements
+
+
+Click Cancel.
+
+
+>
+
+
+Indicates a menu item inside a menu.
+
+
+File > Close
+indicates to select Close from the File menu.
+
+
+Monospace
+
+
+Indicates directory paths and filenames, or text that can be part of source code.
+
+
+ippsapi.h
+\alt\include
+Use the okCreateObjs() function to...
+
+printf("hello, world\n");
+
+
+*
+An asterisk at the end of a word or name indicates it is a third-party product trademark.
+OpenMP*
+
+
+
+Parent topic: Introduction
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Tutorials and Samples
+
+
+
+
+Next
+Getting Help
+
+
+
+
+ 
+
+

@@ -1,0 +1,90 @@
+
+
+
+                          Related Information                        
+
+
+
+
+For better understanding of the performance data provided by the Intel® VTune™ Amplifier, you are highly recommended to explore additional resources on the web.
+
+Intel® Processor Information
+For the most updates, errata, and the latest information on Intel processors, explore the resources available at http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html. The following sections describe processor manuals for Intel 64, IA-32 architecture processors and for Intel Itanium® processors.
+Intel 64 and IA-32 Architectures Manuals
+The Intel 64 and IA-32 Architectures Software Developer's Manual consists of the following volumes that describe the architecture and programming environment of all Intel 64 and IA-32 architecture processors:
+
+
+Volume 1 describes the architecture and programming environment of processors supporting IA-32 and Intel 64 architectures.
+
+
+Volume 2 includes the full Instruction Set Reference, A-Z, in one volume. Describes the format of the instruction and provides reference pages for instructions.
+
+
+Volume 3 includes the full System Programming Guide, Parts 1, 2, and 3, in one volume. Describes the operating-system support environment of Intel 64 and IA-32 Architectures, including: memory management, protection, task management, interrupt and exception handling, multi-processor support, thermal and power management features, debugging, performance monitoring, system management mode, VMX instructions, and Intel Virtualization Technology (Intel VT).
+
+
+Intel 64 and IA-32 Architectures Software Developer's Manual Documentation Changes section describes bug fixes made to the Intel 64 and IA-32 Software Developer's Manual between versions.
+
+Note
+This Change Document applies to all Intel 64 and IA-32 Software Developer's Manual sets (combined volume set, 3 volume set and 7 volume set).
+
+
+
+Please refer to all volumes when evaluating your design needs.
+For more information on processor-specific performance analysis, explore articles and tuning guides available for download at http://software.intel.com/en-us/articles/processor-specific-performance-analysis-papers/.
+
+
+Multithreading
+You are strongly encouraged to read the following books for in-depth understanding of threading. Each book discusses general concepts of parallel programming by explaining a particular programming technology:
+
+
+Technology
+
+
+Resource
+
+
+Intel Threading Building Blocks
+
+
+Reinders, James. Intel Threading Building Blocks: Outfitting C++ for Multi-core Processor Parallelism. O'Reilly, July 2007 (http://oreilly.com/catalog/9780596514808/)
+
+
+OpenMP* technology
+
+
+Chapman, Barbara, Gabriele Jost, Ruud van der Pas, and David J. Kuck (foreword). Using OpenMP: Portable Shared Memory Parallel Programming. MIT Press, October 2007 (http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11387)
+
+
+Microsoft Win32* Threading
+
+
+Akhter, Shameem, and Jason Roberts. Multi-Core Programming: Increasing Performance through Software Multithreading, Intel Press, April 2006 (http://www.intel.com/intelpress/sum_mcp.htm).
+
+
+ 
+
+
+
+Parent topic: Introduction
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Product Website and Support
+
+
+
+
+Next
+Getting Started with Intel® VTune™ Amplifier
+
+
+
+
+ 
+
+

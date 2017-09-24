@@ -1,0 +1,238 @@
+
+
+
+                          Getting Started with Intel® VTune™ Amplifier                        
+
+
+
+
+Explore the key features provided with the VTune Amplifier across different platforms.
+
+Note
+Instructions provided below for the Linux* host are also applicable to the VTune Amplifier for macOS* host but for remote analysis targets only. Local target analysis on macOS is not supported. By default, the VTune Amplifier for macOS is installed at /Applications/Intel VTune Amplifier 2018.app.
+
+
+Get Started with the VTune Amplifier on Linux* or macOS*
+
+
+Prerequisites
+
+
+For system requirements, see the product Release Notes.
+
+
+For hardware event-based sampling analysis, make sure you have the sampling driver installed on the system you want to analyze. Note that for Linux targets the sampling driver detects the kernel update and automatically attempts to rebuild and load the driver at the boot time. If, for some reasons, the sampling driver cannot be installed, the VTune Amplifier automatically enables driverless Perf*-based collection providing limited event-based sampling analysis options.
+
+
+For remote analysis, set up your target Linux* or Android* system.
+
+
+
+
+Step 1: Start the VTune Amplifier
+
+Set up the environment variables:
+
+csh/tcsh users: source <install_dir>/amplxe-vars.csh
+
+
+bash users: source <install_dir>/amplxe-vars.sh
+
+By default, the <install_dir> is:
+
+For root users: /opt/intel/vtune_amplifier_2018
+
+
+For non-root users: $HOME/intel/vtune_amplifier_2018
+
+
+
+Launch the VTune Amplifier:
+
+For standalone GUI interface, run the amplxe-gui command.
+
+
+For command line interface, run the amplxe-cl command.
+
+
+
+
+
+Step 2: Set Up the Analysis Target
+
+Build your target application in the Release mode with all optimizations enabled.
+
+
+Create a VTune Amplifier project:
+
+Click the  menu button in the right corner and go to New > Project... .
+
+
+Specify the project name and location in the Create Project dialog box.
+
+
+
+In the Analysis Target tab, select a target system and an analysis target type.
+
+
+Configure your target: application location, parameters, and search directories (if required).
+
+
+
+
+Step 3: Configure Analysis
+
+Switch to the Analysis Type tab.
+
+
+From the left pane, select an analysis type applicable to your platform and configure analysis options in the right pane.
+
+Tip
+Use the Find Your Analysis guide, available from the VTune Amplifier Welcome screen, for help picking your starting point for analysis based on your use case.
+
+
+
+Click the Start button on the right to launch the analysis.
+
+
+
+
+Step 4: View and Analyze Performance Data
+When data collection completes, the VTune Amplifier opens the result in the default viewpoint, which is a preset configuration of windows for an analysis result. You may switch between different viewpoint to analyze the data from different perspectives using different sets of performance metrics.
+Start your analysis with the Summary window to get an overview of the application performance and then switch to other windows to explore the performance deeper at the granularity of function, source line and so on.
+
+
+
+Get Started with the VTune Amplifier on Windows*
+
+
+Prerequisites
+
+
+For system requirements, see the product Release Notes.
+
+
+For hardware event-based sampling analysis, make sure you have the sampling driver installed on the system you want to analyze. Note that for Linux targets the sampling driver detects the kernel update and automatically attempts to rebuild and load the driver at the boot time. If, for some reasons, the sampling driver cannot be installed, the VTune Amplifier automatically enables driverless Perf*-based collection providing limited event-based sampling analysis options.
+
+
+For remote performance analysis, set up your target Linux* or Android* system.
+
+
+
+
+Step 1: Start the VTune Amplifier
+
+Set up the environment variables with the amplxe-vars batch file. For example, if you installed the VTune Amplifier using the default directory, type: C:\[Program Files]\IntelSWTools\VTune Amplifier 2018\amplxe-vars.bat.
+Batch file displays the product name and the build number.
+
+
+Launch the VTune Amplifier:
+
+For standalone GUI interface, run the amplxe-gui command or open from the Start menu by selecting one of the following:
+
+On Windows 7:
+Intel Parallel Studio XE 2018 > Analyzers > VTune Amplifier 2018
+Intel System Studio 2018 for Windows Target > Analyzers > VTune Amplifier 2018
+Intel System Studio 2018 for Linux and Android Targets > Analyzers > Intel VTune Amplifier 2018
+Intel Media Studio 2018 > Analyzers > Intel VTune Amplifier 2018
+
+
+On Windows 8 and later:
+Intel Parallel Studio XE 2018 > VTune Amplifier 2018
+Intel System Studio 2018 for Windows Target > VTune Amplifier 2018
+Intel System Studio 2018 for Linux and Android Targets > Intel VTune Amplifier 2018
+Intel Media Studio 2018 > Intel VTune Amplifier 2018
+
+
+
+For command line interface, run the amplxe-cl command.
+
+
+
+
+
+
+
+For the VTune Amplifier integrated into Microsoft Visual Studio* IDE, open your solution in Visual Studio. The VTune Amplifier toolbar is automatically enabled and your Visual Studio project is set as an analysis target.
+
+
+
+
+Step 2: Set Up the Analysis Target
+
+Configure Microsoft Symbol Server and build your target application in the Release mode with all optimizations enabled.
+
+Create a VTune Amplifier project (standalone version only):
+
+Click the  menu button in the right corner and go to New > Project... .
+
+
+Specify the project name and location in the Create Project dialog box.
+
+
+
+In the Analysis Target tab, select a target system and an analysis target type.
+
+
+Сonfigure your target: application location, parameters and search directories (if required).
+
+In Visual Studio version, VTune Amplifier inherits the Visual Studio settings and uses the application generated for the selected project as your analysis target.
+
+
+
+Step 3: Configure Analysis
+
+Switch to the Analysis Type tab.
+
+
+From the left pane, select an analysis type applicable to your platform and configure analysis options in the right pane.
+
+Tip
+Use the Find Your Analysis guide, available from the VTune Amplifier Welcome screen, for help picking your starting point for analysis based on your use case.
+
+
+
+Click the Start button on the right to launch the analysis.
+
+
+
+
+Step 4: View and Analyze Performance Data
+When data collection completes, the VTune Amplifier opens the result in the default viewpoint, which is a preset configuration of windows for an analysis result. You may switch between different viewpoints to analyze the data from different perspectives using different sets of performance metrics.
+Start your analysis with the Summary window to get an overview of the application performance and then switch to other windows to explore the performance deeper at the granularity of function, source line and so on.
+
+
+
+
+See Also
+
+Introduction
+Remote Linux* Target Setup
+Android* Targets
+Energy Analysis Workflow with Intel Energy Profiler
+Standalone VTune Amplifier Graphical Interface
+Command Line Interface
+Eclipse* Integration
+Microsoft Visual Studio* Integration
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Related Information
+
+
+
+
+Next
+Install Intel® VTune™ Amplifier
+
+
+
+
+ 
+
+

@@ -1,0 +1,74 @@
+
+
+
+                          Search Directories for Android* Targets                        
+
+
+
+
+For accurate module resolution and source analysis of your Android* application, make sure to specify search paths for binary and source files when configuring performance analysis:
+
+from command line, use the --search-dir/--source-search-dir options; for example:
+
+host>./amplxe-cl --collect advanced-hotspots -r system_wide_r@@@ --search-dir ~/AndroidOS_repo/out/target/product/ctp_pr1/symbols/
+
+
+
+from GUI, use the Dialog Box: Binary/Symbol Search and Dialog Box: Source Search dialog boxes
+
+If you have not set the project search directories at the time of collection or import, you will not be able to open the source code. Only Assembly view will be available for source analysis.
+Consider the following when adding search paths:
+
+By default, the VTune Amplifier pulls many binaries from the target device.
+
+
+The Kernel [vmlinux] is one file that does not contain symbols on the target device. Typically it is located in [AndroidOSBuildDir]/out/target/product/[your target]/linux/kernel/vmlinux.
+
+
+Many operating system binaries with symbols are located in either [AndroidOSBuildDir]/out/target/product/[your target]/symbols, or [AndroidOSBuildDir]/out/target/product/[your target]/obj.
+
+
+Application binaries with symbols are located in [AndroidAppBuildDir]/obj/local/x86.
+
+
+Application source files for the C/C++ modules are usually located in [AndroidAppBuildDir]/jni , not in [AndroidAppBuildDir]/src (where the Java *source files are). Some third-party software in Android does not provide binaries with symbols. You must contact the third party to get a version of the binaries with symbols.
+
+
+You can see if a binary has symbols by using the file command in Linux and make sure that it says not stripped.
+
+ file MyBinary.ext
+MyBinary.ext: ELF 32-bit LSB shared object, Intel 80386, version 1
+(SYSV), dynamically linked, not stripped
+
+
+
+
+Parent topic: Android* Targets
+
+
+See Also
+
+Search Directories
+Collecting Data Remotely on Android* from Command Line
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Analyze Unplugged Devices
+
+
+
+
+Next
+Managed Code Profiling
+
+
+
+
+ 
+
+

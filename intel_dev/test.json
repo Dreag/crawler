@@ -1,0 +1,4997 @@
+{
+  "Pane: Options - General": [
+    "/en-us/vtune-amplifier-help-pane-options-general",
+    {
+      "Pane: Options - General": "/en-us/vtune-amplifier-help-pane-options-general"
+    }
+  ],
+  "MS Switches": [
+    "/en-us/vtune-amplifier-help-ms-switches"
+  ],
+  "Installing the Sampling Drivers for Windows* Targets": [
+    "/en-us/vtune-amplifier-help-installing-the-sampling-drivers-for-windows-targets"
+  ],
+  "Window: NC Device States - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-nc-device-states-platform-power-analysis",
+    {
+      "Window: NC Device States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-nc-device-states-platform-power-analysis"
+    }
+  ],
+  "FreeBSD* Targets": [
+    "/en-us/vtune-amplifier-help-freebsd-targets"
+  ],
+  "Grouping and Filtering Data": [
+    "/en-us/vtune-amplifier-help-grouping-and-filtering-data",
+    {
+      "Grouping and Filtering Data": "/en-us/vtune-amplifier-help-grouping-and-filtering-data"
+    }
+  ],
+  "Manage Data Views": [
+    "/en-us/vtune-amplifier-help-manage-data-views",
+    {
+      "Manage Data Views": "/en-us/vtune-amplifier-help-manage-data-views"
+    },
+    {
+      "Viewpoint": "/en-us/vtune-amplifier-help-viewpoint"
+    },
+    {
+      "Synchronization Between Bottom-up and Top-down Tree Windows": "/en-us/vtune-amplifier-help-synchronization-between-bottom-up-and-top-down-tree-windows"
+    },
+    {
+      "Viewing Stacks": "/en-us/vtune-amplifier-help-viewing-stacks"
+    },
+    {
+      "Grouping and Filtering Data": "/en-us/vtune-amplifier-help-grouping-and-filtering-data"
+    },
+    {
+      "Viewing Data on Inline Functions": "/en-us/vtune-amplifier-help-viewing-data-on-inline-functions"
+    },
+    {
+      "Searching for Data": "/en-us/vtune-amplifier-help-searching-for-data"
+    },
+    {
+      "Managing Result Files": "/en-us/vtune-amplifier-help-managing-result-files"
+    },
+    {
+      "VTune Amplifier Filenames and Locations": "/en-us/vtune-amplifier-help-filenames-and-locations"
+    },
+    {
+      "Viewing Source": "/en-us/vtune-amplifier-help-viewing-source"
+    },
+    {
+      "Comparing Results": "/en-us/vtune-amplifier-help-comparing-results"
+    },
+    {
+      "Comparing Source Code": "/en-us/vtune-amplifier-help-comparing-source-code"
+    },
+    {
+      "Viewing Comparison Data": "/en-us/vtune-amplifier-help-viewing-comparison-data"
+    },
+    {
+      "Comparison Summary": "/en-us/vtune-amplifier-help-comparison-summary"
+    },
+    {
+      "Bottom-up Comparison": "/en-us/vtune-amplifier-help-bottom-up-comparison"
+    },
+    {
+      "Top-down Tree Comparison": "/en-us/vtune-amplifier-help-top-down-tree-comparison"
+    }
+  ],
+  "Running cpugpu-concurrency Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-cpugpu-concurrency-analysis-from-the-command-line"
+  ],
+  "Grid Controls": [
+    "/en-us/vtune-amplifier-help-grid-controls"
+  ],
+  "Wake-ups": [
+    "/en-us/vtune-amplifier-help-wake-ups",
+    {
+      "Wake-ups": "/en-us/vtune-amplifier-help-wake-ups"
+    }
+  ],
+  "EU Array Stalled/Idle": [
+    "/en-us/vtune-amplifier-help-eu-array-stalled/idle"
+  ],
+  "Running runsa/runss Custom Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-runsa/runss-custom-analysis-from-the-command-line"
+  ],
+  "Spin Time": [
+    "/en-us/vtune-amplifier-help-spin-time",
+    {
+      "Spin Time": "/en-us/vtune-amplifier-help-spin-time"
+    },
+    {
+      "Imbalance or Serial Spinning": "/en-us/vtune-amplifier-help-imbalance-or-serial-spinning-1"
+    },
+    {
+      "Lock Contention": "/en-us/vtune-amplifier-help-lock-contention-1"
+    }
+  ],
+  "Serial CPU Time": [
+    "/en-us/vtune-amplifier-help-serial-cpu-time"
+  ],
+  "CPU Utilization (OpenMP)": [
+    "/en-us/vtune-amplifier-help-cpu-utilization-openmp"
+  ],
+  "Average CPU Usage": [
+    "/en-us/vtune-amplifier-help-average-cpu-usage"
+  ],
+  "Using a Custom Collector": [
+    "/en-us/vtune-amplifier-help-using-a-custom-collector",
+    {
+      "Using a Custom Collector": "/en-us/vtune-amplifier-help-using-a-custom-collector"
+    }
+  ],
+  "sort-asc": [
+    "/en-us/vtune-amplifier-help-sort-asc",
+    {
+      "sort-asc": "/en-us/vtune-amplifier-help-sort-asc"
+    }
+  ],
+  "Memory Usage View": [
+    "/en-us/vtune-amplifier-help-memory-usage-view",
+    {
+      "Memory Usage View": "/en-us/vtune-amplifier-help-memory-usage-view"
+    }
+  ],
+  "Android* Targets": [
+    "/en-us/vtune-amplifier-help-android-targets",
+    {
+      "Android* Targets": "/en-us/vtune-amplifier-help-android-targets"
+    },
+    {
+      "Preparing an Android* Application for Analysis": "/en-us/vtune-amplifier-help-preparing-an-android-application-for-analysis"
+    },
+    {
+      "Search Directories for Android* Targets": "/en-us/vtune-amplifier-help-search-directories-for-android-targets"
+    }
+  ],
+  "Android Device - Profile System Target Type": [
+    "/en-us/vtune-amplifier-help-android-device-profile-system-target-type"
+  ],
+  "Window: SC Device States - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-sc-device-states-platform-power-analysis",
+    {
+      "Window: SC Device States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-sc-device-states-platform-power-analysis"
+    }
+  ],
+  "Linux* System Setup for Remote Analysis": [
+    "/en-us/vtune-amplifier-help-linux-system-setup-for-remote-analysis"
+  ],
+  "Option Descriptions and General Rules": [
+    "/en-us/vtune-amplifier-help-option-descriptions-and-general-rules",
+    {
+      "Option Descriptions and General Rules": "/en-us/vtune-amplifier-help-option-descriptions-and-general-rules"
+    }
+  ],
+  "Error Message: Cannot Open Data": [
+    "/en-us/vtune-amplifier-help-error-message-cannot-open-data"
+  ],
+  "Running Energy Analysis with Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-intel-energy-analysis",
+    {
+      "Running Energy Analysis with Intel® VTune™ Amplifier": "/en-us/vtune-amplifier-help-intel-energy-analysis"
+    }
+  ],
+  "Total Time in C0 State": [
+    "/en-us/vtune-amplifier-help-total-time-in-c0-state",
+    {
+      "Total Time in C0 State": "/en-us/vtune-amplifier-help-total-time-in-c0-state"
+    }
+  ],
+  "Instrumentation and Tracing Technology APIs": [
+    "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-apis",
+    {
+      "Instrumentation and Tracing Technology APIs": "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-apis"
+    },
+    {
+      "Basic Usage and Configuration": "/en-us/vtune-amplifier-help-basic-usage-and-configuration"
+    },
+    {
+      "Configuring Your Build System": "/en-us/vtune-amplifier-help-configuring-your-build-system"
+    },
+    {
+      "Attaching ITT APIs to a Launched Application": "/en-us/vtune-amplifier-help-attaching-itt-apis-to-a-launched-application"
+    },
+    {
+      "Instrumenting Your Application": "/en-us/vtune-amplifier-help-instrumenting-your-application"
+    },
+    {
+      "Minimizing ITT API Overhead": "/en-us/vtune-amplifier-help-minimizing-itt-api-overhead"
+    },
+    {
+      "Instrumentation and Tracing Technology API Reference": "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-api-reference"
+    },
+    {
+      "Domain API": "/en-us/vtune-amplifier-help-domain-api"
+    },
+    {
+      "String Handle API": "/en-us/vtune-amplifier-help-string-handle-api"
+    },
+    {
+      "Collection Control API": "/en-us/vtune-amplifier-help-collection-control-api"
+    },
+    {
+      "Thread Naming API": "/en-us/vtune-amplifier-help-thread-naming-api"
+    },
+    {
+      "Task API": "/en-us/vtune-amplifier-help-task-api"
+    },
+    {
+      "Frame API": "/en-us/vtune-amplifier-help-frame-api"
+    },
+    {
+      "User-Defined Synchronization API": "/en-us/vtune-amplifier-help-user-defined-synchronization-api"
+    },
+    {
+      "Event API": "/en-us/vtune-amplifier-help-event-api"
+    }
+  ],
+  "Locks and Waits Analysis": [
+    "/en-us/vtune-amplifier-help-locks-and-waits-analysis",
+    {
+      "Locks and Waits Analysis": "/en-us/vtune-amplifier-help-locks-and-waits-analysis"
+    }
+  ],
+  "Inactive Time": [
+    "/en-us/vtune-amplifier-help-inactive-time"
+  ],
+  "DRAM Self Refresh": [
+    "/en-us/vtune-amplifier-help-dram-self-refresh",
+    {
+      "DRAM Self Refresh": "/en-us/vtune-amplifier-help-dram-self-refresh"
+    }
+  ],
+  "Reporting Problems from the Command Line": [
+    "/en-us/vtune-amplifier-help-reporting-problems-from-the-command-line",
+    {
+      "Reporting Problems from the Command Line": "/en-us/vtune-amplifier-help-reporting-problems-from-the-command-line"
+    }
+  ],
+  "Execution Stalls": [
+    "/en-us/vtune-amplifier-help-execution-stalls",
+    {
+      "Execution Stalls": "/en-us/vtune-amplifier-help-execution-stalls"
+    }
+  ],
+  "Menu: Intel VTune Amplifier": [
+    "/en-us/vtune-amplifier-help-menu",
+    {
+      "Menu: Intel VTune Amplifier": "/en-us/vtune-amplifier-help-menu"
+    }
+  ],
+  "Reduction": [
+    "/en-us/vtune-amplifier-help-reduction-1",
+    {
+      "Reduction": "/en-us/vtune-amplifier-help-reduction-1"
+    }
+  ],
+  "Untyped Reads Coalescence": [
+    "/en-us/vtune-amplifier-help-untyped-reads-coalescence"
+  ],
+  "Front-End Bandwidth": [
+    "/en-us/vtune-amplifier-help-front-end-bandwidth",
+    {
+      "Front-End Bandwidth": "/en-us/vtune-amplifier-help-front-end-bandwidth"
+    }
+  ],
+  "Problem: Same Functions Are Compared As Different Instances": [
+    "/en-us/vtune-amplifier-help-problem-same-functions-are-compared-as-different-instances"
+  ],
+  "Event API": [
+    "/en-us/vtune-amplifier-help-event-api",
+    {
+      "Event API": "/en-us/vtune-amplifier-help-event-api"
+    }
+  ],
+  "Importing Results from the Command Line": [
+    "/en-us/vtune-amplifier-help-importing-results-from-the-command-line",
+    {
+      "Importing Results from the Command Line": "/en-us/vtune-amplifier-help-importing-results-from-the-command-line"
+    }
+  ],
+  "Preparing an Android* Application for Analysis": [
+    "/en-us/vtune-amplifier-help-preparing-an-android-application-for-analysis",
+    {
+      "Preparing an Android* Application for Analysis": "/en-us/vtune-amplifier-help-preparing-an-android-application-for-analysis"
+    }
+  ],
+  "Enabling Intel® VTune™ Amplifier Analysis on a KVM or XEN Project* Guest System": [
+    "/en-us/vtune-amplifier-help-on-kvm-or-xen-project-system"
+  ],
+  "General Retirement": [
+    "/en-us/vtune-amplifier-help-general-retirement",
+    {
+      "General Retirement": "/en-us/vtune-amplifier-help-general-retirement"
+    }
+  ],
+  "Problem: Unknown Critical Error Due to Disabled Loopback Interface": [
+    "/en-us/vtune-amplifier-help-problem-unknown-critical-error-due-to-disabled-loopback-interface"
+  ],
+  "Error Message: Symbol File Is Not Found": [
+    "/en-us/vtune-amplifier-help-error-message-symbol-file-is-not-found"
+  ],
+  "Window: Sample Count - Hardware Events": [
+    "/en-us/vtune-amplifier-help-window-sample-count-hardware-events"
+  ],
+  "L3 Bound": [
+    "/en-us/vtune-amplifier-help-l3-bound",
+    {
+      "L3 Bound": "/en-us/vtune-amplifier-help-l3-bound"
+    },
+    {
+      "Contested Accesses": "/en-us/vtune-amplifier-help-contested-accesses"
+    },
+    {
+      "Data Sharing": "/en-us/vtune-amplifier-help-data-sharing"
+    },
+    {
+      "L3 Latency": "/en-us/vtune-amplifier-help-l3-latency"
+    },
+    {
+      "LLC Hit": "/en-us/vtune-amplifier-help-llc-hit"
+    }
+  ],
+  "L1I Stall Cycles": [
+    "/en-us/vtune-amplifier-help-l1i-stall-cycles",
+    {
+      "L1I Stall Cycles": "/en-us/vtune-amplifier-help-l1i-stall-cycles"
+    }
+  ],
+  "Core Bound": [
+    "/en-us/vtune-amplifier-help-core-bound",
+    {
+      "Core Bound": "/en-us/vtune-amplifier-help-core-bound"
+    }
+  ],
+  "ring-buffer": [
+    "/en-us/vtune-amplifier-help-ring-buffer"
+  ],
+  "user-data-dir": [
+    "/en-us/vtune-amplifier-help-user-data-dir"
+  ],
+  "Contested Accesses": [
+    "/en-us/vtune-amplifier-help-contested-accesses",
+    {
+      "Contested Accesses": "/en-us/vtune-amplifier-help-contested-accesses"
+    }
+  ],
+  "Window: Correlate Metrics - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-correlate-metrics-platform-power-analysis",
+    {
+      "Window: Correlate Metrics - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-correlate-metrics-platform-power-analysis"
+    }
+  ],
+  "Loads Blocked by Store Forwarding": [
+    "/en-us/vtune-amplifier-help-loads-blocked-by-store-forwarding"
+  ],
+  "Viewing Data on Inline Functions": [
+    "/en-us/vtune-amplifier-help-viewing-data-on-inline-functions",
+    {
+      "Viewing Data on Inline Functions": "/en-us/vtune-amplifier-help-viewing-data-on-inline-functions"
+    }
+  ],
+  "Dialog Box: Binary/Symbol Search": [
+    "/en-us/vtune-amplifier-help-dialog-box-binary/symbol-search",
+    {
+      "Dialog Box: Binary/Symbol Search": "/en-us/vtune-amplifier-help-dialog-box-binary/symbol-search"
+    }
+  ],
+  "stack-size": [
+    "/en-us/vtune-amplifier-help-stack-size"
+  ],
+  "S0ix States": [
+    "/en-us/vtune-amplifier-help-s0ix-states",
+    {
+      "S0ix States": "/en-us/vtune-amplifier-help-s0ix-states"
+    }
+  ],
+  "Toolbar: Source/Assembly": [
+    "/en-us/vtune-amplifier-help-toolbar-source/assembly",
+    {
+      "Toolbar: Source/Assembly": "/en-us/vtune-amplifier-help-toolbar-source/assembly"
+    }
+  ],
+  "report-knob": [
+    "/en-us/vtune-amplifier-help-report-knob"
+  ],
+  "Minimizing ITT API Overhead": [
+    "/en-us/vtune-amplifier-help-minimizing-itt-api-overhead",
+    {
+      "Minimizing ITT API Overhead": "/en-us/vtune-amplifier-help-minimizing-itt-api-overhead"
+    }
+  ],
+  "MPI Rank on the Critical Path": [
+    "/en-us/vtune-amplifier-help-mpi-rank-on-the-critical-path"
+  ],
+  "allow-multiple-runs": [
+    "/en-us/vtune-amplifier-help-allow-multiple-runs"
+  ],
+  "Memory Bandwidth": [
+    "/en-us/vtune-amplifier-help-memory-bandwidth-1",
+    {
+      "Memory Bandwidth": "/en-us/vtune-amplifier-help-memory-bandwidth-1"
+    }
+  ],
+  "Hardware Event Sample Count": [
+    "/en-us/vtune-amplifier-help-hardware-event-sample-count",
+    {
+      "Hardware Event Sample Count": "/en-us/vtune-amplifier-help-hardware-event-sample-count"
+    }
+  ],
+  "Viewing Command Line Results in the GUI": [
+    "/en-us/vtune-amplifier-help-viewing-command-line-results-in-the-gui",
+    {
+      "Viewing Command Line Results in the GUI": "/en-us/vtune-amplifier-help-viewing-command-line-results-in-the-gui"
+    }
+  ],
+  "Running advanced-hotspots Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-advanced-hotspots-analysis-from-the-command-line"
+  ],
+  "% of Packed SIMD Instructions": [
+    "/en-us/vtune-amplifier-help-of-packed-simd-instructions"
+  ],
+  "Thread Naming API": [
+    "/en-us/vtune-amplifier-help-thread-naming-api",
+    {
+      "Thread Naming API": "/en-us/vtune-amplifier-help-thread-naming-api"
+    }
+  ],
+  "Counters API": [
+    "/en-us/vtune-amplifier-help-counters-api"
+  ],
+  "Re-finalizing Results": [
+    "/en-us/vtune-amplifier-help-re-finalizing-results"
+  ],
+  "Analyze Energy Usage": [
+    "/en-us/vtune-amplifier-help-analyze-energy-usage",
+    {
+      "Running Energy Analysis with Intel® VTune™ Amplifier": "/en-us/vtune-amplifier-help-intel-energy-analysis"
+    }
+  ],
+  "% of 256-bit": [
+    "/en-us/vtune-amplifier-help-of-256-bit"
+  ],
+  "Problem: No GPU Usage Data Is Collected": [
+    "/en-us/vtune-amplifier-help-problem-no-gpu-usage-data-is-collected"
+  ],
+  "Window: Summary - Hotspots by Thread Concurrency": [
+    "/en-us/vtune-amplifier-help-window-summary-hotspots-by-thread-concurrency"
+  ],
+  "Configuring Yocto Project* and Intel® VTune™ Amplifier with the Linux* Target Package": [
+    "/en-us/vtune-amplifier-help-configure-yocto-project-with-linux-target-package"
+  ],
+  "Choosing the Color Scheme": [
+    "/en-us/vtune-amplifier-help-choosing-the-color-scheme"
+  ],
+  "Examples of CSV Format and Imported Data": [
+    "/en-us/vtune-amplifier-help-examples-of-csv-format-and-imported-data",
+    {
+      "Examples of CSV Format and Imported Data": "/en-us/vtune-amplifier-help-examples-of-csv-format-and-imported-data"
+    }
+  ],
+  "Minimizing Collection Overhead": [
+    "/en-us/vtune-amplifier-help-minimizing-collection-overhead",
+    {
+      "Minimizing Collection Overhead": "/en-us/vtune-amplifier-help-minimizing-collection-overhead"
+    }
+  ],
+  "Total Time in S0 State": [
+    "/en-us/vtune-amplifier-help-total-time-in-s0-state",
+    {
+      "Total Time in S0 State": "/en-us/vtune-amplifier-help-total-time-in-s0-state"
+    }
+  ],
+  "Timer Resolution": [
+    "/en-us/vtune-amplifier-help-timer-resolution",
+    {
+      "Timer Resolution": "/en-us/vtune-amplifier-help-timer-resolution"
+    }
+  ],
+  "Divider": [
+    "/en-us/vtune-amplifier-help-divider",
+    {
+      "Divider": "/en-us/vtune-amplifier-help-divider"
+    }
+  ],
+  "Intel® VTune™ Amplifier Command Line Interface": [
+    "/en-us/vtune-amplifier-help-command-line-interface",
+    {
+      "Intel® VTune™ Amplifier Command Line Interface": "/en-us/vtune-amplifier-help-command-line-interface"
+    },
+    {
+      "amplxe-cl Actions": "/en-us/vtune-amplifier-help-amplxe-cl-actions"
+    },
+    {
+      "Running Command Line Analysis": "/en-us/vtune-amplifier-help-running-command-line-analysis"
+    },
+    {
+      "Working with Results from the Command Line": "/en-us/vtune-amplifier-help-working-with-results-from-the-command-line"
+    },
+    {
+      "Viewing Command Line Results in the GUI": "/en-us/vtune-amplifier-help-viewing-command-line-results-in-the-gui"
+    },
+    {
+      "Importing Results from the Command Line": "/en-us/vtune-amplifier-help-importing-results-from-the-command-line"
+    },
+    {
+      "Callstacks Report": "/en-us/vtune-amplifier-help-callstacks-report"
+    },
+    {
+      "Difference Report": "/en-us/vtune-amplifier-help-difference-report"
+    },
+    {
+      "Filtering and Grouping Reports": "/en-us/vtune-amplifier-help-filtering-and-grouping-reports"
+    },
+    {
+      "Command Line Interface Reference": "/en-us/vtune-amplifier-help-command-line-interface-reference"
+    },
+    {
+      "Option Descriptions and General Rules": "/en-us/vtune-amplifier-help-option-descriptions-and-general-rules"
+    },
+    {
+      "app-working-dir": "/en-us/vtune-amplifier-help-app-working-dir"
+    },
+    {
+      "call-stack-mode": "/en-us/vtune-amplifier-help-call-stack-mode-1"
+    },
+    {
+      "command": "/en-us/vtune-amplifier-help-command"
+    },
+    {
+      "cumulative-threshold-percent": "/en-us/vtune-amplifier-help-cumulative-threshold-percent"
+    },
+    {
+      "custom-collector": "/en-us/vtune-amplifier-help-custom-collector"
+    },
+    {
+      "data-limit": "/en-us/vtune-amplifier-help-data-limit"
+    },
+    {
+      "format": "/en-us/vtune-amplifier-help-format"
+    },
+    {
+      "help": "/en-us/vtune-amplifier-help-help"
+    },
+    {
+      "import": "/en-us/vtune-amplifier-help-import"
+    },
+    {
+      "inline-mode": "/en-us/vtune-amplifier-help-inline-mode"
+    },
+    {
+      "knob": "/en-us/vtune-amplifier-help-knob"
+    },
+    {
+      "limit": "/en-us/vtune-amplifier-help-limit"
+    },
+    {
+      "loop-mode": "/en-us/vtune-amplifier-help-loop-mode"
+    },
+    {
+      "no-summary": "/en-us/vtune-amplifier-help-no-summary"
+    },
+    {
+      "report-width": "/en-us/vtune-amplifier-help-report-width"
+    },
+    {
+      "result-dir": "/en-us/vtune-amplifier-help-result-dir"
+    },
+    {
+      "show-as": "/en-us/vtune-amplifier-help-show-as"
+    },
+    {
+      "sort-asc": "/en-us/vtune-amplifier-help-sort-asc"
+    },
+    {
+      "sort-desc": "/en-us/vtune-amplifier-help-sort-desc"
+    },
+    {
+      "source-object": "/en-us/vtune-amplifier-help-source-object"
+    },
+    {
+      "target-install-dir": "/en-us/vtune-amplifier-help-target-install-dir"
+    },
+    {
+      "target-tmp-dir": "/en-us/vtune-amplifier-help-target-tmp-dir"
+    },
+    {
+      "target-duration-type": "/en-us/vtune-amplifier-help-target-duration-type"
+    },
+    {
+      "target-pid": "/en-us/vtune-amplifier-help-target-pid"
+    },
+    {
+      "target-process": "/en-us/vtune-amplifier-help-target-process"
+    },
+    {
+      "time-filter": "/en-us/vtune-amplifier-help-time-filter"
+    },
+    {
+      "version": "/en-us/vtune-amplifier-help-version"
+    },
+    {
+      "Reporting Problems from the Command Line": "/en-us/vtune-amplifier-help-reporting-problems-from-the-command-line"
+    }
+  ],
+  "iJIT_IsProfilingActive": [
+    "/en-us/vtune-amplifier-help-ijit-isprofilingactive",
+    {
+      "iJIT_IsProfilingActive": "/en-us/vtune-amplifier-help-ijit-isprofilingactive"
+    }
+  ],
+  "GPU Memory Texture Read Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-gpu-memory-texture-read-bandwidth-gb/sec",
+    {
+      "GPU Memory Texture Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-texture-read-bandwidth-gb/sec"
+    }
+  ],
+  "Local - Launch Application Target Type": [
+    "/en-us/vtune-amplifier-help-local-launch-application-target-type"
+  ],
+  "Managing Result Files": [
+    "/en-us/vtune-amplifier-help-managing-result-files",
+    {
+      "Managing Result Files": "/en-us/vtune-amplifier-help-managing-result-files"
+    },
+    {
+      "VTune Amplifier Filenames and Locations": "/en-us/vtune-amplifier-help-filenames-and-locations"
+    }
+  ],
+  "Scheduling": [
+    "/en-us/vtune-amplifier-help-scheduling-1",
+    {
+      "Scheduling": "/en-us/vtune-amplifier-help-scheduling-1"
+    }
+  ],
+  "L1D Replacement Percentage": [
+    "/en-us/vtune-amplifier-help-l1d-replacement-percentage",
+    {
+      "L1D Replacement Percentage": "/en-us/vtune-amplifier-help-l1d-replacement-percentage"
+    }
+  ],
+  "Callstacks Report": [
+    "/en-us/vtune-amplifier-help-callstacks-report",
+    {
+      "Callstacks Report": "/en-us/vtune-amplifier-help-callstacks-report"
+    }
+  ],
+  "Intel® Xeon Phi™ Processor (Code Name: Knights Landing) Targets": [
+    "/en-us/vtune-amplifier-help-intel-xeon-phi-processor-code-name-knights-landing-targets"
+  ],
+  "source-object": [
+    "/en-us/vtune-amplifier-help-source-object",
+    {
+      "source-object": "/en-us/vtune-amplifier-help-source-object"
+    }
+  ],
+  "Cycles of 0 Ports Utilized": [
+    "/en-us/vtune-amplifier-help-cycles-of-0-ports-utilized",
+    {
+      "Cycles of 0 Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-0-ports-utilized"
+    }
+  ],
+  "Split Loads": [
+    "/en-us/vtune-amplifier-help-split-loads",
+    {
+      "Split Loads": "/en-us/vtune-amplifier-help-split-loads"
+    }
+  ],
+  "Problem: Information Collected via ITT API Is Not Available When Attaching to a Process": [
+    "/en-us/vtune-amplifier-help-error-no-itt-api-data-in-attach-mode"
+  ],
+  "LLC Miss": [
+    "/en-us/vtune-amplifier-help-llc-miss",
+    {
+      "LLC Miss": "/en-us/vtune-amplifier-help-llc-miss"
+    }
+  ],
+  "Context Menus: Source/Assembly Window": [
+    "/en-us/vtune-amplifier-help-context-menus-source/assembly-window",
+    {
+      "Context Menus: Source/Assembly Window": "/en-us/vtune-amplifier-help-context-menus-source/assembly-window"
+    }
+  ],
+  "Window: System Sleep States - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-system-sleep-states-platform-power-analysis",
+    {
+      "Window: System Sleep States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-system-sleep-states-platform-power-analysis"
+    }
+  ],
+  "Imbalance or Serial Spinning": [
+    "/en-us/vtune-amplifier-help-imbalance-or-serial-spinning-1",
+    {
+      "Imbalance or Serial Spinning": "/en-us/vtune-amplifier-help-imbalance-or-serial-spinning-1"
+    }
+  ],
+  "Local": [
+    "/en-us/vtune-amplifier-help-local",
+    {
+      "Local": "/en-us/vtune-amplifier-help-local"
+    }
+  ],
+  "Lock Latency": [
+    "/en-us/vtune-amplifier-help-lock-latency"
+  ],
+  "Problem: Analysis of the .NET* Application Fails": [
+    "/en-us/vtune-amplifier-help-problem-analysis-of-the-net-application-fails"
+  ],
+  "group-by": [
+    "/en-us/vtune-amplifier-help-group-by"
+  ],
+  "(Info) LSD Coverage": [
+    "/en-us/vtune-amplifier-help-info-lsd-coverage"
+  ],
+  "Analysis Types": [
+    "/en-us/vtune-amplifier-help-analysis-types",
+    {
+      "Algorithm Analysis": "/en-us/vtune-amplifier-help-algorithm-analysis"
+    },
+    {
+      "Basic Hotspots Analysis for CPU Usage Issues": "/en-us/vtune-amplifier-help-basic-hotspots-analysis"
+    },
+    {
+      "Advanced Hotspots Analysis": "/en-us/vtune-amplifier-help-advanced-hotspots-analysis"
+    },
+    {
+      "Locks and Waits Analysis": "/en-us/vtune-amplifier-help-locks-and-waits-analysis"
+    },
+    {
+      "Microarchitecture Analysis": "/en-us/vtune-amplifier-help-microarchitecture-analysis"
+    },
+    {
+      "General Exploration Analysis for Hardware Issues": "/en-us/vtune-amplifier-help-general-exploration-analysis"
+    },
+    {
+      "General Exploration View": "/en-us/vtune-amplifier-help-general-exploration-view"
+    },
+    {
+      "Hardware Issues View": "/en-us/vtune-amplifier-help-hardware-issues-view"
+    },
+    {
+      "Memory Usage View": "/en-us/vtune-amplifier-help-memory-usage-view"
+    },
+    {
+      "TSX Exploration Analysis for Transactional Aborts": "/en-us/vtune-amplifier-help-tsx-exploration-analysis"
+    },
+    {
+      "TSX Hotspots Analysis Inside Transactions": "/en-us/vtune-amplifier-help-tsx-hotspots-analysis"
+    },
+    {
+      "Platform Analysis": "/en-us/vtune-amplifier-help-platform-analysis"
+    },
+    {
+      "CPU/GPU Concurrency Analysis": "/en-us/vtune-amplifier-help-cpu/gpu-concurrency-analysis"
+    },
+    {
+      "GPU OpenCL™ Application Analysis View": "/en-us/vtune-amplifier-help-gpu-opencl-application-analysis-view"
+    }
+  ],
+  "LLC Hit": [
+    "/en-us/vtune-amplifier-help-llc-hit",
+    {
+      "LLC Hit": "/en-us/vtune-amplifier-help-llc-hit"
+    }
+  ],
+  "import": [
+    "/en-us/vtune-amplifier-help-import",
+    {
+      "import": "/en-us/vtune-amplifier-help-import"
+    }
+  ],
+  "Data Collection Limit": [
+    "/en-us/vtune-amplifier-help-data-collection-limit"
+  ],
+  "trace-mpi": [
+    "/en-us/vtune-amplifier-help-trace-mpi"
+  ],
+  "Using Intel® VTune™ Amplifier with a Virtual Machine": [
+    "/en-us/vtune-amplifier-help-on-virtual-machine"
+  ],
+  "Problem: Stack in the Top-Down Tree Window Is Incorrect": [
+    "/en-us/vtune-amplifier-help-problem-stack-in-the-top-down-tree-window-is-incorrect"
+  ],
+  "Eclipse* IDE Integration": [
+    "/en-us/vtune-amplifier-help-eclipse-ide-integration",
+    {
+      "Eclipse* IDE Integration": "/en-us/vtune-amplifier-help-eclipse-ide-integration"
+    }
+  ],
+  "Instance Count": [
+    "/en-us/vtune-amplifier-help-instance-count-1",
+    {
+      "Instance Count": "/en-us/vtune-amplifier-help-instance-count-1"
+    }
+  ],
+  "BACLEARS": [
+    "/en-us/vtune-amplifier-help-baclears"
+  ],
+  "kvm-guest-modules": [
+    "/en-us/vtune-amplifier-help-kvm-guest-modules"
+  ],
+  "call-stack-mode": [
+    "/en-us/vtune-amplifier-help-call-stack-mode-1",
+    {
+      "call-stack-mode": "/en-us/vtune-amplifier-help-call-stack-mode-1"
+    }
+  ],
+  "Stitching Stacks for Intel® Threading Building Blocks or OpenMP* Analysis": [
+    "/en-us/vtune-amplifier-help-stitching-stacks-for-intel-threading-building-blocks-or-openmp-analysis"
+  ],
+  "Generating Command Line Reports": [
+    "/en-us/vtune-amplifier-help-generating-command-line-reports",
+    {
+      "Callstacks Report": "/en-us/vtune-amplifier-help-callstacks-report"
+    },
+    {
+      "Difference Report": "/en-us/vtune-amplifier-help-difference-report"
+    },
+    {
+      "Filtering and Grouping Reports": "/en-us/vtune-amplifier-help-filtering-and-grouping-reports"
+    }
+  ],
+  "Clockticks Vs. Pipeline Slots Based Metrics": [
+    "/en-us/vtune-amplifier-help-clockticks-vs-pipeline-slots-based-metrics"
+  ],
+  "L2 Bound": [
+    "/en-us/vtune-amplifier-help-l2-bound",
+    {
+      "L2 Bound": "/en-us/vtune-amplifier-help-l2-bound"
+    }
+  ],
+  "Running general-exploration Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-general-exploration-analysis-from-the-command-line"
+  ],
+  "FP Vector": [
+    "/en-us/vtune-amplifier-help-fp-vector"
+  ],
+  "Custom Analysis Options - User-mode Sampling and Tracing": [
+    "/en-us/vtune-amplifier-help-custom-analysis-options-user-mode-sampling-and-tracing",
+    {
+      "Custom Analysis Options - User-mode Sampling and Tracing": "/en-us/vtune-amplifier-help-custom-analysis-options-user-mode-sampling-and-tracing"
+    }
+  ],
+  "Window: Summary - Hotspots": [
+    "/en-us/vtune-amplifier-help-window-summary-hotspots",
+    {
+      "Window: Summary - Hotspots": "/en-us/vtune-amplifier-help-window-summary-hotspots"
+    }
+  ],
+  "LLC Miss Count": [
+    "/en-us/vtune-amplifier-help-llc-miss-count"
+  ],
+  "L2 Replacement Percentage": [
+    "/en-us/vtune-amplifier-help-l2-replacement-percentage",
+    {
+      "L2 Replacement Percentage": "/en-us/vtune-amplifier-help-l2-replacement-percentage"
+    }
+  ],
+  "mrte-mode": [
+    "/en-us/vtune-amplifier-help-mrte-mode"
+  ],
+  "Hardware Events Report": [
+    "/en-us/vtune-amplifier-help-hardware-events-report"
+  ],
+  "source-search-dir": [
+    "/en-us/vtune-amplifier-help-source-search-dir"
+  ],
+  "Untyped Memory Write Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-untyped-memory-write-bandwidth-gb/sec",
+    {
+      "Untyped Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-untyped-memory-write-bandwidth-gb/sec"
+    }
+  ],
+  "Go* Applications Support": [
+    "/en-us/vtune-amplifier-help-go-applications-support"
+  ],
+  "Configuring Your Build System": [
+    "/en-us/vtune-amplifier-help-configuring-your-build-system",
+    {
+      "Configuring Your Build System": "/en-us/vtune-amplifier-help-configuring-your-build-system"
+    }
+  ],
+  "FP Assists": [
+    "/en-us/vtune-amplifier-help-fp-assists"
+  ],
+  "Memory Consumption and Allocations View": [
+    "/en-us/vtune-amplifier-help-memory-consumption-and-allocations-view"
+  ],
+  "Window: Core Wake-ups - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-core-wake-ups-platform-power-analysis",
+    {
+      "Window: Core Wake-ups - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-core-wake-ups-platform-power-analysis"
+    }
+  ],
+  "result-dir": [
+    "/en-us/vtune-amplifier-help-result-dir",
+    {
+      "result-dir": "/en-us/vtune-amplifier-help-result-dir"
+    }
+  ],
+  "analyze-system": [
+    "/en-us/vtune-amplifier-help-analyze-system"
+  ],
+  "Self Time and Total Time": [
+    "/en-us/vtune-amplifier-help-self-time-and-total-time",
+    {
+      "Self Time and Total Time": "/en-us/vtune-amplifier-help-self-time-and-total-time"
+    }
+  ],
+  "User Interface Reference": [
+    "/en-us/vtune-amplifier-help-user-interface-reference",
+    {
+      "User Interface Reference": "/en-us/vtune-amplifier-help-user-interface-reference"
+    },
+    {
+      "Context Menu: Grid": "/en-us/vtune-amplifier-help-context-menu-grid"
+    },
+    {
+      "Context Menus: Call Stack Pane": "/en-us/vtune-amplifier-help-context-menus-call-stack-pane"
+    },
+    {
+      "Context Menus: Project Navigator": "/en-us/vtune-amplifier-help-context-menus-project-navigator"
+    },
+    {
+      "Context Menus: Source/Assembly Window": "/en-us/vtune-amplifier-help-context-menus-source/assembly-window"
+    },
+    {
+      "Dialog Box: Binary/Symbol Search": "/en-us/vtune-amplifier-help-dialog-box-binary/symbol-search"
+    },
+    {
+      "Dialog Box: Source Search": "/en-us/vtune-amplifier-help-dialog-box-source-search"
+    },
+    {
+      "Menu: Customize Grouping": "/en-us/vtune-amplifier-help-menu-customize-grouping"
+    },
+    {
+      "Menu: Intel VTune Amplifier": "/en-us/vtune-amplifier-help-menu"
+    },
+    {
+      "Android Device - Launch Android Package Target Type": "/en-us/vtune-amplifier-help-android-device-launch-android-package-target-type"
+    },
+    {
+      "Local - Attach to Process Target Type": "/en-us/vtune-amplifier-help-local-attach-to-process-target-type"
+    },
+    {
+      "Local - Profile System Target Type": "/en-us/vtune-amplifier-help-local-profile-system-target-type"
+    },
+    {
+      "Remote Linux - Launch Application Target Type": "/en-us/vtune-amplifier-help-remote-linux-launch-application-target-type"
+    },
+    {
+      "Pane: Assembly": "/en-us/vtune-amplifier-help-pane-assembly"
+    },
+    {
+      "Pane: Call Stack": "/en-us/vtune-amplifier-help-pane-call-stack"
+    },
+    {
+      "Pane: Options - General": "/en-us/vtune-amplifier-help-pane-options-general"
+    },
+    {
+      "Pane: Options - Result Location": "/en-us/vtune-amplifier-help-pane-options-result-location"
+    },
+    {
+      "Pane: Options - Source/Assembly": "/en-us/vtune-amplifier-help-pane-options-source/assembly"
+    },
+    {
+      "Project Navigator": "/en-us/vtune-amplifier-help-project-navigator"
+    },
+    {
+      "Pane: Source": "/en-us/vtune-amplifier-help-pane-source"
+    },
+    {
+      "Pane: Timeline": "/en-us/vtune-amplifier-help-pane-timeline"
+    },
+    {
+      "Toolbar: Command": "/en-us/vtune-amplifier-help-toolbar-command"
+    },
+    {
+      "Toolbar: Filter": "/en-us/vtune-amplifier-help-toolbar-filter"
+    },
+    {
+      "Toolbar: Source/Assembly": "/en-us/vtune-amplifier-help-toolbar-source/assembly"
+    },
+    {
+      "Toolbar: VTune Amplifier": "/en-us/vtune-amplifier-help-toolbar"
+    },
+    {
+      "Window: Bandwidth - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-bandwidth-platform-power-analysis"
+    },
+    {
+      "Window: Bottom-up": "/en-us/vtune-amplifier-help-window-bottom-up"
+    },
+    {
+      "Window: Bottom-up - Hotspots/Hotspots by CPU Usage": "/en-us/vtune-amplifier-help-window-bottom-up-hotspots/hotspots-by-cpu-usage"
+    },
+    {
+      "Window: Caller/Callee": "/en-us/vtune-amplifier-help-window-caller/callee"
+    },
+    {
+      "Window: Cannot Find <file type> File": "/en-us/vtune-amplifier-help-window-cannot-find-file-type-file"
+    },
+    {
+      "Window: Collection Log": "/en-us/vtune-amplifier-help-window-collection-log"
+    },
+    {
+      "Window: Compare Results": "/en-us/vtune-amplifier-help-window-compare-results"
+    },
+    {
+      "Window: Core Wake-ups - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-core-wake-ups-platform-power-analysis"
+    },
+    {
+      "Window: Correlate Metrics - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-correlate-metrics-platform-power-analysis"
+    },
+    {
+      "Window: CPU C/P States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-cpu-c/p-states-platform-power-analysis"
+    },
+    {
+      "Window: Debug": "/en-us/vtune-amplifier-help-window-debug"
+    },
+    {
+      "Window: Event Count - Hardware Events": "/en-us/vtune-amplifier-help-window-event-count-hardware-events"
+    },
+    {
+      "Window: Graphics - Hotspots": "/en-us/vtune-amplifier-help-window-graphics-hotspots"
+    },
+    {
+      "Window: Graphics C/P States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-graphics-c/p-states-platform-power-analysis"
+    },
+    {
+      "Window: Import": "/en-us/vtune-amplifier-help-window-import"
+    },
+    {
+      "Window: NC Device States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-nc-device-states-platform-power-analysis"
+    },
+    {
+      "Window: Platform": "/en-us/vtune-amplifier-help-window-platform"
+    },
+    {
+      "Window: Power - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-power-platform-power-analysis"
+    },
+    {
+      "Window: SC Device States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-sc-device-states-platform-power-analysis"
+    },
+    {
+      "Window: Summary - Hotspots": "/en-us/vtune-amplifier-help-window-summary-hotspots"
+    },
+    {
+      "Window: System Sleep States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-system-sleep-states-platform-power-analysis"
+    },
+    {
+      "Window: Temperature/Thermal Sample - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-temperature/thermal-sample-platform-power-analysis"
+    },
+    {
+      "Window: Timer Resolution - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-timer-resolution-platform-power-analysis"
+    },
+    {
+      "Window: Top-down Tree": "/en-us/vtune-amplifier-help-window-top-down-tree"
+    },
+    {
+      "Window: Uncore Event Count - Hardware Events": "/en-us/vtune-amplifier-help-window-uncore-event-count-hardware-events"
+    },
+    {
+      "Window: Wakelocks - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-wakelocks-platform-power-analysis"
+    }
+  ],
+  "collect": [
+    "/en-us/vtune-amplifier-help-collect"
+  ],
+  "time-filter": [
+    "/en-us/vtune-amplifier-help-time-filter",
+    {
+      "time-filter": "/en-us/vtune-amplifier-help-time-filter"
+    }
+  ],
+  "Finalization": [
+    "/en-us/vtune-amplifier-help-finalization",
+    {
+      "Finalization": "/en-us/vtune-amplifier-help-finalization"
+    }
+  ],
+  "TSX Hotspots Analysis Inside Transactions": [
+    "/en-us/vtune-amplifier-help-tsx-hotspots-analysis",
+    {
+      "TSX Hotspots Analysis Inside Transactions": "/en-us/vtune-amplifier-help-tsx-hotspots-analysis"
+    }
+  ],
+  "Task Analysis": [
+    "/en-us/vtune-amplifier-help-task-analysis",
+    {
+      "Task Analysis": "/en-us/vtune-amplifier-help-task-analysis"
+    }
+  ],
+  "FP Scalar": [
+    "/en-us/vtune-amplifier-help-fp-scalar"
+  ],
+  "Sample After Value": [
+    "/en-us/vtune-amplifier-help-sample-after-value"
+  ],
+  "Pane: Timeline": [
+    "/en-us/vtune-amplifier-help-pane-timeline",
+    {
+      "Pane: Timeline": "/en-us/vtune-amplifier-help-pane-timeline"
+    }
+  ],
+  "Cache Bound": [
+    "/en-us/vtune-amplifier-help-cache-bound"
+  ],
+  "CPU Frequency Ratio": [
+    "/en-us/vtune-amplifier-help-cpu-frequency-ratio",
+    {
+      "CPU Frequency Ratio": "/en-us/vtune-amplifier-help-cpu-frequency-ratio"
+    }
+  ],
+  "Compiler Switches for Performance Analysis on Linux* Targets": [
+    "/en-us/vtune-amplifier-help-compiler-switches-for-performance-analysis-on-linux-targets"
+  ],
+  "Android* System Setup": [
+    "/en-us/vtune-amplifier-help-android-system-setup"
+  ],
+  "Limiting Data Collection": [
+    "/en-us/vtune-amplifier-help-limiting-data-collection"
+  ],
+  "Cycles of 3+ Ports Utilized": [
+    "/en-us/vtune-amplifier-help-cycles-of-3-ports-utilized",
+    {
+      "Cycles of 3+ Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-3-ports-utilized"
+    }
+  ],
+  "4K Aliasing": [
+    "/en-us/vtune-amplifier-help-4k-aliasing",
+    {
+      "4K Aliasing": "/en-us/vtune-amplifier-help-4k-aliasing"
+    }
+  ],
+  "MUX Reliability": [
+    "/en-us/vtune-amplifier-help-mux-reliability",
+    {
+      "MUX Reliability": "/en-us/vtune-amplifier-help-mux-reliability"
+    }
+  ],
+  "EU 2 FPU Pipelines Active": [
+    "/en-us/vtune-amplifier-help-eu-2-fpu-pipelines-active",
+    {
+      "EU 2 FPU Pipelines Active": "/en-us/vtune-amplifier-help-eu-2-fpu-pipelines-active"
+    }
+  ],
+  "Window: Graphics C/P States - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-graphics-c/p-states-platform-power-analysis",
+    {
+      "Window: Graphics C/P States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-graphics-c/p-states-platform-power-analysis"
+    }
+  ],
+  "Context Menus: Call Stack Pane": [
+    "/en-us/vtune-amplifier-help-context-menus-call-stack-pane",
+    {
+      "Context Menus: Call Stack Pane": "/en-us/vtune-amplifier-help-context-menus-call-stack-pane"
+    }
+  ],
+  "resume-after": [
+    "/en-us/vtune-amplifier-help-resume-after"
+  ],
+  "Compiler Switches for Performance Analysis on Windows* Targets": [
+    "/en-us/vtune-amplifier-help-compiler-switches-for-performance-analysis-on-windows-targets"
+  ],
+  "Error Message: Installing and Starting VTSS++ Driver...FAILED": [
+    "/en-us/vtune-amplifier-help-error-message-installing-and-starting-vtss-driver-failed"
+  ],
+  "Concurrency Analysis of Threads Parallelism": [
+    "/en-us/vtune-amplifier-help-concurrency-analysis"
+  ],
+  "Difference Report": [
+    "/en-us/vtune-amplifier-help-difference-report",
+    {
+      "Difference Report": "/en-us/vtune-amplifier-help-difference-report"
+    }
+  ],
+  "Tuning Applications Using a Top-down Microarchitecture Analysis Method": [
+    "/en-us/vtune-amplifier-help-tuning-applications-using-a-top-down-microarchitecture-analysis-method"
+  ],
+  "Error Message: PMU Resources May Be Made Unavailable Either by the BIOS or Hypervisor": [
+    "/en-us/vtune-amplifier-help-error-pmu-resources-unavailable"
+  ],
+  "Debug Information for Windows* System Libraries": [
+    "/en-us/vtune-amplifier-help-debug-information-for-windows-system-libraries"
+  ],
+  "Problem: Inaccurate Sum in the Grid": [
+    "/en-us/vtune-amplifier-help-problem-inaccurate-sum-in-the-grid"
+  ],
+  "Toolbar: Command": [
+    "/en-us/vtune-amplifier-help-toolbar-command",
+    {
+      "Toolbar: Command": "/en-us/vtune-amplifier-help-toolbar-command"
+    }
+  ],
+  "EU Array Active": [
+    "/en-us/vtune-amplifier-help-eu-array-active",
+    {
+      "EU Array Active": "/en-us/vtune-amplifier-help-eu-array-active"
+    }
+  ],
+  "Set Up Analysis Target": [
+    "/en-us/vtune-amplifier-help-set-up-analysis-target",
+    {
+      "Analysis Target": "/en-us/vtune-amplifier-help-analysis-target"
+    },
+    {
+      "Remote Linux* Target Setup": "/en-us/vtune-amplifier-help-remote-linux-target-setup"
+    },
+    {
+      "Configuring SSH Access for Remote Collection": "/en-us/vtune-amplifier-help-configuring-ssh-access-for-remote-collection"
+    },
+    {
+      "Android* Targets": "/en-us/vtune-amplifier-help-android-targets"
+    },
+    {
+      "Preparing an Android* Application for Analysis": "/en-us/vtune-amplifier-help-preparing-an-android-application-for-analysis"
+    },
+    {
+      "Search Directories for Android* Targets": "/en-us/vtune-amplifier-help-search-directories-for-android-targets"
+    }
+  ],
+  "Windows Store Applications Support": [
+    "/en-us/vtune-amplifier-help-windows-store-applications-support"
+  ],
+  "target-process": [
+    "/en-us/vtune-amplifier-help-target-process",
+    {
+      "target-process": "/en-us/vtune-amplifier-help-target-process"
+    }
+  ],
+  "Collecting Data on Remote Linux* Systems from the Command Line": [
+    "/en-us/vtune-amplifier-help-collecting-data-on-remote-linux-systems-from-the-command-line"
+  ],
+  "Running tsx-exploration Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-tsx-exploration-analysis-from-the-command-line"
+  ],
+  "JIT Profiling API": [
+    "/en-us/vtune-amplifier-help-jit-profiling-api",
+    {
+      "JIT Profiling API": "/en-us/vtune-amplifier-help-jit-profiling-api"
+    },
+    {
+      "Using JIT Profiling API": "/en-us/vtune-amplifier-help-using-jit-profiling-api"
+    },
+    {
+      "JIT Profiling API Reference": "/en-us/vtune-amplifier-help-jit-profiling-api-reference"
+    },
+    {
+      "iJIT_NotifyEvent": "/en-us/vtune-amplifier-help-ijit-notifyevent"
+    },
+    {
+      "iJIT_IsProfilingActive": "/en-us/vtune-amplifier-help-ijit-isprofilingactive"
+    },
+    {
+      "iJIT_ GetNewMethodID": "/en-us/vtune-amplifier-help-ijit-getnewmethodid"
+    }
+  ],
+  "Loop Type": [
+    "/en-us/vtune-amplifier-help-loop-type"
+  ],
+  "Context Menus: Project Navigator": [
+    "/en-us/vtune-amplifier-help-context-menus-project-navigator",
+    {
+      "Context Menus: Project Navigator": "/en-us/vtune-amplifier-help-context-menus-project-navigator"
+    }
+  ],
+  "OpenMP* Potential Gain": [
+    "/en-us/vtune-amplifier-help-openmp-potential-gain",
+    {
+      "OpenMP* Potential Gain": "/en-us/vtune-amplifier-help-openmp-potential-gain"
+    }
+  ],
+  "Basic Hotspots Analysis for CPU Usage Issues": [
+    "/en-us/vtune-amplifier-help-basic-hotspots-analysis",
+    {
+      "Basic Hotspots Analysis for CPU Usage Issues": "/en-us/vtune-amplifier-help-basic-hotspots-analysis"
+    }
+  ],
+  "Android Device - Launch Android Package Target Type": [
+    "/en-us/vtune-amplifier-help-android-device-launch-android-package-target-type",
+    {
+      "Android Device - Launch Android Package Target Type": "/en-us/vtune-amplifier-help-android-device-launch-android-package-target-type"
+    }
+  ],
+  "HPC Performance Characterization View": [
+    "/en-us/vtune-amplifier-help-hpc-performance-characterization-view"
+  ],
+  "Disk Input and Output Analysis": [
+    "/en-us/vtune-amplifier-help-disk-input-and-output-analysis"
+  ],
+  "Algorithm Analysis": [
+    "/en-us/vtune-amplifier-help-algorithm-analysis",
+    {
+      "Algorithm Analysis": "/en-us/vtune-amplifier-help-algorithm-analysis"
+    },
+    {
+      "Basic Hotspots Analysis for CPU Usage Issues": "/en-us/vtune-amplifier-help-basic-hotspots-analysis"
+    },
+    {
+      "Advanced Hotspots Analysis": "/en-us/vtune-amplifier-help-advanced-hotspots-analysis"
+    },
+    {
+      "Locks and Waits Analysis": "/en-us/vtune-amplifier-help-locks-and-waits-analysis"
+    }
+  ],
+  "Sampler Busy": [
+    "/en-us/vtune-amplifier-help-sampler-busy"
+  ],
+  "Running memory-consumption Analysis from Command Line": [
+    "/en-us/vtune-amplifier-help-running-memory-consumption-analysis-from-command-line"
+  ],
+  "L2 Hit Rate": [
+    "/en-us/vtune-amplifier-help-l2-hit-rate"
+  ],
+  "SP GFLOPS": [
+    "/en-us/vtune-amplifier-help-sp-gflops"
+  ],
+  "GPU Metrics Reference": [
+    "/en-us/vtune-amplifier-help-gpu-metrics-reference",
+    {
+      "GPU Metrics Reference": "/en-us/vtune-amplifier-help-gpu-metrics-reference"
+    },
+    {
+      "Computing Threads Started": "/en-us/vtune-amplifier-help-computing-threads-started"
+    },
+    {
+      "EU 2 FPU Pipelines Active": "/en-us/vtune-amplifier-help-eu-2-fpu-pipelines-active"
+    },
+    {
+      "EU Array Active": "/en-us/vtune-amplifier-help-eu-array-active"
+    },
+    {
+      "EU Array Idle": "/en-us/vtune-amplifier-help-eu-array-idle"
+    },
+    {
+      "EU Array Stalled": "/en-us/vtune-amplifier-help-eu-array-stalled"
+    },
+    {
+      "EU IPC Rate": "/en-us/vtune-amplifier-help-eu-ipc-rate"
+    },
+    {
+      "EU Send pipeline active": "/en-us/vtune-amplifier-help-eu-send-pipeline-active"
+    },
+    {
+      "EU Threads Occupancy": "/en-us/vtune-amplifier-help-eu-threads-occupancy"
+    },
+    {
+      "Global": "/en-us/vtune-amplifier-help-global"
+    },
+    {
+      "GPU EU Array Usage": "/en-us/vtune-amplifier-help-gpu-eu-array-usage"
+    },
+    {
+      "GPU L3 Miss Ratio": "/en-us/vtune-amplifier-help-gpu-l3-miss-ratio"
+    },
+    {
+      "GPU L3 Misses, Misses/sec": "/en-us/vtune-amplifier-help-gpu-l3-misses-misses/sec"
+    },
+    {
+      "GPU Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "GPU Memory Texture Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-texture-read-bandwidth-gb/sec"
+    },
+    {
+      "GPU Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "GPU Texel Quads Count, Count/sec": "/en-us/vtune-amplifier-help-gpu-texel-quads-count-count/sec"
+    },
+    {
+      "L3 Sampler Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-l3-sampler-bandwidth-gb/sec"
+    },
+    {
+      "L3 Shader Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-l3-shader-bandwidth-gb/sec"
+    },
+    {
+      "LLC Miss Rate due GPU Lookups": "/en-us/vtune-amplifier-help-llc-miss-rate-due-gpu-lookups"
+    },
+    {
+      "LLC Miss Ratio due GPU Lookups": "/en-us/vtune-amplifier-help-llc-miss-ratio-due-gpu-lookups"
+    },
+    {
+      "Local": "/en-us/vtune-amplifier-help-local"
+    },
+    {
+      "Render/GPGPU Command Streamer Loaded": "/en-us/vtune-amplifier-help-render/gpgpu-command-streamer-loaded"
+    },
+    {
+      "Sampler Is Bottleneck": "/en-us/vtune-amplifier-help-sampler-is-bottleneck"
+    },
+    {
+      "Shared Local Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-shared-local-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "Shared Local Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-shared-local-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "Size": "/en-us/vtune-amplifier-help-size"
+    },
+    {
+      "Total, GB/sec": "/en-us/vtune-amplifier-help-total-gb/sec"
+    },
+    {
+      "Typed Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-typed-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "Typed Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-typed-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "Untyped Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-untyped-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "Untyped Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-untyped-memory-write-bandwidth-gb/sec"
+    }
+  ],
+  "Computing Threads Started": [
+    "/en-us/vtune-amplifier-help-computing-threads-started",
+    {
+      "Computing Threads Started": "/en-us/vtune-amplifier-help-computing-threads-started"
+    }
+  ],
+  "Window: Top-down Tree": [
+    "/en-us/vtune-amplifier-help-window-top-down-tree",
+    {
+      "Window: Top-down Tree": "/en-us/vtune-amplifier-help-window-top-down-tree"
+    }
+  ],
+  "Window: Summary - General Exploration": [
+    "/en-us/vtune-amplifier-help-window-summary-general-exploration"
+  ],
+  "Pane: Options - Source/Assembly": [
+    "/en-us/vtune-amplifier-help-pane-options-source/assembly",
+    {
+      "Pane: Options - Source/Assembly": "/en-us/vtune-amplifier-help-pane-options-source/assembly"
+    }
+  ],
+  "Saving and Formatting Reports": [
+    "/en-us/vtune-amplifier-help-saving-and-formatting-reports"
+  ],
+  "Set Up Project": [
+    "/en-us/vtune-amplifier-help-set-up-project",
+    {
+      "Set Up Project": "/en-us/vtune-amplifier-help-set-up-project"
+    },
+    {
+      "Search Directories": "/en-us/vtune-amplifier-help-search-directories"
+    },
+    {
+      "Search Order": "/en-us/vtune-amplifier-help-search-order"
+    }
+  ],
+  "Window: CPU C/P States - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-cpu-c/p-states-platform-power-analysis",
+    {
+      "Window: CPU C/P States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-cpu-c/p-states-platform-power-analysis"
+    }
+  ],
+  "Contested Accesses (Intra-Tile)": [
+    "/en-us/vtune-amplifier-help-contested-accesses-intra-tile"
+  ],
+  "Problem: Unexpected Paused Time": [
+    "/en-us/vtune-amplifier-help-problem-unexpected-paused-time"
+  ],
+  "OpenMP Region Time": [
+    "/en-us/vtune-amplifier-help-openmp-region-time"
+  ],
+  "inline-mode": [
+    "/en-us/vtune-amplifier-help-inline-mode",
+    {
+      "inline-mode": "/en-us/vtune-amplifier-help-inline-mode"
+    }
+  ],
+  "FP Arithmetic/Memory Write Instructions Ratio": [
+    "/en-us/vtune-amplifier-help-fp-arithmetic/memory-write-instructions-ratio"
+  ],
+  "Ratio to Max Bandwidth, %": [
+    "/en-us/vtune-amplifier-help-ratio-to-max-bandwidth-2"
+  ],
+  "Local - Profile System Target Type": [
+    "/en-us/vtune-amplifier-help-local-profile-system-target-type",
+    {
+      "Local - Profile System Target Type": "/en-us/vtune-amplifier-help-local-profile-system-target-type"
+    }
+  ],
+  "Running gpu-profiling Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-gpu-profiling-analysis-from-the-command-line"
+  ],
+  "Interrupt Time": [
+    "/en-us/vtune-amplifier-help-interrupt-time"
+  ],
+  "SIMD Width": [
+    "/en-us/vtune-amplifier-help-simd-width-1",
+    {
+      "SIMD Width": "/en-us/vtune-amplifier-help-simd-width-1"
+    }
+  ],
+  "Profiling Container Targets": [
+    "/en-us/vtune-amplifier-help-profiling-container-targets"
+  ],
+  "[uOps]": [
+    "/en-us/vtune-amplifier-help-uops"
+  ],
+  "Hotspots Report": [
+    "/en-us/vtune-amplifier-help-hotspots-report"
+  ],
+  "Specifying the Result Directory from the Command Line": [
+    "/en-us/vtune-amplifier-help-specifying-the-result-directory-from-the-command-line"
+  ],
+  "Window: Graphics - Hotspots": [
+    "/en-us/vtune-amplifier-help-window-graphics-hotspots",
+    {
+      "Window: Graphics - Hotspots": "/en-us/vtune-amplifier-help-window-graphics-hotspots"
+    }
+  ],
+  "collect-with": [
+    "/en-us/vtune-amplifier-help-collect-with"
+  ],
+  "Pane: Call Stack": [
+    "/en-us/vtune-amplifier-help-pane-call-stack",
+    {
+      "Pane: Call Stack": "/en-us/vtune-amplifier-help-pane-call-stack"
+    }
+  ],
+  "Embedded Linux* System Setup for Remote Analysis": [
+    "/en-us/vtune-amplifier-help-embedded-linux-system-setup-for-remote-analysis"
+  ],
+  "Android Device - Attach to Process Target Type": [
+    "/en-us/vtune-amplifier-help-android-device-attach-to-process-target-type"
+  ],
+  "no-follow-child": [
+    "/en-us/vtune-amplifier-help-no-follow-child"
+  ],
+  "Port 5": [
+    "/en-us/vtune-amplifier-help-port-5"
+  ],
+  "Generating Command Line Configuration from GUI": [
+    "/en-us/vtune-amplifier-help-generating-command-line-configuration-from-gui"
+  ],
+  "Total, GB/sec": [
+    "/en-us/vtune-amplifier-help-total-gb/sec",
+    {
+      "Total, GB/sec": "/en-us/vtune-amplifier-help-total-gb/sec"
+    }
+  ],
+  "Arbitrary Target Configuration": [
+    "/en-us/vtune-amplifier-help-arbitrary-target-configuration"
+  ],
+  "Problem: Platform Not Authorized": [
+    "/en-us/vtune-amplifier-help-problem-platform-not-authorized"
+  ],
+  "Bad Speculation (Back-End Bound Pipeline Slots)": [
+    "/en-us/vtune-amplifier-help-bad-speculation-back-end-bound-pipeline-slots",
+    {
+      "Bad Speculation (Back-End Bound Pipeline Slots)": "/en-us/vtune-amplifier-help-bad-speculation-back-end-bound-pipeline-slots"
+    },
+    {
+      "MS Assists": "/en-us/vtune-amplifier-help-ms-assists"
+    }
+  ],
+  "L3 Bandwidth": [
+    "/en-us/vtune-amplifier-help-l3-bandwidth"
+  ],
+  "cumulative-threshold-percent": [
+    "/en-us/vtune-amplifier-help-cumulative-threshold-percent",
+    {
+      "cumulative-threshold-percent": "/en-us/vtune-amplifier-help-cumulative-threshold-percent"
+    }
+  ],
+  "Window: Temperature/Thermal Sample - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-temperature/thermal-sample-platform-power-analysis",
+    {
+      "Window: Temperature/Thermal Sample - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-temperature/thermal-sample-platform-power-analysis"
+    }
+  ],
+  "Viewing Stacks": [
+    "/en-us/vtune-amplifier-help-viewing-stacks",
+    {
+      "Viewing Stacks": "/en-us/vtune-amplifier-help-viewing-stacks"
+    }
+  ],
+  "Building and Installing the Sampling Drivers for Linux* Targets": [
+    "/en-us/vtune-amplifier-help-building-and-installing-the-sampling-drivers-for-linux-targets"
+  ],
+  "Split Stores": [
+    "/en-us/vtune-amplifier-help-split-stores",
+    {
+      "Split Stores": "/en-us/vtune-amplifier-help-split-stores"
+    }
+  ],
+  "Remote Windows* Target Setup": [
+    "/en-us/vtune-amplifier-help-remote-windows-target-setup"
+  ],
+  "help": [
+    "/en-us/vtune-amplifier-help-help",
+    {
+      "help": "/en-us/vtune-amplifier-help-help"
+    }
+  ],
+  "command": [
+    "/en-us/vtune-amplifier-help-command",
+    {
+      "command": "/en-us/vtune-amplifier-help-command"
+    }
+  ],
+  "Vector Capacity Usage": [
+    "/en-us/vtune-amplifier-help-vector-capacity-usage"
+  ],
+  "SIMD Compute-to-L2 Access Ratio": [
+    "/en-us/vtune-amplifier-help-simd-compute-to-l2-access-ratio"
+  ],
+  "Max DRAM System Bandwidth": [
+    "/en-us/vtune-amplifier-help-max-dram-system-bandwidth"
+  ],
+  "Importing Results in the VTune Amplifier GUI": [
+    "/en-us/vtune-amplifier-help-importing-results-to-gui"
+  ],
+  "Building and Installing the Sampling Drivers for Android* Targets": [
+    "/en-us/vtune-amplifier-help-building-and-installing-the-sampling-drivers-for-android-targets"
+  ],
+  "Basic Usage and Configuration": [
+    "/en-us/vtune-amplifier-help-basic-usage-and-configuration",
+    {
+      "Basic Usage and Configuration": "/en-us/vtune-amplifier-help-basic-usage-and-configuration"
+    },
+    {
+      "Configuring Your Build System": "/en-us/vtune-amplifier-help-configuring-your-build-system"
+    },
+    {
+      "Attaching ITT APIs to a Launched Application": "/en-us/vtune-amplifier-help-attaching-itt-apis-to-a-launched-application"
+    },
+    {
+      "Instrumenting Your Application": "/en-us/vtune-amplifier-help-instrumenting-your-application"
+    },
+    {
+      "Minimizing ITT API Overhead": "/en-us/vtune-amplifier-help-minimizing-itt-api-overhead"
+    }
+  ],
+  "OpenMP* Code Analysis": [
+    "/en-us/vtune-amplifier-help-openmp-code-analysis"
+  ],
+  "Front-End Bandwidth LSD": [
+    "/en-us/vtune-amplifier-help-front-end-bandwidth-lsd"
+  ],
+  "Search Order": [
+    "/en-us/vtune-amplifier-help-search-order",
+    {
+      "Search Order": "/en-us/vtune-amplifier-help-search-order"
+    }
+  ],
+  "Computing Task Total Time": [
+    "/en-us/vtune-amplifier-help-computing-task-total-time",
+    {
+      "Computing Task Total Time": "/en-us/vtune-amplifier-help-computing-task-total-time"
+    }
+  ],
+  "Attaching ITT APIs to a Launched Application": [
+    "/en-us/vtune-amplifier-help-attaching-itt-apis-to-a-launched-application",
+    {
+      "Attaching ITT APIs to a Launched Application": "/en-us/vtune-amplifier-help-attaching-itt-apis-to-a-launched-application"
+    }
+  ],
+  "Remote Linux* Target Setup": [
+    "/en-us/vtune-amplifier-help-remote-linux-target-setup",
+    {
+      "Remote Linux* Target Setup": "/en-us/vtune-amplifier-help-remote-linux-target-setup"
+    },
+    {
+      "Configuring SSH Access for Remote Collection": "/en-us/vtune-amplifier-help-configuring-ssh-access-for-remote-collection"
+    }
+  ],
+  "VPU Utilization": [
+    "/en-us/vtune-amplifier-help-vpu-utilization"
+  ],
+  "Warnings about Accurate CPU Time Collection": [
+    "/en-us/vtune-amplifier-help-warnings-about-accurate-cpu-time-collection"
+  ],
+  "GPU Utilization": [
+    "/en-us/vtune-amplifier-help-gpu-utilization-1"
+  ],
+  "Shared Local Memory Read Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-shared-local-memory-read-bandwidth-gb/sec",
+    {
+      "Shared Local Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-shared-local-memory-read-bandwidth-gb/sec"
+    }
+  ],
+  "Control Data Collection": [
+    "/en-us/vtune-amplifier-help-control-data-collection",
+    {
+      "Control Data Collection": "/en-us/vtune-amplifier-help-control-data-collection"
+    },
+    {
+      "Finalization": "/en-us/vtune-amplifier-help-finalization"
+    },
+    {
+      "Minimizing Collection Overhead": "/en-us/vtune-amplifier-help-minimizing-collection-overhead"
+    },
+    {
+      "External Data Import": "/en-us/vtune-amplifier-help-external-data-import"
+    },
+    {
+      "Using a Custom Collector": "/en-us/vtune-amplifier-help-using-a-custom-collector"
+    },
+    {
+      "Creating a CSV File with External Data": "/en-us/vtune-amplifier-help-creating-a-csv-file-with-external-data"
+    },
+    {
+      "Examples of CSV Format and Imported Data": "/en-us/vtune-amplifier-help-examples-of-csv-format-and-imported-data"
+    }
+  ],
+  "Notational Conventions": [
+    "/en-us/vtune-amplifier-help-notational-conventions",
+    {
+      "Notational Conventions": "/en-us/vtune-amplifier-help-notational-conventions"
+    }
+  ],
+  "Filtering and Grouping Reports": [
+    "/en-us/vtune-amplifier-help-filtering-and-grouping-reports",
+    {
+      "Filtering and Grouping Reports": "/en-us/vtune-amplifier-help-filtering-and-grouping-reports"
+    }
+  ],
+  "Sampling Interval": [
+    "/en-us/vtune-amplifier-help-sampling-interval"
+  ],
+  "External Data Import": [
+    "/en-us/vtune-amplifier-help-external-data-import",
+    {
+      "External Data Import": "/en-us/vtune-amplifier-help-external-data-import"
+    },
+    {
+      "Using a Custom Collector": "/en-us/vtune-amplifier-help-using-a-custom-collector"
+    },
+    {
+      "Creating a CSV File with External Data": "/en-us/vtune-amplifier-help-creating-a-csv-file-with-external-data"
+    },
+    {
+      "Examples of CSV Format and Imported Data": "/en-us/vtune-amplifier-help-examples-of-csv-format-and-imported-data"
+    }
+  ],
+  "% of Scalar FP Instructions": [
+    "/en-us/vtune-amplifier-help-of-scalar-fp-instructions"
+  ],
+  "Summary Report": [
+    "/en-us/vtune-amplifier-help-summary-report"
+  ],
+  "VTune Amplifier Filenames and Locations": [
+    "/en-us/vtune-amplifier-help-filenames-and-locations",
+    {
+      "VTune Amplifier Filenames and Locations": "/en-us/vtune-amplifier-help-filenames-and-locations"
+    }
+  ],
+  "Memory Bus Transactions": [
+    "/en-us/vtune-amplifier-help-memory-bus-transactions",
+    {
+      "Memory Bus Transactions": "/en-us/vtune-amplifier-help-memory-bus-transactions"
+    }
+  ],
+  "analyze-kvm-guest": [
+    "/en-us/vtune-amplifier-help-analyze-kvm-guest"
+  ],
+  "Analysis Target": [
+    "/en-us/vtune-amplifier-help-analysis-target",
+    {
+      "Analysis Target": "/en-us/vtune-amplifier-help-analysis-target"
+    }
+  ],
+  "Overhead Time": [
+    "/en-us/vtune-amplifier-help-overhead-time"
+  ],
+  "Port Utilization": [
+    "/en-us/vtune-amplifier-help-port-utilization",
+    {
+      "Port Utilization": "/en-us/vtune-amplifier-help-port-utilization"
+    }
+  ],
+  "OpenCL™ Kernel Analysis Metrics Reference": [
+    "/en-us/vtune-amplifier-help-opencl-kernel-analysis-metrics-reference",
+    {
+      "OpenCL™ Kernel Analysis Metrics Reference": "/en-us/vtune-amplifier-help-opencl-kernel-analysis-metrics-reference"
+    },
+    {
+      "Computing Task Total Time": "/en-us/vtune-amplifier-help-computing-task-total-time"
+    },
+    {
+      "Instance Count": "/en-us/vtune-amplifier-help-instance-count-1"
+    },
+    {
+      "SIMD Width": "/en-us/vtune-amplifier-help-simd-width-1"
+    },
+    {
+      "Work Size": "/en-us/vtune-amplifier-help-work-size"
+    }
+  ],
+  "Reference": [
+    "/en-us/vtune-amplifier-help-reference",
+    {
+      "Reference": "/en-us/vtune-amplifier-help-reference"
+    },
+    {
+      "User Interface Reference": "/en-us/vtune-amplifier-help-user-interface-reference"
+    },
+    {
+      "Context Menu: Grid": "/en-us/vtune-amplifier-help-context-menu-grid"
+    },
+    {
+      "Context Menus: Call Stack Pane": "/en-us/vtune-amplifier-help-context-menus-call-stack-pane"
+    },
+    {
+      "Context Menus: Project Navigator": "/en-us/vtune-amplifier-help-context-menus-project-navigator"
+    },
+    {
+      "Context Menus: Source/Assembly Window": "/en-us/vtune-amplifier-help-context-menus-source/assembly-window"
+    },
+    {
+      "Dialog Box: Binary/Symbol Search": "/en-us/vtune-amplifier-help-dialog-box-binary/symbol-search"
+    },
+    {
+      "Dialog Box: Source Search": "/en-us/vtune-amplifier-help-dialog-box-source-search"
+    },
+    {
+      "Menu: Customize Grouping": "/en-us/vtune-amplifier-help-menu-customize-grouping"
+    },
+    {
+      "Menu: Intel VTune Amplifier": "/en-us/vtune-amplifier-help-menu"
+    },
+    {
+      "Android Device - Launch Android Package Target Type": "/en-us/vtune-amplifier-help-android-device-launch-android-package-target-type"
+    },
+    {
+      "Local - Attach to Process Target Type": "/en-us/vtune-amplifier-help-local-attach-to-process-target-type"
+    },
+    {
+      "Local - Profile System Target Type": "/en-us/vtune-amplifier-help-local-profile-system-target-type"
+    },
+    {
+      "Remote Linux - Launch Application Target Type": "/en-us/vtune-amplifier-help-remote-linux-launch-application-target-type"
+    },
+    {
+      "Pane: Assembly": "/en-us/vtune-amplifier-help-pane-assembly"
+    },
+    {
+      "Pane: Call Stack": "/en-us/vtune-amplifier-help-pane-call-stack"
+    },
+    {
+      "Pane: Options - General": "/en-us/vtune-amplifier-help-pane-options-general"
+    },
+    {
+      "Pane: Options - Result Location": "/en-us/vtune-amplifier-help-pane-options-result-location"
+    },
+    {
+      "Pane: Options - Source/Assembly": "/en-us/vtune-amplifier-help-pane-options-source/assembly"
+    },
+    {
+      "Project Navigator": "/en-us/vtune-amplifier-help-project-navigator"
+    },
+    {
+      "Pane: Source": "/en-us/vtune-amplifier-help-pane-source"
+    },
+    {
+      "Pane: Timeline": "/en-us/vtune-amplifier-help-pane-timeline"
+    },
+    {
+      "Toolbar: Command": "/en-us/vtune-amplifier-help-toolbar-command"
+    },
+    {
+      "Toolbar: Filter": "/en-us/vtune-amplifier-help-toolbar-filter"
+    },
+    {
+      "Toolbar: Source/Assembly": "/en-us/vtune-amplifier-help-toolbar-source/assembly"
+    },
+    {
+      "Toolbar: VTune Amplifier": "/en-us/vtune-amplifier-help-toolbar"
+    },
+    {
+      "Window: Bandwidth - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-bandwidth-platform-power-analysis"
+    },
+    {
+      "Window: Bottom-up": "/en-us/vtune-amplifier-help-window-bottom-up"
+    },
+    {
+      "Window: Bottom-up - Hotspots/Hotspots by CPU Usage": "/en-us/vtune-amplifier-help-window-bottom-up-hotspots/hotspots-by-cpu-usage"
+    },
+    {
+      "Window: Caller/Callee": "/en-us/vtune-amplifier-help-window-caller/callee"
+    },
+    {
+      "Window: Cannot Find <file type> File": "/en-us/vtune-amplifier-help-window-cannot-find-file-type-file"
+    },
+    {
+      "Window: Collection Log": "/en-us/vtune-amplifier-help-window-collection-log"
+    },
+    {
+      "Window: Compare Results": "/en-us/vtune-amplifier-help-window-compare-results"
+    },
+    {
+      "Window: Core Wake-ups - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-core-wake-ups-platform-power-analysis"
+    },
+    {
+      "Window: Correlate Metrics - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-correlate-metrics-platform-power-analysis"
+    },
+    {
+      "Window: CPU C/P States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-cpu-c/p-states-platform-power-analysis"
+    },
+    {
+      "Window: Debug": "/en-us/vtune-amplifier-help-window-debug"
+    },
+    {
+      "Window: Event Count - Hardware Events": "/en-us/vtune-amplifier-help-window-event-count-hardware-events"
+    },
+    {
+      "Window: Graphics - Hotspots": "/en-us/vtune-amplifier-help-window-graphics-hotspots"
+    },
+    {
+      "Window: Graphics C/P States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-graphics-c/p-states-platform-power-analysis"
+    },
+    {
+      "Window: Import": "/en-us/vtune-amplifier-help-window-import"
+    },
+    {
+      "Window: NC Device States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-nc-device-states-platform-power-analysis"
+    },
+    {
+      "Window: Platform": "/en-us/vtune-amplifier-help-window-platform"
+    },
+    {
+      "Window: Power - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-power-platform-power-analysis"
+    },
+    {
+      "Window: SC Device States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-sc-device-states-platform-power-analysis"
+    },
+    {
+      "Window: Summary - Hotspots": "/en-us/vtune-amplifier-help-window-summary-hotspots"
+    },
+    {
+      "Window: System Sleep States - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-system-sleep-states-platform-power-analysis"
+    },
+    {
+      "Window: Temperature/Thermal Sample - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-temperature/thermal-sample-platform-power-analysis"
+    },
+    {
+      "Window: Timer Resolution - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-timer-resolution-platform-power-analysis"
+    },
+    {
+      "Window: Top-down Tree": "/en-us/vtune-amplifier-help-window-top-down-tree"
+    },
+    {
+      "Window: Uncore Event Count - Hardware Events": "/en-us/vtune-amplifier-help-window-uncore-event-count-hardware-events"
+    },
+    {
+      "Window: Wakelocks - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-wakelocks-platform-power-analysis"
+    },
+    {
+      "CPU Metrics Reference": "/en-us/vtune-amplifier-help-cpu-metrics-reference"
+    },
+    {
+      "Assists": "/en-us/vtune-amplifier-help-assists"
+    },
+    {
+      "Back-End Bound": "/en-us/vtune-amplifier-help-back-end-bound"
+    },
+    {
+      "Memory Bandwidth": "/en-us/vtune-amplifier-help-memory-bandwidth"
+    },
+    {
+      "LLC Miss": "/en-us/vtune-amplifier-help-llc-miss"
+    },
+    {
+      "Port Utilization": "/en-us/vtune-amplifier-help-port-utilization"
+    },
+    {
+      "Bad Speculation (Back-End Bound Pipeline Slots)": "/en-us/vtune-amplifier-help-bad-speculation-back-end-bound-pipeline-slots"
+    },
+    {
+      "MS Assists": "/en-us/vtune-amplifier-help-ms-assists"
+    },
+    {
+      "Branch Mispredict": "/en-us/vtune-amplifier-help-branch-mispredict"
+    },
+    {
+      "Bus Lock": "/en-us/vtune-amplifier-help-bus-lock"
+    },
+    {
+      "Clockticks per Instructions Retired (CPI)": "/en-us/vtune-amplifier-help-clockticks-per-instructions-retired-cpi"
+    },
+    {
+      "Core Bound": "/en-us/vtune-amplifier-help-core-bound"
+    },
+    {
+      "CPU Frequency Ratio": "/en-us/vtune-amplifier-help-cpu-frequency-ratio"
+    },
+    {
+      "CPU Time": "/en-us/vtune-amplifier-help-cpu-time-1"
+    },
+    {
+      "CPU Usage": "/en-us/vtune-amplifier-help-cpu-usage"
+    },
+    {
+      "Cycles of 0 Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-0-ports-utilized"
+    },
+    {
+      "Cycles of 1 Port Utilized": "/en-us/vtune-amplifier-help-cycles-of-1-port-utilized"
+    },
+    {
+      "Cycles of 2 Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-2-ports-utilized"
+    },
+    {
+      "Cycles of 3+ Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-3-ports-utilized"
+    },
+    {
+      "Divider": "/en-us/vtune-amplifier-help-divider"
+    },
+    {
+      "DRAM Bound": "/en-us/vtune-amplifier-help-dram-bound"
+    },
+    {
+      "DTLB Store Overhead": "/en-us/vtune-amplifier-help-dtlb-store-overhead"
+    },
+    {
+      "Effective Time": "/en-us/vtune-amplifier-help-effective-time"
+    },
+    {
+      "Elapsed Time": "/en-us/vtune-amplifier-help-elapsed-time"
+    },
+    {
+      "Estimated Call Count": "/en-us/vtune-amplifier-help-estimated-call-count"
+    },
+    {
+      "Execution Stalls": "/en-us/vtune-amplifier-help-execution-stalls"
+    },
+    {
+      "False Sharing": "/en-us/vtune-amplifier-help-false-sharing"
+    },
+    {
+      "Flags Merge Stalls": "/en-us/vtune-amplifier-help-flags-merge-stalls"
+    },
+    {
+      "Front-End Bandwidth": "/en-us/vtune-amplifier-help-front-end-bandwidth"
+    },
+    {
+      "Front-End Bandwidth DSB": "/en-us/vtune-amplifier-help-front-end-bandwidth-dsb"
+    },
+    {
+      "Front-End Bandwidth MITE": "/en-us/vtune-amplifier-help-front-end-bandwidth-mite"
+    },
+    {
+      "Branch Resteers": "/en-us/vtune-amplifier-help-branch-resteers"
+    },
+    {
+      "DSB Switches": "/en-us/vtune-amplifier-help-dsb-switches"
+    },
+    {
+      "ICache Misses": "/en-us/vtune-amplifier-help-icache-misses"
+    },
+    {
+      "ITLB Overhead": "/en-us/vtune-amplifier-help-itlb-overhead"
+    },
+    {
+      "Length Changing Prefixes": "/en-us/vtune-amplifier-help-length-changing-prefixes"
+    },
+    {
+      "Front-End Latency": "/en-us/vtune-amplifier-help-front-end-latency"
+    },
+    {
+      "General Retirement": "/en-us/vtune-amplifier-help-general-retirement"
+    },
+    {
+      "Hardware Event Count": "/en-us/vtune-amplifier-help-hardware-event-count"
+    },
+    {
+      "Hardware Event Sample Count": "/en-us/vtune-amplifier-help-hardware-event-sample-count"
+    },
+    {
+      "Instruction Starvation": "/en-us/vtune-amplifier-help-instruction-starvation"
+    },
+    {
+      "L1 Bound": "/en-us/vtune-amplifier-help-l1-bound"
+    },
+    {
+      "4K Aliasing": "/en-us/vtune-amplifier-help-4k-aliasing"
+    },
+    {
+      "DTLB Overhead": "/en-us/vtune-amplifier-help-dtlb-overhead"
+    },
+    {
+      "Split Loads": "/en-us/vtune-amplifier-help-split-loads"
+    },
+    {
+      "L1D Replacement Percentage": "/en-us/vtune-amplifier-help-l1d-replacement-percentage"
+    },
+    {
+      "L1D Replacements": "/en-us/vtune-amplifier-help-l1d-replacements"
+    },
+    {
+      "L1I Stall Cycles": "/en-us/vtune-amplifier-help-l1i-stall-cycles"
+    },
+    {
+      "L2 Bound": "/en-us/vtune-amplifier-help-l2-bound"
+    },
+    {
+      "L2 Replacement Percentage": "/en-us/vtune-amplifier-help-l2-replacement-percentage"
+    },
+    {
+      "L2 Replacements": "/en-us/vtune-amplifier-help-l2-replacements"
+    },
+    {
+      "L3 Bound": "/en-us/vtune-amplifier-help-l3-bound"
+    },
+    {
+      "Contested Accesses": "/en-us/vtune-amplifier-help-contested-accesses"
+    },
+    {
+      "Data Sharing": "/en-us/vtune-amplifier-help-data-sharing"
+    },
+    {
+      "L3 Latency": "/en-us/vtune-amplifier-help-l3-latency"
+    },
+    {
+      "LLC Hit": "/en-us/vtune-amplifier-help-llc-hit"
+    },
+    {
+      "LLC Load Misses Serviced By Remote DRAM": "/en-us/vtune-amplifier-help-llc-load-misses-serviced-by-remote-dram"
+    },
+    {
+      "LLC Replacement Percentage": "/en-us/vtune-amplifier-help-llc-replacement-percentage"
+    },
+    {
+      "Loop Entry Count": "/en-us/vtune-amplifier-help-loop-entry-count"
+    },
+    {
+      "Machine Clears": "/en-us/vtune-amplifier-help-machine-clears"
+    },
+    {
+      "Memory Bandwidth": "/en-us/vtune-amplifier-help-memory-bandwidth-1"
+    },
+    {
+      "Memory Bound": "/en-us/vtune-amplifier-help-memory-bound"
+    },
+    {
+      "Memory Bus Transactions": "/en-us/vtune-amplifier-help-memory-bus-transactions"
+    },
+    {
+      "Microcode Sequencer": "/en-us/vtune-amplifier-help-microcode-sequencer"
+    },
+    {
+      "MUX Reliability": "/en-us/vtune-amplifier-help-mux-reliability"
+    },
+    {
+      "OpenMP* Analysis. Collection Time": "/en-us/vtune-amplifier-help-openmp-analysis-collection-time"
+    },
+    {
+      "OpenMP* Potential Gain": "/en-us/vtune-amplifier-help-openmp-potential-gain"
+    },
+    {
+      "Parallel Region Time": "/en-us/vtune-amplifier-help-parallel-region-time"
+    },
+    {
+      "Paused Time": "/en-us/vtune-amplifier-help-paused-time"
+    },
+    {
+      "Precise Clockticks": "/en-us/vtune-amplifier-help-precise-clockticks"
+    },
+    {
+      "Retire Stalls": "/en-us/vtune-amplifier-help-retire-stalls"
+    },
+    {
+      "Self Time and Total Time": "/en-us/vtune-amplifier-help-self-time-and-total-time"
+    },
+    {
+      "SIMD Assists": "/en-us/vtune-amplifier-help-simd-assists"
+    },
+    {
+      "Slow LEA Stalls": "/en-us/vtune-amplifier-help-slow-lea-stalls"
+    },
+    {
+      "SMC Machine Clear": "/en-us/vtune-amplifier-help-smc-machine-clear"
+    },
+    {
+      "Spin Time": "/en-us/vtune-amplifier-help-spin-time"
+    },
+    {
+      "Imbalance or Serial Spinning": "/en-us/vtune-amplifier-help-imbalance-or-serial-spinning-1"
+    },
+    {
+      "Lock Contention": "/en-us/vtune-amplifier-help-lock-contention-1"
+    },
+    {
+      "Spin and Overhead Time": "/en-us/vtune-amplifier-help-spin-and-overhead-time"
+    },
+    {
+      "Creation": "/en-us/vtune-amplifier-help-creation-1"
+    },
+    {
+      "Other": "/en-us/vtune-amplifier-help-other-3"
+    },
+    {
+      "Reduction": "/en-us/vtune-amplifier-help-reduction-1"
+    },
+    {
+      "Scheduling": "/en-us/vtune-amplifier-help-scheduling-1"
+    },
+    {
+      "Split Stores": "/en-us/vtune-amplifier-help-split-stores"
+    },
+    {
+      "Store Bound": "/en-us/vtune-amplifier-help-store-bound"
+    },
+    {
+      "Thread Concurrency": "/en-us/vtune-amplifier-help-thread-concurrency"
+    },
+    {
+      "Thread Oversubscription": "/en-us/vtune-amplifier-help-thread-oversubscription"
+    },
+    {
+      "Total Iteration Count": "/en-us/vtune-amplifier-help-total-iteration-count"
+    },
+    {
+      "Wait Count": "/en-us/vtune-amplifier-help-wait-count"
+    },
+    {
+      "Wait Rate": "/en-us/vtune-amplifier-help-wait-rate"
+    },
+    {
+      "GPU Metrics Reference": "/en-us/vtune-amplifier-help-gpu-metrics-reference"
+    },
+    {
+      "Computing Threads Started": "/en-us/vtune-amplifier-help-computing-threads-started"
+    },
+    {
+      "EU 2 FPU Pipelines Active": "/en-us/vtune-amplifier-help-eu-2-fpu-pipelines-active"
+    },
+    {
+      "EU Array Active": "/en-us/vtune-amplifier-help-eu-array-active"
+    },
+    {
+      "EU Array Idle": "/en-us/vtune-amplifier-help-eu-array-idle"
+    },
+    {
+      "EU Array Stalled": "/en-us/vtune-amplifier-help-eu-array-stalled"
+    },
+    {
+      "EU IPC Rate": "/en-us/vtune-amplifier-help-eu-ipc-rate"
+    },
+    {
+      "EU Send pipeline active": "/en-us/vtune-amplifier-help-eu-send-pipeline-active"
+    },
+    {
+      "EU Threads Occupancy": "/en-us/vtune-amplifier-help-eu-threads-occupancy"
+    },
+    {
+      "Global": "/en-us/vtune-amplifier-help-global"
+    },
+    {
+      "GPU EU Array Usage": "/en-us/vtune-amplifier-help-gpu-eu-array-usage"
+    },
+    {
+      "GPU L3 Miss Ratio": "/en-us/vtune-amplifier-help-gpu-l3-miss-ratio"
+    },
+    {
+      "GPU L3 Misses, Misses/sec": "/en-us/vtune-amplifier-help-gpu-l3-misses-misses/sec"
+    },
+    {
+      "GPU Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "GPU Memory Texture Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-texture-read-bandwidth-gb/sec"
+    },
+    {
+      "GPU Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "GPU Texel Quads Count, Count/sec": "/en-us/vtune-amplifier-help-gpu-texel-quads-count-count/sec"
+    },
+    {
+      "L3 Sampler Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-l3-sampler-bandwidth-gb/sec"
+    },
+    {
+      "L3 Shader Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-l3-shader-bandwidth-gb/sec"
+    },
+    {
+      "LLC Miss Rate due GPU Lookups": "/en-us/vtune-amplifier-help-llc-miss-rate-due-gpu-lookups"
+    },
+    {
+      "LLC Miss Ratio due GPU Lookups": "/en-us/vtune-amplifier-help-llc-miss-ratio-due-gpu-lookups"
+    },
+    {
+      "Local": "/en-us/vtune-amplifier-help-local"
+    },
+    {
+      "Render/GPGPU Command Streamer Loaded": "/en-us/vtune-amplifier-help-render/gpgpu-command-streamer-loaded"
+    },
+    {
+      "Sampler Is Bottleneck": "/en-us/vtune-amplifier-help-sampler-is-bottleneck"
+    },
+    {
+      "Shared Local Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-shared-local-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "Shared Local Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-shared-local-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "Size": "/en-us/vtune-amplifier-help-size"
+    },
+    {
+      "Total, GB/sec": "/en-us/vtune-amplifier-help-total-gb/sec"
+    },
+    {
+      "Typed Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-typed-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "Typed Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-typed-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "Untyped Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-untyped-memory-read-bandwidth-gb/sec"
+    },
+    {
+      "Untyped Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-untyped-memory-write-bandwidth-gb/sec"
+    },
+    {
+      "OpenCL™ Kernel Analysis Metrics Reference": "/en-us/vtune-amplifier-help-opencl-kernel-analysis-metrics-reference"
+    },
+    {
+      "Computing Task Total Time": "/en-us/vtune-amplifier-help-computing-task-total-time"
+    },
+    {
+      "Instance Count": "/en-us/vtune-amplifier-help-instance-count-1"
+    },
+    {
+      "SIMD Width": "/en-us/vtune-amplifier-help-simd-width-1"
+    },
+    {
+      "Work Size": "/en-us/vtune-amplifier-help-work-size"
+    },
+    {
+      "Energy Analysis Metrics Reference": "/en-us/vtune-amplifier-help-energy-analysis-metrics-reference"
+    },
+    {
+      "Available Core Time": "/en-us/vtune-amplifier-help-available-core-time-1"
+    },
+    {
+      "C-State": "/en-us/vtune-amplifier-help-c-state"
+    },
+    {
+      "D0ix States": "/en-us/vtune-amplifier-help-d0ix-states"
+    },
+    {
+      "DRAM Self Refresh": "/en-us/vtune-amplifier-help-dram-self-refresh"
+    },
+    {
+      "Energy Consumed (mJ)": "/en-us/vtune-amplifier-help-energy-consumed-mj"
+    },
+    {
+      "Idle Wake-ups": "/en-us/vtune-amplifier-help-idle-wake-ups"
+    },
+    {
+      "P-State": "/en-us/vtune-amplifier-help-p-state"
+    },
+    {
+      "S0ix States": "/en-us/vtune-amplifier-help-s0ix-states"
+    },
+    {
+      "Temperature": "/en-us/vtune-amplifier-help-temperature"
+    },
+    {
+      "Timer Resolution": "/en-us/vtune-amplifier-help-timer-resolution"
+    },
+    {
+      "Total Time in C0 State": "/en-us/vtune-amplifier-help-total-time-in-c0-state"
+    },
+    {
+      "Total Time in Non-C0 States": "/en-us/vtune-amplifier-help-total-time-in-non-c0-states"
+    },
+    {
+      "Total Time in S0 State": "/en-us/vtune-amplifier-help-total-time-in-s0-state"
+    },
+    {
+      "Total Wake-up Count": "/en-us/vtune-amplifier-help-total-wake-up-count"
+    },
+    {
+      "Wake-ups": "/en-us/vtune-amplifier-help-wake-ups"
+    },
+    {
+      "Wake-ups/sec per Core": "/en-us/vtune-amplifier-help-wake-ups/sec-per-core"
+    }
+  ],
+  "Front-End Bound": [
+    "/en-us/vtune-amplifier-help-front-end-bound",
+    {
+      "Branch Resteers": "/en-us/vtune-amplifier-help-branch-resteers"
+    },
+    {
+      "DSB Switches": "/en-us/vtune-amplifier-help-dsb-switches"
+    },
+    {
+      "ICache Misses": "/en-us/vtune-amplifier-help-icache-misses"
+    },
+    {
+      "ITLB Overhead": "/en-us/vtune-amplifier-help-itlb-overhead"
+    },
+    {
+      "Length Changing Prefixes": "/en-us/vtune-amplifier-help-length-changing-prefixes"
+    }
+  ],
+  "Working with Results from the Command Line": [
+    "/en-us/vtune-amplifier-help-working-with-results-from-the-command-line",
+    {
+      "Working with Results from the Command Line": "/en-us/vtune-amplifier-help-working-with-results-from-the-command-line"
+    },
+    {
+      "Viewing Command Line Results in the GUI": "/en-us/vtune-amplifier-help-viewing-command-line-results-in-the-gui"
+    },
+    {
+      "Importing Results from the Command Line": "/en-us/vtune-amplifier-help-importing-results-from-the-command-line"
+    }
+  ],
+  "Port 4": [
+    "/en-us/vtune-amplifier-help-port-4"
+  ],
+  "Custom Analysis": [
+    "/en-us/vtune-amplifier-help-custom-analysis",
+    {
+      "Custom Analysis Options - User-mode Sampling and Tracing": "/en-us/vtune-amplifier-help-custom-analysis-options-user-mode-sampling-and-tracing"
+    },
+    {
+      "Custom Analysis Options - Hardware Event-based Sampling": "/en-us/vtune-amplifier-help-custom-analysis-options-hardware-event-based-sampling"
+    },
+    {
+      "Precise Events": "/en-us/vtune-amplifier-help-precise-events"
+    },
+    {
+      "Linux* and Android* Kernel Analysis": "/en-us/vtune-amplifier-help-linux-and-android-kernel-analysis"
+    },
+    {
+      "Task Analysis": "/en-us/vtune-amplifier-help-task-analysis"
+    }
+  ],
+  "Changing Threshold Values": [
+    "/en-us/vtune-amplifier-help-changing-threshold-values"
+  ],
+  "Enabling Linux* Kernel Analysis": [
+    "/en-us/vtune-amplifier-help-enabling-linux-kernel-analysis"
+  ],
+  "Length Changing Prefixes": [
+    "/en-us/vtune-amplifier-help-length-changing-prefixes",
+    {
+      "Length Changing Prefixes": "/en-us/vtune-amplifier-help-length-changing-prefixes"
+    }
+  ],
+  "L2 Hit Bound": [
+    "/en-us/vtune-amplifier-help-l2-hit-bound"
+  ],
+  "iJIT_ GetNewMethodID": [
+    "/en-us/vtune-amplifier-help-ijit-getnewmethodid",
+    {
+      "iJIT_ GetNewMethodID": "/en-us/vtune-amplifier-help-ijit-getnewmethodid"
+    }
+  ],
+  "Vector Instruction Set": [
+    "/en-us/vtune-amplifier-help-vector-instruction-set"
+  ],
+  "Platform Analysis": [
+    "/en-us/vtune-amplifier-help-platform-analysis",
+    {
+      "Platform Analysis": "/en-us/vtune-amplifier-help-platform-analysis"
+    },
+    {
+      "CPU/GPU Concurrency Analysis": "/en-us/vtune-amplifier-help-cpu/gpu-concurrency-analysis"
+    },
+    {
+      "GPU OpenCL™ Application Analysis View": "/en-us/vtune-amplifier-help-gpu-opencl-application-analysis-view"
+    }
+  ],
+  "amplxe-cl Actions": [
+    "/en-us/vtune-amplifier-help-amplxe-cl-actions",
+    {
+      "amplxe-cl Actions": "/en-us/vtune-amplifier-help-amplxe-cl-actions"
+    }
+  ],
+  "Comparison Summary": [
+    "/en-us/vtune-amplifier-help-comparison-summary",
+    {
+      "Comparison Summary": "/en-us/vtune-amplifier-help-comparison-summary"
+    }
+  ],
+  "macOS* Support": [
+    "/en-us/vtune-amplifier-help-macos-support"
+  ],
+  "Data Sharing": [
+    "/en-us/vtune-amplifier-help-data-sharing",
+    {
+      "Data Sharing": "/en-us/vtune-amplifier-help-data-sharing"
+    }
+  ],
+  "LLC Load Misses Serviced By Remote DRAM": [
+    "/en-us/vtune-amplifier-help-llc-load-misses-serviced-by-remote-dram",
+    {
+      "LLC Load Misses Serviced By Remote DRAM": "/en-us/vtune-amplifier-help-llc-load-misses-serviced-by-remote-dram"
+    }
+  ],
+  "Slow LEA Stalls": [
+    "/en-us/vtune-amplifier-help-slow-lea-stalls",
+    {
+      "Slow LEA Stalls": "/en-us/vtune-amplifier-help-slow-lea-stalls"
+    }
+  ],
+  "Search Directories for Android* Targets": [
+    "/en-us/vtune-amplifier-help-search-directories-for-android-targets",
+    {
+      "Search Directories for Android* Targets": "/en-us/vtune-amplifier-help-search-directories-for-android-targets"
+    }
+  ],
+  "Analyzing Loops": [
+    "/en-us/vtune-amplifier-help-analyzing-loops"
+  ],
+  "Error Message: Stack Size Is Too Small": [
+    "/en-us/vtune-amplifier-help-error-message-stack-size-is-too-small"
+  ],
+  "Energy Analysis Metrics Reference": [
+    "/en-us/vtune-amplifier-help-energy-analysis-metrics-reference",
+    {
+      "Energy Analysis Metrics Reference": "/en-us/vtune-amplifier-help-energy-analysis-metrics-reference"
+    },
+    {
+      "Available Core Time": "/en-us/vtune-amplifier-help-available-core-time-1"
+    },
+    {
+      "C-State": "/en-us/vtune-amplifier-help-c-state"
+    },
+    {
+      "D0ix States": "/en-us/vtune-amplifier-help-d0ix-states"
+    },
+    {
+      "DRAM Self Refresh": "/en-us/vtune-amplifier-help-dram-self-refresh"
+    },
+    {
+      "Energy Consumed (mJ)": "/en-us/vtune-amplifier-help-energy-consumed-mj"
+    },
+    {
+      "Idle Wake-ups": "/en-us/vtune-amplifier-help-idle-wake-ups"
+    },
+    {
+      "P-State": "/en-us/vtune-amplifier-help-p-state"
+    },
+    {
+      "S0ix States": "/en-us/vtune-amplifier-help-s0ix-states"
+    },
+    {
+      "Temperature": "/en-us/vtune-amplifier-help-temperature"
+    },
+    {
+      "Timer Resolution": "/en-us/vtune-amplifier-help-timer-resolution"
+    },
+    {
+      "Total Time in C0 State": "/en-us/vtune-amplifier-help-total-time-in-c0-state"
+    },
+    {
+      "Total Time in Non-C0 States": "/en-us/vtune-amplifier-help-total-time-in-non-c0-states"
+    },
+    {
+      "Total Time in S0 State": "/en-us/vtune-amplifier-help-total-time-in-s0-state"
+    },
+    {
+      "Total Wake-up Count": "/en-us/vtune-amplifier-help-total-wake-up-count"
+    },
+    {
+      "Wake-ups": "/en-us/vtune-amplifier-help-wake-ups"
+    },
+    {
+      "Wake-ups/sec per Core": "/en-us/vtune-amplifier-help-wake-ups/sec-per-core"
+    }
+  ],
+  "Remote DRAM": [
+    "/en-us/vtune-amplifier-help-remote-dram"
+  ],
+  "Total Iteration Count": [
+    "/en-us/vtune-amplifier-help-total-iteration-count",
+    {
+      "Total Iteration Count": "/en-us/vtune-amplifier-help-total-iteration-count"
+    }
+  ],
+  "Analyze Performance": [
+    "/en-us/vtune-amplifier-help-analyze-performance",
+    {
+      "Analyze Performance": "/en-us/vtune-amplifier-help-analyze-performance"
+    },
+    {
+      "Hardware Event-based Sampling Collection": "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection"
+    },
+    {
+      "Hardware Event-based Sampling Collection with Stacks": "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection-with-stacks"
+    },
+    {
+      "User-Mode Sampling and Tracing Collection": "/en-us/vtune-amplifier-help-user-mode-sampling-and-tracing-collection"
+    },
+    {
+      "Algorithm Analysis": "/en-us/vtune-amplifier-help-algorithm-analysis"
+    },
+    {
+      "Basic Hotspots Analysis for CPU Usage Issues": "/en-us/vtune-amplifier-help-basic-hotspots-analysis"
+    },
+    {
+      "Advanced Hotspots Analysis": "/en-us/vtune-amplifier-help-advanced-hotspots-analysis"
+    },
+    {
+      "Locks and Waits Analysis": "/en-us/vtune-amplifier-help-locks-and-waits-analysis"
+    },
+    {
+      "Microarchitecture Analysis": "/en-us/vtune-amplifier-help-microarchitecture-analysis"
+    },
+    {
+      "General Exploration Analysis for Hardware Issues": "/en-us/vtune-amplifier-help-general-exploration-analysis"
+    },
+    {
+      "General Exploration View": "/en-us/vtune-amplifier-help-general-exploration-view"
+    },
+    {
+      "Hardware Issues View": "/en-us/vtune-amplifier-help-hardware-issues-view"
+    },
+    {
+      "Memory Usage View": "/en-us/vtune-amplifier-help-memory-usage-view"
+    },
+    {
+      "TSX Exploration Analysis for Transactional Aborts": "/en-us/vtune-amplifier-help-tsx-exploration-analysis"
+    },
+    {
+      "TSX Hotspots Analysis Inside Transactions": "/en-us/vtune-amplifier-help-tsx-hotspots-analysis"
+    },
+    {
+      "Platform Analysis": "/en-us/vtune-amplifier-help-platform-analysis"
+    },
+    {
+      "CPU/GPU Concurrency Analysis": "/en-us/vtune-amplifier-help-cpu/gpu-concurrency-analysis"
+    },
+    {
+      "GPU OpenCL™ Application Analysis View": "/en-us/vtune-amplifier-help-gpu-opencl-application-analysis-view"
+    },
+    {
+      "Custom Analysis Options - User-mode Sampling and Tracing": "/en-us/vtune-amplifier-help-custom-analysis-options-user-mode-sampling-and-tracing"
+    },
+    {
+      "Custom Analysis Options - Hardware Event-based Sampling": "/en-us/vtune-amplifier-help-custom-analysis-options-hardware-event-based-sampling"
+    },
+    {
+      "Precise Events": "/en-us/vtune-amplifier-help-precise-events"
+    },
+    {
+      "Linux* and Android* Kernel Analysis": "/en-us/vtune-amplifier-help-linux-and-android-kernel-analysis"
+    },
+    {
+      "Task Analysis": "/en-us/vtune-amplifier-help-task-analysis"
+    }
+  ],
+  "Remote Cache": [
+    "/en-us/vtune-amplifier-help-remote-cache"
+  ],
+  "Windows* Targets": [
+    "/en-us/vtune-amplifier-help-windows-targets"
+  ],
+  "KVM Guest OS Profiling": [
+    "/en-us/vtune-amplifier-help-kvm-guest-os-profiling"
+  ],
+  "L3 Shader Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-l3-shader-bandwidth-gb/sec",
+    {
+      "L3 Shader Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-l3-shader-bandwidth-gb/sec"
+    }
+  ],
+  "Window: Timer Resolution - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-timer-resolution-platform-power-analysis",
+    {
+      "Window: Timer Resolution - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-timer-resolution-platform-power-analysis"
+    }
+  ],
+  "MPI Busy Wait Time": [
+    "/en-us/vtune-amplifier-help-mpi-busy-wait-time"
+  ],
+  "FPU Utilization": [
+    "/en-us/vtune-amplifier-help-fpu-utilization"
+  ],
+  "Average Loop Trip Count": [
+    "/en-us/vtune-amplifier-help-average-loop-trip-count"
+  ],
+  "L2 Miss Count": [
+    "/en-us/vtune-amplifier-help-l2-miss-count"
+  ],
+  "Remote DRAM Access Count": [
+    "/en-us/vtune-amplifier-help-remote-dram-access-count"
+  ],
+  "Typed Memory Read Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-typed-memory-read-bandwidth-gb/sec",
+    {
+      "Typed Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-typed-memory-read-bandwidth-gb/sec"
+    }
+  ],
+  "csv-delimiter": [
+    "/en-us/vtune-amplifier-help-csv-delimiter"
+  ],
+  "format": [
+    "/en-us/vtune-amplifier-help-format",
+    {
+      "format": "/en-us/vtune-amplifier-help-format"
+    }
+  ],
+  "Available Core Time": [
+    "/en-us/vtune-amplifier-help-available-core-time-1",
+    {
+      "Available Core Time": "/en-us/vtune-amplifier-help-available-core-time-1"
+    }
+  ],
+  "Running Command Line Analysis": [
+    "/en-us/vtune-amplifier-help-running-command-line-analysis",
+    {
+      "Running Command Line Analysis": "/en-us/vtune-amplifier-help-running-command-line-analysis"
+    }
+  ],
+  "Pipeline Slots": [
+    "/en-us/vtune-amplifier-help-pipeline-slots"
+  ],
+  "Pane: Source": [
+    "/en-us/vtune-amplifier-help-pane-source",
+    {
+      "Pane: Source": "/en-us/vtune-amplifier-help-pane-source"
+    }
+  ],
+  "Estimated Ideal Time": [
+    "/en-us/vtune-amplifier-help-estimated-ideal-time"
+  ],
+  "Remote Linux - Attach to Process Target Type": [
+    "/en-us/vtune-amplifier-help-remote-linux-attach-to-process-target-type"
+  ],
+  "UTLB Overhead": [
+    "/en-us/vtune-amplifier-help-utlb-overhead"
+  ],
+  "L2 Miss Bound": [
+    "/en-us/vtune-amplifier-help-l2-miss-bound"
+  ],
+  "Toolbar: VTune Amplifier": [
+    "/en-us/vtune-amplifier-help-toolbar",
+    {
+      "Toolbar: VTune Amplifier": "/en-us/vtune-amplifier-help-toolbar"
+    }
+  ],
+  "Window: Summary - GPU Hotspots": [
+    "/en-us/vtune-amplifier-help-window-summary-gpu-hotspots"
+  ],
+  "Java* Code Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-java-code-analysis-from-the-command-line"
+  ],
+  "Temperature": [
+    "/en-us/vtune-amplifier-help-temperature",
+    {
+      "Temperature": "/en-us/vtune-amplifier-help-temperature"
+    }
+  ],
+  "Work Size": [
+    "/en-us/vtune-amplifier-help-work-size",
+    {
+      "Work Size": "/en-us/vtune-amplifier-help-work-size"
+    }
+  ],
+  "Shared Local Memory Write Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-shared-local-memory-write-bandwidth-gb/sec",
+    {
+      "Shared Local Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-shared-local-memory-write-bandwidth-gb/sec"
+    }
+  ],
+  "String Handle API": [
+    "/en-us/vtune-amplifier-help-string-handle-api",
+    {
+      "String Handle API": "/en-us/vtune-amplifier-help-string-handle-api"
+    }
+  ],
+  "DSB Switches": [
+    "/en-us/vtune-amplifier-help-dsb-switches",
+    {
+      "DSB Switches": "/en-us/vtune-amplifier-help-dsb-switches"
+    }
+  ],
+  "NUMA: % of Remote Accesses": [
+    "/en-us/vtune-amplifier-help-numa-of-remote-accesses"
+  ],
+  "Instruction Starvation": [
+    "/en-us/vtune-amplifier-help-instruction-starvation",
+    {
+      "Instruction Starvation": "/en-us/vtune-amplifier-help-instruction-starvation"
+    }
+  ],
+  "Running locksandwaits Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-locksandwaits-analysis-from-the-command-line"
+  ],
+  "Window: Event Count - Hardware Events": [
+    "/en-us/vtune-amplifier-help-window-event-count-hardware-events",
+    {
+      "Window: Event Count - Hardware Events": "/en-us/vtune-amplifier-help-window-event-count-hardware-events"
+    }
+  ],
+  "Hardware Event-based Sampling Collection": [
+    "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection",
+    {
+      "Hardware Event-based Sampling Collection": "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection"
+    },
+    {
+      "Hardware Event-based Sampling Collection with Stacks": "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection-with-stacks"
+    }
+  ],
+  "target-duration-type": [
+    "/en-us/vtune-amplifier-help-target-duration-type",
+    {
+      "target-duration-type": "/en-us/vtune-amplifier-help-target-duration-type"
+    }
+  ],
+  "C-State": [
+    "/en-us/vtune-amplifier-help-c-state",
+    {
+      "C-State": "/en-us/vtune-amplifier-help-c-state"
+    }
+  ],
+  "Linux* and Android* Kernel Analysis": [
+    "/en-us/vtune-amplifier-help-linux-and-android-kernel-analysis",
+    {
+      "Linux* and Android* Kernel Analysis": "/en-us/vtune-amplifier-help-linux-and-android-kernel-analysis"
+    }
+  ],
+  "Loop Entry Count": [
+    "/en-us/vtune-amplifier-help-loop-entry-count",
+    {
+      "Loop Entry Count": "/en-us/vtune-amplifier-help-loop-entry-count"
+    }
+  ],
+  "Untyped Writes Coalescence": [
+    "/en-us/vtune-amplifier-help-untyped-writes-coalescence"
+  ],
+  "Window: Summary - Hardware Events": [
+    "/en-us/vtune-amplifier-help-window-summary-hardware-events"
+  ],
+  "Thread Concurrency": [
+    "/en-us/vtune-amplifier-help-thread-concurrency",
+    {
+      "Thread Concurrency": "/en-us/vtune-amplifier-help-thread-concurrency"
+    }
+  ],
+  "Running concurrency Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-concurrency-analysis-from-the-command-line"
+  ],
+  "Specifying Search Directories": [
+    "/en-us/vtune-amplifier-help-specifying-search-directories"
+  ],
+  "LLC Replacement Percentage": [
+    "/en-us/vtune-amplifier-help-llc-replacement-percentage",
+    {
+      "LLC Replacement Percentage": "/en-us/vtune-amplifier-help-llc-replacement-percentage"
+    }
+  ],
+  "Window: Bottom-up - Memory Usage": [
+    "/en-us/vtune-amplifier-help-window-bottom-up-memory-usage"
+  ],
+  "data-limit": [
+    "/en-us/vtune-amplifier-help-data-limit",
+    {
+      "data-limit": "/en-us/vtune-amplifier-help-data-limit"
+    }
+  ],
+  "Error Message: Cannot Load Data File": [
+    "/en-us/vtune-amplifier-help-error-message-cannot-load-data-file"
+  ],
+  "Code Profiling Scenarios": [
+    "/en-us/vtune-amplifier-help-code-profiling-scenarios",
+    {
+      "Java* Code Analysis": "/en-us/vtune-amplifier-help-java-code-analysis"
+    },
+    {
+      "GPU Application Analysis on Intel® HD Graphics and Intel® Iris™ Graphics": "/en-us/vtune-amplifier-help-gpu-application-analysis"
+    },
+    {
+      "Intel® Threading Building Blocks Code Analysis": "/en-us/vtune-amplifier-help-intel-threading-building-blocks-code-analysis"
+    }
+  ],
+  "Hardware Issues View": [
+    "/en-us/vtune-amplifier-help-hardware-issues-view",
+    {
+      "Hardware Issues View": "/en-us/vtune-amplifier-help-hardware-issues-view"
+    }
+  ],
+  "Local - Attach to Process Target Type": [
+    "/en-us/vtune-amplifier-help-local-attach-to-process-target-type",
+    {
+      "Local - Attach to Process Target Type": "/en-us/vtune-amplifier-help-local-attach-to-process-target-type"
+    }
+  ],
+  "Error Message: Intel® Graphics Driver Is Obsolete": [
+    "/en-us/vtune-amplifier-help-error-message-intel-graphics-driver-is-obsolete"
+  ],
+  "Branch Resteers": [
+    "/en-us/vtune-amplifier-help-branch-resteers",
+    {
+      "Branch Resteers": "/en-us/vtune-amplifier-help-branch-resteers"
+    }
+  ],
+  "finalization-mode": [
+    "/en-us/vtune-amplifier-help-finalization-mode"
+  ],
+  "CPI Rate (Intel® Atom™ processor)": [
+    "/en-us/vtune-amplifier-help-cpi-rate-intel-atom-processor"
+  ],
+  "Hardware Event Count": [
+    "/en-us/vtune-amplifier-help-hardware-event-count",
+    {
+      "Hardware Event Count": "/en-us/vtune-amplifier-help-hardware-event-count"
+    }
+  ],
+  "Bus Lock": [
+    "/en-us/vtune-amplifier-help-bus-lock",
+    {
+      "Bus Lock": "/en-us/vtune-amplifier-help-bus-lock"
+    }
+  ],
+  "Problem: Guessed Stack Frames": [
+    "/en-us/vtune-amplifier-help-problem-guessed-stack-frames"
+  ],
+  "target-system": [
+    "/en-us/vtune-amplifier-help-target-system"
+  ],
+  "Wait Rate": [
+    "/en-us/vtune-amplifier-help-wait-rate",
+    {
+      "Wait Rate": "/en-us/vtune-amplifier-help-wait-rate"
+    }
+  ],
+  "MCDRAM Cache Bandwidth Bound": [
+    "/en-us/vtune-amplifier-help-mcdram-cache-bandwidth-bound"
+  ],
+  "Thread Oversubscription": [
+    "/en-us/vtune-amplifier-help-thread-oversubscription",
+    {
+      "Thread Oversubscription": "/en-us/vtune-amplifier-help-thread-oversubscription"
+    }
+  ],
+  "GPU Analysis Report": [
+    "/en-us/vtune-amplifier-help-gpu-analysis-report"
+  ],
+  "SIMD Assists": [
+    "/en-us/vtune-amplifier-help-simd-assists",
+    {
+      "SIMD Assists": "/en-us/vtune-amplifier-help-simd-assists"
+    }
+  ],
+  "Comparing Source Code": [
+    "/en-us/vtune-amplifier-help-comparing-source-code",
+    {
+      "Comparing Source Code": "/en-us/vtune-amplifier-help-comparing-source-code"
+    }
+  ],
+  "Precise Events": [
+    "/en-us/vtune-amplifier-help-precise-events",
+    {
+      "Precise Events": "/en-us/vtune-amplifier-help-precise-events"
+    }
+  ],
+  "Pausing Collection from the Command Line": [
+    "/en-us/vtune-amplifier-help-pausing-collection-from-the-command-line"
+  ],
+  "Configuring Yocto Project* and Intel® VTune™ Amplifier with the Intel System Studio Integration Layer": [
+    "/en-us/vtune-amplifier-help-configure-yocto-project-with-iss-integration-layer"
+  ],
+  "target-install-dir": [
+    "/en-us/vtune-amplifier-help-target-install-dir",
+    {
+      "target-install-dir": "/en-us/vtune-amplifier-help-target-install-dir"
+    }
+  ],
+  "Sampling Drivers": [
+    "/en-us/vtune-amplifier-help-sep-driver"
+  ],
+  "Memory Access Analysis for Cache Misses and High Bandwidth Issues": [
+    "/en-us/vtune-amplifier-help-memory-access-analysis",
+    {
+      "Memory Usage View": "/en-us/vtune-amplifier-help-memory-usage-view"
+    }
+  ],
+  "kvm-guest-kallsyms": [
+    "/en-us/vtune-amplifier-help-kvm-guest-kallsyms"
+  ],
+  "quiet": [
+    "/en-us/vtune-amplifier-help-quiet"
+  ],
+  "MS Entry": [
+    "/en-us/vtune-amplifier-help-ms-entry"
+  ],
+  "Creation": [
+    "/en-us/vtune-amplifier-help-creation-1",
+    {
+      "Creation": "/en-us/vtune-amplifier-help-creation-1"
+    }
+  ],
+  "Clockticks per Instructions Retired (CPI)": [
+    "/en-us/vtune-amplifier-help-clockticks-per-instructions-retired-cpi",
+    {
+      "Clockticks per Instructions Retired (CPI)": "/en-us/vtune-amplifier-help-clockticks-per-instructions-retired-cpi"
+    }
+  ],
+  "Window: Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-platform-power-analysis"
+  ],
+  "Adding Administrative Privileges": [
+    "/en-us/vtune-amplifier-help-adding-administrative-privileges"
+  ],
+  "False Sharing": [
+    "/en-us/vtune-amplifier-help-false-sharing",
+    {
+      "False Sharing": "/en-us/vtune-amplifier-help-false-sharing"
+    }
+  ],
+  "Problem: CPU time for Hotspots or Concurrency Analysis is Too Low": [
+    "/en-us/vtune-amplifier-help-problem-cpu-time-is-too-low"
+  ],
+  "Analyzing Interrupts": [
+    "/en-us/vtune-amplifier-help-analyzing-interrupts"
+  ],
+  "Configuring SSH Access for Remote Collection": [
+    "/en-us/vtune-amplifier-help-configuring-ssh-access-for-remote-collection",
+    {
+      "Configuring SSH Access for Remote Collection": "/en-us/vtune-amplifier-help-configuring-ssh-access-for-remote-collection"
+    }
+  ],
+  "Port 2": [
+    "/en-us/vtune-amplifier-help-port-2"
+  ],
+  "Allow Multiple Runs or Multiplex Events": [
+    "/en-us/vtune-amplifier-help-allow-multiple-runs-or-multiplex-events"
+  ],
+  "Remote / Local DRAM Ratio": [
+    "/en-us/vtune-amplifier-help-remote-/-local-dram-ratio"
+  ],
+  "Branch Mispredict": [
+    "/en-us/vtune-amplifier-help-branch-mispredict",
+    {
+      "Branch Mispredict": "/en-us/vtune-amplifier-help-branch-mispredict"
+    }
+  ],
+  "Pausing Data Collection": [
+    "/en-us/vtune-amplifier-help-pausing-data-collection"
+  ],
+  "Window: Graphics - GPU Hotspots": [
+    "/en-us/vtune-amplifier-help-window-graphics-gpu-hotspots"
+  ],
+  "FP x87": [
+    "/en-us/vtune-amplifier-help-fp-x87"
+  ],
+  "MCDRAM Flat Bandwidth Bound": [
+    "/en-us/vtune-amplifier-help-mcdram-flat-bandwidth-bound"
+  ],
+  "User-Mode Sampling and Tracing Collection": [
+    "/en-us/vtune-amplifier-help-user-mode-sampling-and-tracing-collection",
+    {
+      "User-Mode Sampling and Tracing Collection": "/en-us/vtune-amplifier-help-user-mode-sampling-and-tracing-collection"
+    }
+  ],
+  "Launch Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-launch",
+    {
+      "Standalone VTune Amplifier Graphical Interface": "/en-us/vtune-amplifier-help-standalone-ui"
+    },
+    {
+      "Eclipse* IDE Integration": "/en-us/vtune-amplifier-help-eclipse-ide-integration"
+    }
+  ],
+  "Problem: Unreadable Text in Intel VTune Amplifier on macOS*": [
+    "/en-us/vtune-amplifier-help-problem-unreliable-text-on-macOS"
+  ],
+  "Error Message: Required Key Not Available": [
+    "/en-us/vtune-amplifier-help-error-message-required-key-not-available"
+  ],
+  "Collecting System-Wide Data from the Command Line": [
+    "/en-us/vtune-amplifier-help-collecting-system-wide-data-from-the-command-line"
+  ],
+  "Intel® Threading Building Blocks Code Analysis": [
+    "/en-us/vtune-amplifier-help-intel-threading-building-blocks-code-analysis",
+    {
+      "Intel® Threading Building Blocks Code Analysis": "/en-us/vtune-amplifier-help-intel-threading-building-blocks-code-analysis"
+    }
+  ],
+  "MO Machine Clear Overhead": [
+    "/en-us/vtune-amplifier-help-mo-machine-clear-overhead"
+  ],
+  "MPI Code Analysis": [
+    "/en-us/vtune-amplifier-help-mpi-code-analysis"
+  ],
+  "Viewing Source": [
+    "/en-us/vtune-amplifier-help-viewing-source",
+    {
+      "Viewing Source": "/en-us/vtune-amplifier-help-viewing-source"
+    }
+  ],
+  "Error: Make Sure You Have Root Privileges to Analyze Processor Graphics Hardware Events": [
+    "/en-us/vtune-amplifier-help-error-root-privileges-for-gpu-analysis"
+  ],
+  "Tasking": [
+    "/en-us/vtune-amplifier-help-tasking"
+  ],
+  "EU Array Idle": [
+    "/en-us/vtune-amplifier-help-eu-array-idle",
+    {
+      "EU Array Idle": "/en-us/vtune-amplifier-help-eu-array-idle"
+    }
+  ],
+  "Synchronization Between Bottom-up and Top-down Tree Windows": [
+    "/en-us/vtune-amplifier-help-synchronization-between-bottom-up-and-top-down-tree-windows",
+    {
+      "Synchronization Between Bottom-up and Top-down Tree Windows": "/en-us/vtune-amplifier-help-synchronization-between-bottom-up-and-top-down-tree-windows"
+    }
+  ],
+  "Window: Summary - HPC Performance Characterization": [
+    "/en-us/vtune-amplifier-help-window-summary-hpc-performance-characterization"
+  ],
+  "Custom Analysis Options - Hardware Event-based Sampling": [
+    "/en-us/vtune-amplifier-help-custom-analysis-options-hardware-event-based-sampling",
+    {
+      "Custom Analysis Options - Hardware Event-based Sampling": "/en-us/vtune-amplifier-help-custom-analysis-options-hardware-event-based-sampling"
+    },
+    {
+      "Precise Events": "/en-us/vtune-amplifier-help-precise-events"
+    },
+    {
+      "Linux* and Android* Kernel Analysis": "/en-us/vtune-amplifier-help-linux-and-android-kernel-analysis"
+    }
+  ],
+  "Wake-ups/sec per Core": [
+    "/en-us/vtune-amplifier-help-wake-ups/sec-per-core",
+    {
+      "Wake-ups/sec per Core": "/en-us/vtune-amplifier-help-wake-ups/sec-per-core"
+    }
+  ],
+  "CPU/GPU Concurrency Analysis": [
+    "/en-us/vtune-amplifier-help-cpu/gpu-concurrency-analysis",
+    {
+      "CPU/GPU Concurrency Analysis": "/en-us/vtune-amplifier-help-cpu/gpu-concurrency-analysis"
+    }
+  ],
+  "FP Arithmetic": [
+    "/en-us/vtune-amplifier-help-fp-arithmetic"
+  ],
+  "column": [
+    "/en-us/vtune-amplifier-help-column"
+  ],
+  "DRAM Bandwidth Bound": [
+    "/en-us/vtune-amplifier-help-dram-bandwidth-bound"
+  ],
+  "Memory Bound": [
+    "/en-us/vtune-amplifier-help-memory-bound",
+    {
+      "Memory Bound": "/en-us/vtune-amplifier-help-memory-bound"
+    }
+  ],
+  "Energy Consumed (mJ)": [
+    "/en-us/vtune-amplifier-help-energy-consumed-mj",
+    {
+      "Energy Consumed (mJ)": "/en-us/vtune-amplifier-help-energy-consumed-mj"
+    }
+  ],
+  "Problem: System Functions Appear in the User Functions Only Mode": [
+    "/en-us/vtune-amplifier-help-problem-system-functions-appear-in-the-user-functions-only-mode"
+  ],
+  "Back-End Bound": [
+    "/en-us/vtune-amplifier-help-back-end-bound",
+    {
+      "Back-End Bound": "/en-us/vtune-amplifier-help-back-end-bound"
+    },
+    {
+      "Memory Bandwidth": "/en-us/vtune-amplifier-help-memory-bandwidth"
+    },
+    {
+      "LLC Miss": "/en-us/vtune-amplifier-help-llc-miss"
+    },
+    {
+      "Port Utilization": "/en-us/vtune-amplifier-help-port-utilization"
+    }
+  ],
+  "Load Module API": [
+    "/en-us/vtune-amplifier-help-load-module-api"
+  ],
+  "Problem: Skipped Stack Frames": [
+    "/en-us/vtune-amplifier-help-problem-skipped-stack-frames"
+  ],
+  "Window: Platform": [
+    "/en-us/vtune-amplifier-help-window-platform",
+    {
+      "Window: Platform": "/en-us/vtune-amplifier-help-window-platform"
+    }
+  ],
+  "Problem: Cannot Access VTune Amplifier Documentation": [
+    "/en-us/vtune-amplifier-help-problem-accessing-documentation"
+  ],
+  "EU Send pipeline active": [
+    "/en-us/vtune-amplifier-help-eu-send-pipeline-active",
+    {
+      "EU Send pipeline active": "/en-us/vtune-amplifier-help-eu-send-pipeline-active"
+    }
+  ],
+  "LLC Replacements": [
+    "/en-us/vtune-amplifier-help-llc-replacements"
+  ],
+  "Precise Clockticks": [
+    "/en-us/vtune-amplifier-help-precise-clockticks",
+    {
+      "Precise Clockticks": "/en-us/vtune-amplifier-help-precise-clockticks"
+    }
+  ],
+  "Page Walk": [
+    "/en-us/vtune-amplifier-help-page-walk"
+  ],
+  "SGX Hotspots Analysis Inside Security Enclaves": [
+    "/en-us/vtune-amplifier-help-sgx-hotspots-analysis"
+  ],
+  "Window: Bottom-up - Hotspots/Hotspots by CPU Usage": [
+    "/en-us/vtune-amplifier-help-window-bottom-up-hotspots/hotspots-by-cpu-usage",
+    {
+      "Window: Bottom-up - Hotspots/Hotspots by CPU Usage": "/en-us/vtune-amplifier-help-window-bottom-up-hotspots/hotspots-by-cpu-usage"
+    }
+  ],
+  "Task API": [
+    "/en-us/vtune-amplifier-help-task-api",
+    {
+      "Task API": "/en-us/vtune-amplifier-help-task-api"
+    }
+  ],
+  "Introduction": [
+    "/en-us/vtune-amplifier-help-introduction",
+    {
+      "Introduction": "/en-us/vtune-amplifier-help-introduction"
+    },
+    {
+      "Tuning Methodology": "/en-us/vtune-amplifier-help-tuning-methodology"
+    },
+    {
+      "Notational Conventions": "/en-us/vtune-amplifier-help-notational-conventions"
+    },
+    {
+      "Getting Help": "/en-us/vtune-amplifier-help-getting-help"
+    },
+    {
+      "Product Website and Support": "/en-us/vtune-amplifier-help-product-website-and-support"
+    },
+    {
+      "Related Information": "/en-us/vtune-amplifier-help-related-information"
+    }
+  ],
+  "MPI Imbalance": [
+    "/en-us/vtune-amplifier-help-mpi-imbalance"
+  ],
+  "OpenMP* Analysis. Collection Time": [
+    "/en-us/vtune-amplifier-help-openmp-analysis-collection-time",
+    {
+      "OpenMP* Analysis. Collection Time": "/en-us/vtune-amplifier-help-openmp-analysis-collection-time"
+    }
+  ],
+  "Untyped Memory Read Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-untyped-memory-read-bandwidth-gb/sec",
+    {
+      "Untyped Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-untyped-memory-read-bandwidth-gb/sec"
+    }
+  ],
+  "Error Message: No Pre-built Driver Exists for This System (for Remote Linux Targets)": [
+    "/en-us/vtune-amplifier-help-error-message-no-pre-built-driver-exists-for-this-system-for-remote-linux-targets"
+  ],
+  "Effective Time": [
+    "/en-us/vtune-amplifier-help-effective-time",
+    {
+      "Effective Time": "/en-us/vtune-amplifier-help-effective-time"
+    }
+  ],
+  "Configuring Analysis Options from the Command Line": [
+    "/en-us/vtune-amplifier-help-configuring-analysis-options-from-the-command-line"
+  ],
+  "Size": [
+    "/en-us/vtune-amplifier-help-size",
+    {
+      "Size": "/en-us/vtune-amplifier-help-size"
+    }
+  ],
+  "Metrics Distribution Over Call Stacks": [
+    "/en-us/vtune-amplifier-help-metrics-distribution-over-call-stacks"
+  ],
+  "GPU EU Array Usage": [
+    "/en-us/vtune-amplifier-help-gpu-eu-array-usage",
+    {
+      "GPU EU Array Usage": "/en-us/vtune-amplifier-help-gpu-eu-array-usage"
+    }
+  ],
+  "version": [
+    "/en-us/vtune-amplifier-help-version",
+    {
+      "version": "/en-us/vtune-amplifier-help-version"
+    }
+  ],
+  "Managing Timeline View": [
+    "/en-us/vtune-amplifier-help-managing-timeline-view"
+  ],
+  "Domain API": [
+    "/en-us/vtune-amplifier-help-domain-api",
+    {
+      "Domain API": "/en-us/vtune-amplifier-help-domain-api"
+    }
+  ],
+  "Related Information": [
+    "/en-us/vtune-amplifier-help-related-information",
+    {
+      "Related Information": "/en-us/vtune-amplifier-help-related-information"
+    }
+  ],
+  "Running gpu-hotspots Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-gpu-hotspots-analysis-from-the-command-line"
+  ],
+  "Remote Linux - Profile System Target Type": [
+    "/en-us/vtune-amplifier-help-remote-linux-profile-system-target-type"
+  ],
+  "duration": [
+    "/en-us/vtune-amplifier-help-duration"
+  ],
+  "Locks and Waits View": [
+    "/en-us/vtune-amplifier-help-locks-and-waits-view"
+  ],
+  "cpu-mask": [
+    "/en-us/vtune-amplifier-help-cpu-mask"
+  ],
+  "Wait Time": [
+    "/en-us/vtune-amplifier-help-wait-time"
+  ],
+  "CPU Usage": [
+    "/en-us/vtune-amplifier-help-cpu-usage",
+    {
+      "CPU Usage": "/en-us/vtune-amplifier-help-cpu-usage"
+    }
+  ],
+  "Window: Summary - Memory Usage": [
+    "/en-us/vtune-amplifier-help-window-summary-memory-usage"
+  ],
+  "Window: Bandwidth - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-bandwidth-platform-power-analysis",
+    {
+      "Window: Bandwidth - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-bandwidth-platform-power-analysis"
+    }
+  ],
+  "TSX Exploration Analysis for Transactional Aborts": [
+    "/en-us/vtune-amplifier-help-tsx-exploration-analysis",
+    {
+      "TSX Exploration Analysis for Transactional Aborts": "/en-us/vtune-amplifier-help-tsx-exploration-analysis"
+    }
+  ],
+  "Window: Caller/Callee": [
+    "/en-us/vtune-amplifier-help-window-caller/callee",
+    {
+      "Window: Caller/Callee": "/en-us/vtune-amplifier-help-window-caller/callee"
+    }
+  ],
+  "SP FLOPs per Cycle": [
+    "/en-us/vtune-amplifier-help-sp-flops-per-cycle-1"
+  ],
+  "Hardware Event List": [
+    "/en-us/vtune-amplifier-help-hardware-event-list",
+    {
+      "Precise Events": "/en-us/vtune-amplifier-help-precise-events"
+    }
+  ],
+  "Window: Summary - TSX Exploration": [
+    "/en-us/vtune-amplifier-help-window-summary-tsx-exploration"
+  ],
+  "Idle Wake-ups": [
+    "/en-us/vtune-amplifier-help-idle-wake-ups",
+    {
+      "Idle Wake-ups": "/en-us/vtune-amplifier-help-idle-wake-ups"
+    }
+  ],
+  "Highly Accurate CPU Time Data Collection": [
+    "/en-us/vtune-amplifier-help-highly-accurate-cpu-time-data-collection"
+  ],
+  "Issues and Limitations": [
+    "/en-us/vtune-amplifier-help-issues-and-limitations"
+  ],
+  "Window: Summary - Hardware Issues": [
+    "/en-us/vtune-amplifier-help-window-summary-hardware-issues"
+  ],
+  "Enabling Intel® VTune™ Amplifier Analysis on a VMware* Guest System": [
+    "/en-us/vtune-amplifier-help-on-vmware"
+  ],
+  "Standalone VTune Amplifier Graphical Interface": [
+    "/en-us/vtune-amplifier-help-standalone-ui",
+    {
+      "Standalone VTune Amplifier Graphical Interface": "/en-us/vtune-amplifier-help-standalone-ui"
+    }
+  ],
+  "Window: Power - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-power-platform-power-analysis",
+    {
+      "Window: Power - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-power-platform-power-analysis"
+    }
+  ],
+  "General Exploration View": [
+    "/en-us/vtune-amplifier-help-general-exploration-view",
+    {
+      "General Exploration View": "/en-us/vtune-amplifier-help-general-exploration-view"
+    }
+  ],
+  "Atomics": [
+    "/en-us/vtune-amplifier-help-atomics-1"
+  ],
+  "Running hotspots Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-hotspots-analysis-from-the-command-line"
+  ],
+  "sort-desc": [
+    "/en-us/vtune-amplifier-help-sort-desc",
+    {
+      "sort-desc": "/en-us/vtune-amplifier-help-sort-desc"
+    }
+  ],
+  "Legal Information": [
+    "/en-us/vtune-amplifier-help-legal-information",
+    {
+      "Legal Information": "/en-us/vtune-amplifier-help-legal-information"
+    }
+  ],
+  "CPU Metrics Reference": [
+    "/en-us/vtune-amplifier-help-cpu-metrics-reference",
+    {
+      "CPU Metrics Reference": "/en-us/vtune-amplifier-help-cpu-metrics-reference"
+    },
+    {
+      "Assists": "/en-us/vtune-amplifier-help-assists"
+    },
+    {
+      "Back-End Bound": "/en-us/vtune-amplifier-help-back-end-bound"
+    },
+    {
+      "Memory Bandwidth": "/en-us/vtune-amplifier-help-memory-bandwidth"
+    },
+    {
+      "LLC Miss": "/en-us/vtune-amplifier-help-llc-miss"
+    },
+    {
+      "Port Utilization": "/en-us/vtune-amplifier-help-port-utilization"
+    },
+    {
+      "Bad Speculation (Back-End Bound Pipeline Slots)": "/en-us/vtune-amplifier-help-bad-speculation-back-end-bound-pipeline-slots"
+    },
+    {
+      "MS Assists": "/en-us/vtune-amplifier-help-ms-assists"
+    },
+    {
+      "Branch Mispredict": "/en-us/vtune-amplifier-help-branch-mispredict"
+    },
+    {
+      "Bus Lock": "/en-us/vtune-amplifier-help-bus-lock"
+    },
+    {
+      "Clockticks per Instructions Retired (CPI)": "/en-us/vtune-amplifier-help-clockticks-per-instructions-retired-cpi"
+    },
+    {
+      "Core Bound": "/en-us/vtune-amplifier-help-core-bound"
+    },
+    {
+      "CPU Frequency Ratio": "/en-us/vtune-amplifier-help-cpu-frequency-ratio"
+    },
+    {
+      "CPU Time": "/en-us/vtune-amplifier-help-cpu-time-1"
+    },
+    {
+      "CPU Usage": "/en-us/vtune-amplifier-help-cpu-usage"
+    },
+    {
+      "Cycles of 0 Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-0-ports-utilized"
+    },
+    {
+      "Cycles of 1 Port Utilized": "/en-us/vtune-amplifier-help-cycles-of-1-port-utilized"
+    },
+    {
+      "Cycles of 2 Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-2-ports-utilized"
+    },
+    {
+      "Cycles of 3+ Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-3-ports-utilized"
+    },
+    {
+      "Divider": "/en-us/vtune-amplifier-help-divider"
+    },
+    {
+      "DRAM Bound": "/en-us/vtune-amplifier-help-dram-bound"
+    },
+    {
+      "DTLB Store Overhead": "/en-us/vtune-amplifier-help-dtlb-store-overhead"
+    },
+    {
+      "Effective Time": "/en-us/vtune-amplifier-help-effective-time"
+    },
+    {
+      "Elapsed Time": "/en-us/vtune-amplifier-help-elapsed-time"
+    },
+    {
+      "Estimated Call Count": "/en-us/vtune-amplifier-help-estimated-call-count"
+    },
+    {
+      "Execution Stalls": "/en-us/vtune-amplifier-help-execution-stalls"
+    },
+    {
+      "False Sharing": "/en-us/vtune-amplifier-help-false-sharing"
+    },
+    {
+      "Flags Merge Stalls": "/en-us/vtune-amplifier-help-flags-merge-stalls"
+    },
+    {
+      "Front-End Bandwidth": "/en-us/vtune-amplifier-help-front-end-bandwidth"
+    },
+    {
+      "Front-End Bandwidth DSB": "/en-us/vtune-amplifier-help-front-end-bandwidth-dsb"
+    },
+    {
+      "Front-End Bandwidth MITE": "/en-us/vtune-amplifier-help-front-end-bandwidth-mite"
+    },
+    {
+      "Branch Resteers": "/en-us/vtune-amplifier-help-branch-resteers"
+    },
+    {
+      "DSB Switches": "/en-us/vtune-amplifier-help-dsb-switches"
+    },
+    {
+      "ICache Misses": "/en-us/vtune-amplifier-help-icache-misses"
+    },
+    {
+      "ITLB Overhead": "/en-us/vtune-amplifier-help-itlb-overhead"
+    },
+    {
+      "Length Changing Prefixes": "/en-us/vtune-amplifier-help-length-changing-prefixes"
+    },
+    {
+      "Front-End Latency": "/en-us/vtune-amplifier-help-front-end-latency"
+    },
+    {
+      "General Retirement": "/en-us/vtune-amplifier-help-general-retirement"
+    },
+    {
+      "Hardware Event Count": "/en-us/vtune-amplifier-help-hardware-event-count"
+    },
+    {
+      "Hardware Event Sample Count": "/en-us/vtune-amplifier-help-hardware-event-sample-count"
+    },
+    {
+      "Instruction Starvation": "/en-us/vtune-amplifier-help-instruction-starvation"
+    },
+    {
+      "L1 Bound": "/en-us/vtune-amplifier-help-l1-bound"
+    },
+    {
+      "4K Aliasing": "/en-us/vtune-amplifier-help-4k-aliasing"
+    },
+    {
+      "DTLB Overhead": "/en-us/vtune-amplifier-help-dtlb-overhead"
+    },
+    {
+      "Split Loads": "/en-us/vtune-amplifier-help-split-loads"
+    },
+    {
+      "L1D Replacement Percentage": "/en-us/vtune-amplifier-help-l1d-replacement-percentage"
+    },
+    {
+      "L1D Replacements": "/en-us/vtune-amplifier-help-l1d-replacements"
+    },
+    {
+      "L1I Stall Cycles": "/en-us/vtune-amplifier-help-l1i-stall-cycles"
+    },
+    {
+      "L2 Bound": "/en-us/vtune-amplifier-help-l2-bound"
+    },
+    {
+      "L2 Replacement Percentage": "/en-us/vtune-amplifier-help-l2-replacement-percentage"
+    },
+    {
+      "L2 Replacements": "/en-us/vtune-amplifier-help-l2-replacements"
+    },
+    {
+      "L3 Bound": "/en-us/vtune-amplifier-help-l3-bound"
+    },
+    {
+      "Contested Accesses": "/en-us/vtune-amplifier-help-contested-accesses"
+    },
+    {
+      "Data Sharing": "/en-us/vtune-amplifier-help-data-sharing"
+    },
+    {
+      "L3 Latency": "/en-us/vtune-amplifier-help-l3-latency"
+    },
+    {
+      "LLC Hit": "/en-us/vtune-amplifier-help-llc-hit"
+    },
+    {
+      "LLC Load Misses Serviced By Remote DRAM": "/en-us/vtune-amplifier-help-llc-load-misses-serviced-by-remote-dram"
+    },
+    {
+      "LLC Replacement Percentage": "/en-us/vtune-amplifier-help-llc-replacement-percentage"
+    },
+    {
+      "Loop Entry Count": "/en-us/vtune-amplifier-help-loop-entry-count"
+    },
+    {
+      "Machine Clears": "/en-us/vtune-amplifier-help-machine-clears"
+    },
+    {
+      "Memory Bandwidth": "/en-us/vtune-amplifier-help-memory-bandwidth-1"
+    },
+    {
+      "Memory Bound": "/en-us/vtune-amplifier-help-memory-bound"
+    },
+    {
+      "Memory Bus Transactions": "/en-us/vtune-amplifier-help-memory-bus-transactions"
+    },
+    {
+      "Microcode Sequencer": "/en-us/vtune-amplifier-help-microcode-sequencer"
+    },
+    {
+      "MUX Reliability": "/en-us/vtune-amplifier-help-mux-reliability"
+    },
+    {
+      "OpenMP* Analysis. Collection Time": "/en-us/vtune-amplifier-help-openmp-analysis-collection-time"
+    },
+    {
+      "OpenMP* Potential Gain": "/en-us/vtune-amplifier-help-openmp-potential-gain"
+    },
+    {
+      "Parallel Region Time": "/en-us/vtune-amplifier-help-parallel-region-time"
+    },
+    {
+      "Paused Time": "/en-us/vtune-amplifier-help-paused-time"
+    },
+    {
+      "Precise Clockticks": "/en-us/vtune-amplifier-help-precise-clockticks"
+    },
+    {
+      "Retire Stalls": "/en-us/vtune-amplifier-help-retire-stalls"
+    },
+    {
+      "Self Time and Total Time": "/en-us/vtune-amplifier-help-self-time-and-total-time"
+    },
+    {
+      "SIMD Assists": "/en-us/vtune-amplifier-help-simd-assists"
+    },
+    {
+      "Slow LEA Stalls": "/en-us/vtune-amplifier-help-slow-lea-stalls"
+    },
+    {
+      "SMC Machine Clear": "/en-us/vtune-amplifier-help-smc-machine-clear"
+    },
+    {
+      "Spin Time": "/en-us/vtune-amplifier-help-spin-time"
+    },
+    {
+      "Imbalance or Serial Spinning": "/en-us/vtune-amplifier-help-imbalance-or-serial-spinning-1"
+    },
+    {
+      "Lock Contention": "/en-us/vtune-amplifier-help-lock-contention-1"
+    },
+    {
+      "Spin and Overhead Time": "/en-us/vtune-amplifier-help-spin-and-overhead-time"
+    },
+    {
+      "Creation": "/en-us/vtune-amplifier-help-creation-1"
+    },
+    {
+      "Other": "/en-us/vtune-amplifier-help-other-3"
+    },
+    {
+      "Reduction": "/en-us/vtune-amplifier-help-reduction-1"
+    },
+    {
+      "Scheduling": "/en-us/vtune-amplifier-help-scheduling-1"
+    },
+    {
+      "Split Stores": "/en-us/vtune-amplifier-help-split-stores"
+    },
+    {
+      "Store Bound": "/en-us/vtune-amplifier-help-store-bound"
+    },
+    {
+      "Thread Concurrency": "/en-us/vtune-amplifier-help-thread-concurrency"
+    },
+    {
+      "Thread Oversubscription": "/en-us/vtune-amplifier-help-thread-oversubscription"
+    },
+    {
+      "Total Iteration Count": "/en-us/vtune-amplifier-help-total-iteration-count"
+    },
+    {
+      "Wait Count": "/en-us/vtune-amplifier-help-wait-count"
+    },
+    {
+      "Wait Rate": "/en-us/vtune-amplifier-help-wait-rate"
+    }
+  ],
+  "GPU L3 Misses, Misses/sec": [
+    "/en-us/vtune-amplifier-help-gpu-l3-misses-misses/sec",
+    {
+      "GPU L3 Misses, Misses/sec": "/en-us/vtune-amplifier-help-gpu-l3-misses-misses/sec"
+    }
+  ],
+  "Port 1": [
+    "/en-us/vtune-amplifier-help-port-1"
+  ],
+  "Viewing Instrumentation and Tracing Technology (ITT) API Task Data in Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-viewing-itt-api-task-data"
+  ],
+  "CPI Rate": [
+    "/en-us/vtune-amplifier-help-cpi-rate"
+  ],
+  "L3 Sampler Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-l3-sampler-bandwidth-gb/sec",
+    {
+      "L3 Sampler Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-l3-sampler-bandwidth-gb/sec"
+    }
+  ],
+  "Computing Threads Started, Threads/sec": [
+    "/en-us/vtune-amplifier-help-computing-threads-started-threads/sec"
+  ],
+  "Debug Information for Linux* Application Binaries": [
+    "/en-us/vtune-amplifier-help-debug-info-for-linux-binaries"
+  ],
+  "FreeBSD* System Setup": [
+    "/en-us/vtune-amplifier-help-freebsd-system-setup"
+  ],
+  "Machine Clears": [
+    "/en-us/vtune-amplifier-help-machine-clears",
+    {
+      "Machine Clears": "/en-us/vtune-amplifier-help-machine-clears"
+    }
+  ],
+  "L2 Replacements": [
+    "/en-us/vtune-amplifier-help-l2-replacements",
+    {
+      "L2 Replacements": "/en-us/vtune-amplifier-help-l2-replacements"
+    }
+  ],
+  "Core Frequency": [
+    "/en-us/vtune-amplifier-help-core-frequency"
+  ],
+  "Occupancy": [
+    "/en-us/vtune-amplifier-help-occupancy"
+  ],
+  "GPU L3 Misses": [
+    "/en-us/vtune-amplifier-help-gpu-l3-misses"
+  ],
+  "Comparing Results": [
+    "/en-us/vtune-amplifier-help-comparing-results",
+    {
+      "Comparing Results": "/en-us/vtune-amplifier-help-comparing-results"
+    },
+    {
+      "Comparing Source Code": "/en-us/vtune-amplifier-help-comparing-source-code"
+    },
+    {
+      "Viewing Comparison Data": "/en-us/vtune-amplifier-help-viewing-comparison-data"
+    },
+    {
+      "Comparison Summary": "/en-us/vtune-amplifier-help-comparison-summary"
+    },
+    {
+      "Bottom-up Comparison": "/en-us/vtune-amplifier-help-bottom-up-comparison"
+    },
+    {
+      "Top-down Tree Comparison": "/en-us/vtune-amplifier-help-top-down-tree-comparison"
+    }
+  ],
+  "no-unplugged-mode": [
+    "/en-us/vtune-amplifier-help-no-unplugged-mode"
+  ],
+  "Instrumenting Your Application": [
+    "/en-us/vtune-amplifier-help-instrumenting-your-application",
+    {
+      "Instrumenting Your Application": "/en-us/vtune-amplifier-help-instrumenting-your-application"
+    }
+  ],
+  "Render/GPGPU Command Streamer Loaded": [
+    "/en-us/vtune-amplifier-help-render/gpgpu-command-streamer-loaded",
+    {
+      "Render/GPGPU Command Streamer Loaded": "/en-us/vtune-amplifier-help-render/gpgpu-command-streamer-loaded"
+    }
+  ],
+  "Running system-overview Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-system-overview-analysis-from-the-command-line"
+  ],
+  "Estimated Call Count": [
+    "/en-us/vtune-amplifier-help-estimated-call-count",
+    {
+      "Estimated Call Count": "/en-us/vtune-amplifier-help-estimated-call-count"
+    }
+  ],
+  "Configuring GPU Analysis from Command Line": [
+    "/en-us/vtune-amplifier-help-configuring-gpu-analysis-from-command-line"
+  ],
+  "Front-End Latency": [
+    "/en-us/vtune-amplifier-help-front-end-latency",
+    {
+      "Front-End Latency": "/en-us/vtune-amplifier-help-front-end-latency"
+    }
+  ],
+  "Intel® Media SDK Program Analysis": [
+    "/en-us/vtune-amplifier-help-intel-media-sdk-program-analysis"
+  ],
+  "Global": [
+    "/en-us/vtune-amplifier-help-global",
+    {
+      "Global": "/en-us/vtune-amplifier-help-global"
+    }
+  ],
+  "ICache Line Fetch": [
+    "/en-us/vtune-amplifier-help-icache-line-fetch"
+  ],
+  "Remote Cache Access Count": [
+    "/en-us/vtune-amplifier-help-remote-cache-access-count"
+  ],
+  "Interpreting Energy Analysis Data with Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-interpreting-energy-analysis-data-with-intel-vtune-amplifier"
+  ],
+  "IPC": [
+    "/en-us/vtune-amplifier-help-ipc"
+  ],
+  "Window: Collection Log": [
+    "/en-us/vtune-amplifier-help-window-collection-log",
+    {
+      "Window: Collection Log": "/en-us/vtune-amplifier-help-window-collection-log"
+    }
+  ],
+  "Imbalance": [
+    "/en-us/vtune-amplifier-help-imbalance"
+  ],
+  "Managed Code Profiling": [
+    "/en-us/vtune-amplifier-help-managed-code-profiling"
+  ],
+  "Menu: Customize Grouping": [
+    "/en-us/vtune-amplifier-help-menu-customize-grouping",
+    {
+      "Menu: Customize Grouping": "/en-us/vtune-amplifier-help-menu-customize-grouping"
+    }
+  ],
+  "Parallel Region Time": [
+    "/en-us/vtune-amplifier-help-parallel-region-time",
+    {
+      "Parallel Region Time": "/en-us/vtune-amplifier-help-parallel-region-time"
+    }
+  ],
+  "Remote Linux - Launch Application Target Type": [
+    "/en-us/vtune-amplifier-help-remote-linux-launch-application-target-type",
+    {
+      "Remote Linux - Launch Application Target Type": "/en-us/vtune-amplifier-help-remote-linux-launch-application-target-type"
+    }
+  ],
+  "HPC Performance Characterization Analysis": [
+    "/en-us/vtune-amplifier-help-hpc-performance-characterization-analysis"
+  ],
+  "Elapsed Time": [
+    "/en-us/vtune-amplifier-help-elapsed-time-2"
+  ],
+  "GPU Hotspots Analysis": [
+    "/en-us/vtune-amplifier-help-gpu-hotspots-analysis",
+    {
+      "GPU OpenCL™ Application Analysis View": "/en-us/vtune-amplifier-help-gpu-opencl-application-analysis-view"
+    }
+  ],
+  "Window: Uncore Event Count - Hardware Events": [
+    "/en-us/vtune-amplifier-help-window-uncore-event-count-hardware-events",
+    {
+      "Window: Uncore Event Count - Hardware Events": "/en-us/vtune-amplifier-help-window-uncore-event-count-hardware-events"
+    }
+  ],
+  "Port 6": [
+    "/en-us/vtune-amplifier-help-port-6"
+  ],
+  "Top-down Report": [
+    "/en-us/vtune-amplifier-help-top-down-report"
+  ],
+  "Microarchitecture Analysis": [
+    "/en-us/vtune-amplifier-help-microarchitecture-analysis",
+    {
+      "Microarchitecture Analysis": "/en-us/vtune-amplifier-help-microarchitecture-analysis"
+    },
+    {
+      "General Exploration Analysis for Hardware Issues": "/en-us/vtune-amplifier-help-general-exploration-analysis"
+    },
+    {
+      "General Exploration View": "/en-us/vtune-amplifier-help-general-exploration-view"
+    },
+    {
+      "Hardware Issues View": "/en-us/vtune-amplifier-help-hardware-issues-view"
+    },
+    {
+      "Memory Usage View": "/en-us/vtune-amplifier-help-memory-usage-view"
+    },
+    {
+      "TSX Exploration Analysis for Transactional Aborts": "/en-us/vtune-amplifier-help-tsx-exploration-analysis"
+    },
+    {
+      "TSX Hotspots Analysis Inside Transactions": "/en-us/vtune-amplifier-help-tsx-hotspots-analysis"
+    }
+  ],
+  "Problem: 'Events= Sample After Value (SAV) * Samples' Is Not True If Multiple Runs Are Disabled": [
+    "/en-us/vtune-amplifier-help-wrong-event-count-with-event-multiplexing"
+  ],
+  "Ideal Time": [
+    "/en-us/vtune-amplifier-help-ideal-time"
+  ],
+  "Microcode Sequencer": [
+    "/en-us/vtune-amplifier-help-microcode-sequencer",
+    {
+      "Microcode Sequencer": "/en-us/vtune-amplifier-help-microcode-sequencer"
+    }
+  ],
+  "filter": [
+    "/en-us/vtune-amplifier-help-filter"
+  ],
+  "Tutorials and Samples": [
+    "/en-us/vtune-amplifier-help-tutorials-and-samples"
+  ],
+  "FB Full": [
+    "/en-us/vtune-amplifier-help-fb-full"
+  ],
+  "strategy": [
+    "/en-us/vtune-amplifier-help-strategy"
+  ],
+  "target-tmp-dir": [
+    "/en-us/vtune-amplifier-help-target-tmp-dir",
+    {
+      "target-tmp-dir": "/en-us/vtune-amplifier-help-target-tmp-dir"
+    }
+  ],
+  "Instrumentation and Tracing Technology API Reference": [
+    "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-api-reference",
+    {
+      "Instrumentation and Tracing Technology API Reference": "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-api-reference"
+    },
+    {
+      "Domain API": "/en-us/vtune-amplifier-help-domain-api"
+    },
+    {
+      "String Handle API": "/en-us/vtune-amplifier-help-string-handle-api"
+    },
+    {
+      "Collection Control API": "/en-us/vtune-amplifier-help-collection-control-api"
+    },
+    {
+      "Thread Naming API": "/en-us/vtune-amplifier-help-thread-naming-api"
+    },
+    {
+      "Task API": "/en-us/vtune-amplifier-help-task-api"
+    },
+    {
+      "Frame API": "/en-us/vtune-amplifier-help-frame-api"
+    },
+    {
+      "User-Defined Synchronization API": "/en-us/vtune-amplifier-help-user-defined-synchronization-api"
+    },
+    {
+      "Event API": "/en-us/vtune-amplifier-help-event-api"
+    }
+  ],
+  "report-width": [
+    "/en-us/vtune-amplifier-help-report-width",
+    {
+      "report-width": "/en-us/vtune-amplifier-help-report-width"
+    }
+  ],
+  "Analyzing Statically Linked Binaries on Linux* Targets": [
+    "/en-us/vtune-amplifier-help-analyzing-statically-linked-binaries-on-linux-targets"
+  ],
+  "D0ix States": [
+    "/en-us/vtune-amplifier-help-d0ix-states",
+    {
+      "D0ix States": "/en-us/vtune-amplifier-help-d0ix-states"
+    }
+  ],
+  "LLC Miss Rate due GPU Lookups": [
+    "/en-us/vtune-amplifier-help-llc-miss-rate-due-gpu-lookups",
+    {
+      "LLC Miss Rate due GPU Lookups": "/en-us/vtune-amplifier-help-llc-miss-rate-due-gpu-lookups"
+    }
+  ],
+  "Running memory-access Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-memory-access-analysis-from-the-command-line"
+  ],
+  "Analyze Unplugged Devices": [
+    "/en-us/vtune-amplifier-help-analyze-unplugged-devices"
+  ],
+  "app-working-dir": [
+    "/en-us/vtune-amplifier-help-app-working-dir",
+    {
+      "app-working-dir": "/en-us/vtune-amplifier-help-app-working-dir"
+    }
+  ],
+  "Local DRAM Access Count": [
+    "/en-us/vtune-amplifier-help-local-dram-access-count"
+  ],
+  "Toolbar: Filter": [
+    "/en-us/vtune-amplifier-help-toolbar-filter",
+    {
+      "Toolbar: Filter": "/en-us/vtune-amplifier-help-toolbar-filter"
+    }
+  ],
+  "Java* Code Analysis": [
+    "/en-us/vtune-amplifier-help-java-code-analysis",
+    {
+      "Java* Code Analysis": "/en-us/vtune-amplifier-help-java-code-analysis"
+    }
+  ],
+  "EU IPC Rate": [
+    "/en-us/vtune-amplifier-help-eu-ipc-rate",
+    {
+      "EU IPC Rate": "/en-us/vtune-amplifier-help-eu-ipc-rate"
+    }
+  ],
+  "% of Scalar SIMD Instructions": [
+    "/en-us/vtune-amplifier-help-of-scalar-simd-instructions"
+  ],
+  "GPU Memory Read Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-gpu-memory-read-bandwidth-gb/sec",
+    {
+      "GPU Memory Read Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-read-bandwidth-gb/sec"
+    }
+  ],
+  "Store Latency": [
+    "/en-us/vtune-amplifier-help-store-latency"
+  ],
+  "Total Time in Non-C0 States": [
+    "/en-us/vtune-amplifier-help-total-time-in-non-c0-states",
+    {
+      "Total Time in Non-C0 States": "/en-us/vtune-amplifier-help-total-time-in-non-c0-states"
+    }
+  ],
+  "GPU Application Analysis on Intel® HD Graphics and Intel® Iris™ Graphics": [
+    "/en-us/vtune-amplifier-help-gpu-application-analysis",
+    {
+      "GPU Application Analysis on Intel® HD Graphics and Intel® Iris™ Graphics": "/en-us/vtune-amplifier-help-gpu-application-analysis"
+    }
+  ],
+  "Collection Control API": [
+    "/en-us/vtune-amplifier-help-collection-control-api",
+    {
+      "Collection Control API": "/en-us/vtune-amplifier-help-collection-control-api"
+    }
+  ],
+  "GPU L3 Miss Ratio": [
+    "/en-us/vtune-amplifier-help-gpu-l3-miss-ratio",
+    {
+      "GPU L3 Miss Ratio": "/en-us/vtune-amplifier-help-gpu-l3-miss-ratio"
+    }
+  ],
+  "Memory Efficiency": [
+    "/en-us/vtune-amplifier-help-memory-efficiency"
+  ],
+  "Using JIT Profiling API": [
+    "/en-us/vtune-amplifier-help-using-jit-profiling-api",
+    {
+      "Using JIT Profiling API": "/en-us/vtune-amplifier-help-using-jit-profiling-api"
+    }
+  ],
+  "Port 7": [
+    "/en-us/vtune-amplifier-help-port-7"
+  ],
+  "Problem: Stacks in Call Stack and Bottom-Up Panes Are Different": [
+    "/en-us/vtune-amplifier-help-problem-stacks-in-call-stack-and-bottom-up-panes-are-different"
+  ],
+  "Window: Debug": [
+    "/en-us/vtune-amplifier-help-window-debug",
+    {
+      "Window: Debug": "/en-us/vtune-amplifier-help-window-debug"
+    }
+  ],
+  "Viewing Intel® Energy Profiler Data with Intel® VTune Amplifier": [
+    "/en-us/vtune-amplifier-help-viewing-intel-energy-profiler-data-with-intel-vtune-amplifier"
+  ],
+  "finalize": [
+    "/en-us/vtune-amplifier-help-finalize"
+  ],
+  "Running hpc-performance Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-hpc-performance-analysis-from-the-command-line"
+  ],
+  "Total Time": [
+    "/en-us/vtune-amplifier-help-total-time"
+  ],
+  "Hotspots View": [
+    "/en-us/vtune-amplifier-help-hotspots-view"
+  ],
+  "EU Threads Occupancy": [
+    "/en-us/vtune-amplifier-help-eu-threads-occupancy",
+    {
+      "EU Threads Occupancy": "/en-us/vtune-amplifier-help-eu-threads-occupancy"
+    }
+  ],
+  "Front-End Bandwidth MITE": [
+    "/en-us/vtune-amplifier-help-front-end-bandwidth-mite",
+    {
+      "Front-End Bandwidth MITE": "/en-us/vtune-amplifier-help-front-end-bandwidth-mite"
+    }
+  ],
+  "API Support": [
+    "/en-us/vtune-amplifier-help-api-support",
+    {
+      "API Support": "/en-us/vtune-amplifier-help-api-support"
+    },
+    {
+      "Instrumentation and Tracing Technology APIs": "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-apis"
+    },
+    {
+      "Basic Usage and Configuration": "/en-us/vtune-amplifier-help-basic-usage-and-configuration"
+    },
+    {
+      "Configuring Your Build System": "/en-us/vtune-amplifier-help-configuring-your-build-system"
+    },
+    {
+      "Attaching ITT APIs to a Launched Application": "/en-us/vtune-amplifier-help-attaching-itt-apis-to-a-launched-application"
+    },
+    {
+      "Instrumenting Your Application": "/en-us/vtune-amplifier-help-instrumenting-your-application"
+    },
+    {
+      "Minimizing ITT API Overhead": "/en-us/vtune-amplifier-help-minimizing-itt-api-overhead"
+    },
+    {
+      "Instrumentation and Tracing Technology API Reference": "/en-us/vtune-amplifier-help-instrumentation-and-tracing-technology-api-reference"
+    },
+    {
+      "Domain API": "/en-us/vtune-amplifier-help-domain-api"
+    },
+    {
+      "String Handle API": "/en-us/vtune-amplifier-help-string-handle-api"
+    },
+    {
+      "Collection Control API": "/en-us/vtune-amplifier-help-collection-control-api"
+    },
+    {
+      "Thread Naming API": "/en-us/vtune-amplifier-help-thread-naming-api"
+    },
+    {
+      "Task API": "/en-us/vtune-amplifier-help-task-api"
+    },
+    {
+      "Frame API": "/en-us/vtune-amplifier-help-frame-api"
+    },
+    {
+      "User-Defined Synchronization API": "/en-us/vtune-amplifier-help-user-defined-synchronization-api"
+    },
+    {
+      "Event API": "/en-us/vtune-amplifier-help-event-api"
+    },
+    {
+      "JIT Profiling API": "/en-us/vtune-amplifier-help-jit-profiling-api"
+    },
+    {
+      "Using JIT Profiling API": "/en-us/vtune-amplifier-help-using-jit-profiling-api"
+    },
+    {
+      "JIT Profiling API Reference": "/en-us/vtune-amplifier-help-jit-profiling-api-reference"
+    },
+    {
+      "iJIT_NotifyEvent": "/en-us/vtune-amplifier-help-ijit-notifyevent"
+    },
+    {
+      "iJIT_IsProfilingActive": "/en-us/vtune-amplifier-help-ijit-isprofilingactive"
+    },
+    {
+      "iJIT_ GetNewMethodID": "/en-us/vtune-amplifier-help-ijit-getnewmethodid"
+    },
+    {
+      "System APIs Supported by Intel® VTune™ Amplifier": "/en-us/vtune-amplifier-help-system-apis-support"
+    }
+  ],
+  "show-as": [
+    "/en-us/vtune-amplifier-help-show-as",
+    {
+      "show-as": "/en-us/vtune-amplifier-help-show-as"
+    }
+  ],
+  "Error Message: Problem Accessing the Sampling Driver": [
+    "/en-us/vtune-amplifier-help-error-message-problem-accessing-the-sampling-driver"
+  ],
+  "verbose": [
+    "/en-us/vtune-amplifier-help-verbose"
+  ],
+  "Average Latency (cycles)": [
+    "/en-us/vtune-amplifier-help-average-latency-cycles"
+  ],
+  "Intel Processor Events Reference": [
+    "/en-us/vtune-amplifier-help-intel-processor-events-reference"
+  ],
+  "Choosing Data Format": [
+    "/en-us/vtune-amplifier-help-choosing-data-format"
+  ],
+  "Pane: Assembly": [
+    "/en-us/vtune-amplifier-help-pane-assembly",
+    {
+      "Pane: Assembly": "/en-us/vtune-amplifier-help-pane-assembly"
+    }
+  ],
+  "ITLB Overhead": [
+    "/en-us/vtune-amplifier-help-itlb-overhead",
+    {
+      "ITLB Overhead": "/en-us/vtune-amplifier-help-itlb-overhead"
+    }
+  ],
+  "Collecting Data on Android* Systems from the Command Line": [
+    "/en-us/vtune-amplifier-help-collecting-data-on-android-systems-from-the-command-line"
+  ],
+  "Advanced Hotspots Analysis": [
+    "/en-us/vtune-amplifier-help-advanced-hotspots-analysis",
+    {
+      "Advanced Hotspots Analysis": "/en-us/vtune-amplifier-help-advanced-hotspots-analysis"
+    }
+  ],
+  "Typed Writes Coalescence": [
+    "/en-us/vtune-amplifier-help-typed-writes-coalescence"
+  ],
+  "Memory Latency": [
+    "/en-us/vtune-amplifier-help-memory-latency"
+  ],
+  "LLC Miss Ratio due GPU Lookups": [
+    "/en-us/vtune-amplifier-help-llc-miss-ratio-due-gpu-lookups",
+    {
+      "LLC Miss Ratio due GPU Lookups": "/en-us/vtune-amplifier-help-llc-miss-ratio-due-gpu-lookups"
+    }
+  ],
+  "SIMD Compute-to-L1 Access Ratio": [
+    "/en-us/vtune-amplifier-help-simd-compute-to-l1-access-ratio"
+  ],
+  "Error Message: Application Sets Its Own Handler for Signal": [
+    "/en-us/vtune-amplifier-help-error-message-application-sets-its-own-handler-for-signal"
+  ],
+  "Searching for Data": [
+    "/en-us/vtune-amplifier-help-searching-for-data",
+    {
+      "Searching for Data": "/en-us/vtune-amplifier-help-searching-for-data"
+    }
+  ],
+  "GPU OpenCL™ Application Analysis View": [
+    "/en-us/vtune-amplifier-help-gpu-opencl-application-analysis-view",
+    {
+      "GPU OpenCL™ Application Analysis View": "/en-us/vtune-amplifier-help-gpu-opencl-application-analysis-view"
+    }
+  ],
+  "L1D Replacements": [
+    "/en-us/vtune-amplifier-help-l1d-replacements",
+    {
+      "L1D Replacements": "/en-us/vtune-amplifier-help-l1d-replacements"
+    }
+  ],
+  "L1 Bound": [
+    "/en-us/vtune-amplifier-help-l1-bound",
+    {
+      "L1 Bound": "/en-us/vtune-amplifier-help-l1-bound"
+    },
+    {
+      "4K Aliasing": "/en-us/vtune-amplifier-help-4k-aliasing"
+    },
+    {
+      "DTLB Overhead": "/en-us/vtune-amplifier-help-dtlb-overhead"
+    },
+    {
+      "Split Loads": "/en-us/vtune-amplifier-help-split-loads"
+    }
+  ],
+  "loop-mode": [
+    "/en-us/vtune-amplifier-help-loop-mode",
+    {
+      "loop-mode": "/en-us/vtune-amplifier-help-loop-mode"
+    }
+  ],
+  "Local DRAM": [
+    "/en-us/vtune-amplifier-help-local-dram"
+  ],
+  "DTLB Store Overhead": [
+    "/en-us/vtune-amplifier-help-dtlb-store-overhead",
+    {
+      "DTLB Store Overhead": "/en-us/vtune-amplifier-help-dtlb-store-overhead"
+    }
+  ],
+  "Store Bound": [
+    "/en-us/vtune-amplifier-help-store-bound",
+    {
+      "Store Bound": "/en-us/vtune-amplifier-help-store-bound"
+    }
+  ],
+  "Debug Information for Windows* Application Binaries": [
+    "/en-us/vtune-amplifier-help-debug-information-for-windows-application-binaries"
+  ],
+  "amplxe-cl Command Syntax": [
+    "/en-us/vtune-amplifier-help-amplxe-cl-command-syntax"
+  ],
+  "return-app-exitcode": [
+    "/en-us/vtune-amplifier-help-return-app-exitcode"
+  ],
+  "Other": [
+    "/en-us/vtune-amplifier-help-other-3",
+    {
+      "Other": "/en-us/vtune-amplifier-help-other-3"
+    }
+  ],
+  "GPU In-kernel Profiling": [
+    "/en-us/vtune-amplifier-help-gpu-in-kernel-profiling"
+  ],
+  "Context Menus: Solution Explorer for the Intel VTune Amplifier": [
+    "/en-us/vtune-amplifier-help-solution-explorer"
+  ],
+  "Memory Allocation APIs": [
+    "/en-us/vtune-amplifier-help-memory-allocation-apis"
+  ],
+  "Typed Memory Write Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-typed-memory-write-bandwidth-gb/sec",
+    {
+      "Typed Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-typed-memory-write-bandwidth-gb/sec"
+    }
+  ],
+  "Communication (MPI)": [
+    "/en-us/vtune-amplifier-help-communication-mpi"
+  ],
+  "Call Stack Mode": [
+    "/en-us/vtune-amplifier-help-call-stack-mode"
+  ],
+  "Problem: VTune Amplifier is Slow to Respond When Collecting or Displaying Data": [
+    "/en-us/vtune-amplifier-help-problem-slow-collection"
+  ],
+  "Running tsx-hotspots Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-tsx-hotspots-analysis-from-the-command-line"
+  ],
+  "Disk Input and Output Data View": [
+    "/en-us/vtune-amplifier-help-disk-input-and-output-data-view"
+  ],
+  "ICache Misses": [
+    "/en-us/vtune-amplifier-help-icache-misses",
+    {
+      "ICache Misses": "/en-us/vtune-amplifier-help-icache-misses"
+    }
+  ],
+  "Troubleshooting": [
+    "/en-us/vtune-amplifier-help-troubleshooting",
+    {
+      "Troubleshooting": "/en-us/vtune-amplifier-help-troubleshooting"
+    },
+    {
+      "Problem: Unknown Frames": "/en-us/vtune-amplifier-help-problem-unknown-frames"
+    }
+  ],
+  "Bad Speculation (Cancelled Pipeline Slots)": [
+    "/en-us/vtune-amplifier-help-bad-speculation-cancelled-pipeline-slots"
+  ],
+  "Product Website and Support": [
+    "/en-us/vtune-amplifier-help-product-website-and-support",
+    {
+      "Product Website and Support": "/en-us/vtune-amplifier-help-product-website-and-support"
+    }
+  ],
+  "CPU Utilization": [
+    "/en-us/vtune-amplifier-help-cpu-utilization"
+  ],
+  "Dialog Box: Source Search": [
+    "/en-us/vtune-amplifier-help-dialog-box-source-search",
+    {
+      "Dialog Box: Source Search": "/en-us/vtune-amplifier-help-dialog-box-source-search"
+    }
+  ],
+  "Compute-Intensive Application Analysis": [
+    "/en-us/vtune-amplifier-help-compute-intensive-application-analysis"
+  ],
+  "Bottom-up Comparison": [
+    "/en-us/vtune-amplifier-help-bottom-up-comparison",
+    {
+      "Bottom-up Comparison": "/en-us/vtune-amplifier-help-bottom-up-comparison"
+    }
+  ],
+  "Spin and Overhead Time": [
+    "/en-us/vtune-amplifier-help-spin-and-overhead-time",
+    {
+      "Spin and Overhead Time": "/en-us/vtune-amplifier-help-spin-and-overhead-time"
+    },
+    {
+      "Creation": "/en-us/vtune-amplifier-help-creation-1"
+    },
+    {
+      "Other": "/en-us/vtune-amplifier-help-other-3"
+    },
+    {
+      "Reduction": "/en-us/vtune-amplifier-help-reduction-1"
+    },
+    {
+      "Scheduling": "/en-us/vtune-amplifier-help-scheduling-1"
+    }
+  ],
+  "Problem: {Unknown Timer} in the Platform Power Analysis Viewpoint": [
+    "/en-us/vtune-amplifier-help-problem-unknown-timer-in-the-platform-power-analysis-viewpoint"
+  ],
+  "knob": [
+    "/en-us/vtune-amplifier-help-knob",
+    {
+      "knob": "/en-us/vtune-amplifier-help-knob"
+    }
+  ],
+  "L1 Hit Rate": [
+    "/en-us/vtune-amplifier-help-l1-hit-rate"
+  ],
+  "Window: Summary - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-summary-platform-power-analysis"
+  ],
+  "% of Packed FP Instructions": [
+    "/en-us/vtune-amplifier-help-of-packed-fp-instructions"
+  ],
+  "Window: Summary - Disk Input and Output Summary": [
+    "/en-us/vtune-amplifier-help-window-summary-disk-input-and-output-summary"
+  ],
+  "Project Navigator": [
+    "/en-us/vtune-amplifier-help-project-navigator",
+    {
+      "Project Navigator": "/en-us/vtune-amplifier-help-project-navigator"
+    }
+  ],
+  "search-dir": [
+    "/en-us/vtune-amplifier-help-search-dir"
+  ],
+  "Creating a CSV File with External Data": [
+    "/en-us/vtune-amplifier-help-creating-a-csv-file-with-external-data",
+    {
+      "Creating a CSV File with External Data": "/en-us/vtune-amplifier-help-creating-a-csv-file-with-external-data"
+    }
+  ],
+  "Viewpoint": [
+    "/en-us/vtune-amplifier-help-viewpoint",
+    {
+      "Viewpoint": "/en-us/vtune-amplifier-help-viewpoint"
+    }
+  ],
+  "Estimated BB Execution Count": [
+    "/en-us/vtune-amplifier-help-estimated-bb-execution-count"
+  ],
+  "Window: Summary": [
+    "/en-us/vtune-amplifier-help-window-summary",
+    {
+      "Window: Summary - Hotspots": "/en-us/vtune-amplifier-help-window-summary-hotspots"
+    }
+  ],
+  "Window: Cannot Find <file type> File": [
+    "/en-us/vtune-amplifier-help-window-cannot-find-file-type-file",
+    {
+      "Window: Cannot Find <file type> File": "/en-us/vtune-amplifier-help-window-cannot-find-file-type-file"
+    }
+  ],
+  "User-Defined Synchronization API": [
+    "/en-us/vtune-amplifier-help-user-defined-synchronization-api",
+    {
+      "User-Defined Synchronization API": "/en-us/vtune-amplifier-help-user-defined-synchronization-api"
+    }
+  ],
+  "MS Assists": [
+    "/en-us/vtune-amplifier-help-ms-assists",
+    {
+      "MS Assists": "/en-us/vtune-amplifier-help-ms-assists"
+    }
+  ],
+  "JIT Profiling API Reference": [
+    "/en-us/vtune-amplifier-help-jit-profiling-api-reference",
+    {
+      "JIT Profiling API Reference": "/en-us/vtune-amplifier-help-jit-profiling-api-reference"
+    },
+    {
+      "iJIT_NotifyEvent": "/en-us/vtune-amplifier-help-ijit-notifyevent"
+    },
+    {
+      "iJIT_IsProfilingActive": "/en-us/vtune-amplifier-help-ijit-isprofilingactive"
+    },
+    {
+      "iJIT_ GetNewMethodID": "/en-us/vtune-amplifier-help-ijit-getnewmethodid"
+    }
+  ],
+  "discard-raw-data": [
+    "/en-us/vtune-amplifier-help-discard-raw-data"
+  ],
+  "GPU Texel Quads Count, Count/sec": [
+    "/en-us/vtune-amplifier-help-gpu-texel-quads-count-count/sec",
+    {
+      "GPU Texel Quads Count, Count/sec": "/en-us/vtune-amplifier-help-gpu-texel-quads-count-count/sec"
+    }
+  ],
+  "Typed Reads Coalescence": [
+    "/en-us/vtune-amplifier-help-typed-reads-coalescence"
+  ],
+  "Lock Contention": [
+    "/en-us/vtune-amplifier-help-lock-contention-1",
+    {
+      "Lock Contention": "/en-us/vtune-amplifier-help-lock-contention-1"
+    }
+  ],
+  "Paused Time": [
+    "/en-us/vtune-amplifier-help-paused-time",
+    {
+      "Paused Time": "/en-us/vtune-amplifier-help-paused-time"
+    }
+  ],
+  "Running sgx-hotspots Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-sgx-hotspots-analysis-from-the-command-line"
+  ],
+  "Window: Bottom-up": [
+    "/en-us/vtune-amplifier-help-window-bottom-up",
+    {
+      "Window: Bottom-up": "/en-us/vtune-amplifier-help-window-bottom-up"
+    },
+    {
+      "Window: Bottom-up - Hotspots/Hotspots by CPU Usage": "/en-us/vtune-amplifier-help-window-bottom-up-hotspots/hotspots-by-cpu-usage"
+    }
+  ],
+  "Driverless Event-Based Sampling Collection": [
+    "/en-us/vtune-amplifier-help-driverless-event-based-sampling-collection"
+  ],
+  "(Info) DSB Coverage": [
+    "/en-us/vtune-amplifier-help-info-dsb-coverage"
+  ],
+  "Viewing Comparison Data": [
+    "/en-us/vtune-amplifier-help-viewing-comparison-data",
+    {
+      "Viewing Comparison Data": "/en-us/vtune-amplifier-help-viewing-comparison-data"
+    },
+    {
+      "Comparison Summary": "/en-us/vtune-amplifier-help-comparison-summary"
+    },
+    {
+      "Bottom-up Comparison": "/en-us/vtune-amplifier-help-bottom-up-comparison"
+    },
+    {
+      "Top-down Tree Comparison": "/en-us/vtune-amplifier-help-top-down-tree-comparison"
+    }
+  ],
+  "gprof-cc Report": [
+    "/en-us/vtune-amplifier-help-gprof-cc-report"
+  ],
+  "Pane: Options - Result Location": [
+    "/en-us/vtune-amplifier-help-pane-options-result-location",
+    {
+      "Pane: Options - Result Location": "/en-us/vtune-amplifier-help-pane-options-result-location"
+    }
+  ],
+  "Frame API": [
+    "/en-us/vtune-amplifier-help-frame-api",
+    {
+      "Frame API": "/en-us/vtune-amplifier-help-frame-api"
+    }
+  ],
+  "report-output": [
+    "/en-us/vtune-amplifier-help-report-output"
+  ],
+  "Window: Summary - Locks and Waits": [
+    "/en-us/vtune-amplifier-help-window-summary-locks-and-waits"
+  ],
+  "Window: Import": [
+    "/en-us/vtune-amplifier-help-window-import",
+    {
+      "Window: Import": "/en-us/vtune-amplifier-help-window-import"
+    }
+  ],
+  "Concurrency View": [
+    "/en-us/vtune-amplifier-help-concurrency-view"
+  ],
+  "Configuring Wind River* Linux* and Intel® VTune™ Amplifier with the Intel System Studio Integration Layer": [
+    "/en-us/vtune-amplifier-help-configure-wind-river-with-iss-integration-layer"
+  ],
+  "Window: Summary - Hotspots by CPU Usage": [
+    "/en-us/vtune-amplifier-help-window-summary-hotspots-by-cpu-usage"
+  ],
+  "Serial Time (outside parallel regions)": [
+    "/en-us/vtune-amplifier-help-serial-time-outside-parallel-regions"
+  ],
+  "General Exploration Analysis for Hardware Issues": [
+    "/en-us/vtune-amplifier-help-general-exploration-analysis",
+    {
+      "General Exploration Analysis for Hardware Issues": "/en-us/vtune-amplifier-help-general-exploration-analysis"
+    },
+    {
+      "General Exploration View": "/en-us/vtune-amplifier-help-general-exploration-view"
+    },
+    {
+      "Hardware Issues View": "/en-us/vtune-amplifier-help-hardware-issues-view"
+    }
+  ],
+  "Running disk-io Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-running-disk-io-analysis-from-the-command-line"
+  ],
+  "Top-down Tree Comparison": [
+    "/en-us/vtune-amplifier-help-top-down-tree-comparison",
+    {
+      "Top-down Tree Comparison": "/en-us/vtune-amplifier-help-top-down-tree-comparison"
+    }
+  ],
+  "Sampler Is Bottleneck": [
+    "/en-us/vtune-amplifier-help-sampler-is-bottleneck",
+    {
+      "Sampler Is Bottleneck": "/en-us/vtune-amplifier-help-sampler-is-bottleneck"
+    }
+  ],
+  "OpenMP* Analysis from the Command Line": [
+    "/en-us/vtune-amplifier-help-openmp-analysis-from-the-command-line"
+  ],
+  "Max DRAM Single-Package Bandwidth": [
+    "/en-us/vtune-amplifier-help-max-dram-single-package-bandwidth"
+  ],
+  "Hot Keys": [
+    "/en-us/vtune-amplifier-help-hot-keys"
+  ],
+  "Wait Count": [
+    "/en-us/vtune-amplifier-help-wait-count",
+    {
+      "Wait Count": "/en-us/vtune-amplifier-help-wait-count"
+    }
+  ],
+  "P-State": [
+    "/en-us/vtune-amplifier-help-p-state",
+    {
+      "P-State": "/en-us/vtune-amplifier-help-p-state"
+    }
+  ],
+  "Flags Merge Stalls": [
+    "/en-us/vtune-amplifier-help-flags-merge-stalls",
+    {
+      "Flags Merge Stalls": "/en-us/vtune-amplifier-help-flags-merge-stalls"
+    }
+  ],
+  "Command Line Interface Reference": [
+    "/en-us/vtune-amplifier-help-command-line-interface-reference",
+    {
+      "Command Line Interface Reference": "/en-us/vtune-amplifier-help-command-line-interface-reference"
+    },
+    {
+      "Option Descriptions and General Rules": "/en-us/vtune-amplifier-help-option-descriptions-and-general-rules"
+    },
+    {
+      "app-working-dir": "/en-us/vtune-amplifier-help-app-working-dir"
+    },
+    {
+      "call-stack-mode": "/en-us/vtune-amplifier-help-call-stack-mode-1"
+    },
+    {
+      "command": "/en-us/vtune-amplifier-help-command"
+    },
+    {
+      "cumulative-threshold-percent": "/en-us/vtune-amplifier-help-cumulative-threshold-percent"
+    },
+    {
+      "custom-collector": "/en-us/vtune-amplifier-help-custom-collector"
+    },
+    {
+      "data-limit": "/en-us/vtune-amplifier-help-data-limit"
+    },
+    {
+      "format": "/en-us/vtune-amplifier-help-format"
+    },
+    {
+      "help": "/en-us/vtune-amplifier-help-help"
+    },
+    {
+      "import": "/en-us/vtune-amplifier-help-import"
+    },
+    {
+      "inline-mode": "/en-us/vtune-amplifier-help-inline-mode"
+    },
+    {
+      "knob": "/en-us/vtune-amplifier-help-knob"
+    },
+    {
+      "limit": "/en-us/vtune-amplifier-help-limit"
+    },
+    {
+      "loop-mode": "/en-us/vtune-amplifier-help-loop-mode"
+    },
+    {
+      "no-summary": "/en-us/vtune-amplifier-help-no-summary"
+    },
+    {
+      "report-width": "/en-us/vtune-amplifier-help-report-width"
+    },
+    {
+      "result-dir": "/en-us/vtune-amplifier-help-result-dir"
+    },
+    {
+      "show-as": "/en-us/vtune-amplifier-help-show-as"
+    },
+    {
+      "sort-asc": "/en-us/vtune-amplifier-help-sort-asc"
+    },
+    {
+      "sort-desc": "/en-us/vtune-amplifier-help-sort-desc"
+    },
+    {
+      "source-object": "/en-us/vtune-amplifier-help-source-object"
+    },
+    {
+      "target-install-dir": "/en-us/vtune-amplifier-help-target-install-dir"
+    },
+    {
+      "target-tmp-dir": "/en-us/vtune-amplifier-help-target-tmp-dir"
+    },
+    {
+      "target-duration-type": "/en-us/vtune-amplifier-help-target-duration-type"
+    },
+    {
+      "target-pid": "/en-us/vtune-amplifier-help-target-pid"
+    },
+    {
+      "target-process": "/en-us/vtune-amplifier-help-target-process"
+    },
+    {
+      "time-filter": "/en-us/vtune-amplifier-help-time-filter"
+    },
+    {
+      "version": "/en-us/vtune-amplifier-help-version"
+    }
+  ],
+  "Average Time": [
+    "/en-us/vtune-amplifier-help-average-time"
+  ],
+  "Linux* Targets": [
+    "/en-us/vtune-amplifier-help-linux-targets",
+    {
+      "Remote Linux* Target Setup": "/en-us/vtune-amplifier-help-remote-linux-target-setup"
+    },
+    {
+      "Configuring SSH Access for Remote Collection": "/en-us/vtune-amplifier-help-configuring-ssh-access-for-remote-collection"
+    }
+  ],
+  "target-pid": [
+    "/en-us/vtune-amplifier-help-target-pid",
+    {
+      "target-pid": "/en-us/vtune-amplifier-help-target-pid"
+    }
+  ],
+  "SIMD Instructions per Cycle": [
+    "/en-us/vtune-amplifier-help-simd-instructions-per-cycle"
+  ],
+  "Far Branch": [
+    "/en-us/vtune-amplifier-help-far-branch"
+  ],
+  "FP Arithmetic/Memory Read Instructions Ratio": [
+    "/en-us/vtune-amplifier-help-fp-arithmetic/memory-read-instructions-ratio"
+  ],
+  "Frame Data Analysis": [
+    "/en-us/vtune-amplifier-help-frame-data-analysis"
+  ],
+  "System Overview Analysis": [
+    "/en-us/vtune-amplifier-help-system-overview-analysis"
+  ],
+  "Android Device - Launch Application Target Type": [
+    "/en-us/vtune-amplifier-help-android-device-launch-application-target-type"
+  ],
+  "Install Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-installation"
+  ],
+  "Cycles of 1 Port Utilized": [
+    "/en-us/vtune-amplifier-help-cycles-of-1-port-utilized",
+    {
+      "Cycles of 1 Port Utilized": "/en-us/vtune-amplifier-help-cycles-of-1-port-utilized"
+    }
+  ],
+  "I/O Wait Time": [
+    "/en-us/vtune-amplifier-help-i/o-wait-time"
+  ],
+  "iJIT_NotifyEvent": [
+    "/en-us/vtune-amplifier-help-ijit-notifyevent",
+    {
+      "iJIT_NotifyEvent": "/en-us/vtune-amplifier-help-ijit-notifyevent"
+    }
+  ],
+  "Getting Started with Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-getting-started",
+    {
+      "Getting Started with Intel® VTune™ Amplifier": "/en-us/vtune-amplifier-help-getting-started"
+    }
+  ],
+  "Profile-Guided Optimization Report (Preview)": [
+    "/en-us/vtune-amplifier-help-profile-guided-optimization-report"
+  ],
+  "SMC Machine Clear": [
+    "/en-us/vtune-amplifier-help-smc-machine-clear",
+    {
+      "SMC Machine Clear": "/en-us/vtune-amplifier-help-smc-machine-clear"
+    }
+  ],
+  "% of 128-bit": [
+    "/en-us/vtune-amplifier-help-of-128-bit"
+  ],
+  "Hardware Event-based Sampling Collection with Stacks": [
+    "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection-with-stacks",
+    {
+      "Hardware Event-based Sampling Collection with Stacks": "/en-us/vtune-amplifier-help-hardware-event-based-sampling-collection-with-stacks"
+    }
+  ],
+  "Front-End Bandwidth DSB": [
+    "/en-us/vtune-amplifier-help-front-end-bandwidth-dsb",
+    {
+      "Front-End Bandwidth DSB": "/en-us/vtune-amplifier-help-front-end-bandwidth-dsb"
+    }
+  ],
+  ".NET* Code Analysis": [
+    "/en-us/vtune-amplifier-help-net-code-analysis"
+  ],
+  "Search Directories for Remote Linux* Targets": [
+    "/en-us/vtune-amplifier-help-search-directories-for-remote-linux-targets"
+  ],
+  "Total Wake-up Count": [
+    "/en-us/vtune-amplifier-help-total-wake-up-count",
+    {
+      "Total Wake-up Count": "/en-us/vtune-amplifier-help-total-wake-up-count"
+    }
+  ],
+  "report": [
+    "/en-us/vtune-amplifier-help-report"
+  ],
+  "DTLB Overhead": [
+    "/en-us/vtune-amplifier-help-dtlb-overhead",
+    {
+      "DTLB Overhead": "/en-us/vtune-amplifier-help-dtlb-overhead"
+    }
+  ],
+  "Problem: Unknown Frames": [
+    "/en-us/vtune-amplifier-help-problem-unknown-frames",
+    {
+      "Problem: Unknown Frames": "/en-us/vtune-amplifier-help-problem-unknown-frames"
+    }
+  ],
+  "start-paused": [
+    "/en-us/vtune-amplifier-help-start-paused"
+  ],
+  "Retiring": [
+    "/en-us/vtune-amplifier-help-retiring"
+  ],
+  "Microsoft Visual Studio* Integration": [
+    "/en-us/vtune-amplifier-help-microsoft-visual-studio-integration"
+  ],
+  "GPU Memory Write Bandwidth, GB/sec": [
+    "/en-us/vtune-amplifier-help-gpu-memory-write-bandwidth-gb/sec",
+    {
+      "GPU Memory Write Bandwidth, GB/sec": "/en-us/vtune-amplifier-help-gpu-memory-write-bandwidth-gb/sec"
+    }
+  ],
+  "Assists": [
+    "/en-us/vtune-amplifier-help-assists",
+    {
+      "Assists": "/en-us/vtune-amplifier-help-assists"
+    }
+  ],
+  "Port 3": [
+    "/en-us/vtune-amplifier-help-port-3"
+  ],
+  "SQ Full": [
+    "/en-us/vtune-amplifier-help-sq-full"
+  ],
+  "Retire Stalls": [
+    "/en-us/vtune-amplifier-help-retire-stalls",
+    {
+      "Retire Stalls": "/en-us/vtune-amplifier-help-retire-stalls"
+    }
+  ],
+  "Python* Code Analysis": [
+    "/en-us/vtune-amplifier-help-python-code-analysis"
+  ],
+  "custom-collector": [
+    "/en-us/vtune-amplifier-help-custom-collector",
+    {
+      "custom-collector": "/en-us/vtune-amplifier-help-custom-collector"
+    }
+  ],
+  "Window: Summary - Memory Consumption": [
+    "/en-us/vtune-amplifier-help-window-summary-memory-consumption"
+  ],
+  "Managing Analysis Duration from the Command Line": [
+    "/en-us/vtune-amplifier-help-managing-analysis-duration-from-the-command-line"
+  ],
+  "Port 0": [
+    "/en-us/vtune-amplifier-help-port-0"
+  ],
+  "What's New in Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-whats-new"
+  ],
+  "Search Directories": [
+    "/en-us/vtune-amplifier-help-search-directories",
+    {
+      "Search Directories": "/en-us/vtune-amplifier-help-search-directories"
+    },
+    {
+      "Search Order": "/en-us/vtune-amplifier-help-search-order"
+    }
+  ],
+  "MCDRAM Bandwidth Bound": [
+    "/en-us/vtune-amplifier-help-mcdram-bandwidth-bound"
+  ],
+  "Window: Wakelocks - Platform Power Analysis": [
+    "/en-us/vtune-amplifier-help-window-wakelocks-platform-power-analysis",
+    {
+      "Window: Wakelocks - Platform Power Analysis": "/en-us/vtune-amplifier-help-window-wakelocks-platform-power-analysis"
+    }
+  ],
+  "CPU Time": [
+    "/en-us/vtune-amplifier-help-cpu-time-2"
+  ],
+  "Tuning Methodology": [
+    "/en-us/vtune-amplifier-help-tuning-methodology",
+    {
+      "Tuning Methodology": "/en-us/vtune-amplifier-help-tuning-methodology"
+    }
+  ],
+  "Pre-Decode Wrong": [
+    "/en-us/vtune-amplifier-help-pre-decode-wrong"
+  ],
+  "DRAM Bound": [
+    "/en-us/vtune-amplifier-help-dram-bound",
+    {
+      "DRAM Bound": "/en-us/vtune-amplifier-help-dram-bound"
+    }
+  ],
+  "Getting Help": [
+    "/en-us/vtune-amplifier-help-getting-help",
+    {
+      "Getting Help": "/en-us/vtune-amplifier-help-getting-help"
+    }
+  ],
+  "Command Line Usage Scenarios": [
+    "/en-us/vtune-amplifier-help-command-line-usage-scenarios"
+  ],
+  "Cycles of 2 Ports Utilized": [
+    "/en-us/vtune-amplifier-help-cycles-of-2-ports-utilized",
+    {
+      "Cycles of 2 Ports Utilized": "/en-us/vtune-amplifier-help-cycles-of-2-ports-utilized"
+    }
+  ],
+  "limit": [
+    "/en-us/vtune-amplifier-help-limit",
+    {
+      "limit": "/en-us/vtune-amplifier-help-limit"
+    }
+  ],
+  "Memory Consumption Analysis": [
+    "/en-us/vtune-amplifier-help-memory-consumption-analysis"
+  ],
+  "Enabling Intel® VTune™ Amplifier Analysis on a Parallels* Guest System": [
+    "/en-us/vtune-amplifier-help-on-parallels-system"
+  ],
+  "EU Array Stalled": [
+    "/en-us/vtune-amplifier-help-eu-array-stalled",
+    {
+      "EU Array Stalled": "/en-us/vtune-amplifier-help-eu-array-stalled"
+    }
+  ],
+  "Task Time": [
+    "/en-us/vtune-amplifier-help-task-time"
+  ],
+  "L3 Latency": [
+    "/en-us/vtune-amplifier-help-l3-latency",
+    {
+      "L3 Latency": "/en-us/vtune-amplifier-help-l3-latency"
+    }
+  ],
+  "Context Menu: Grid": [
+    "/en-us/vtune-amplifier-help-context-menu-grid",
+    {
+      "Context Menu: Grid": "/en-us/vtune-amplifier-help-context-menu-grid"
+    }
+  ],
+  "System APIs Supported by Intel® VTune™ Amplifier": [
+    "/en-us/vtune-amplifier-help-system-apis-support",
+    {
+      "System APIs Supported by Intel® VTune™ Amplifier": "/en-us/vtune-amplifier-help-system-apis-support"
+    }
+  ],
+  "Viewing Source Objects from the Command Line": [
+    "/en-us/vtune-amplifier-help-viewing-source-objects-from-the-command-line"
+  ],
+  "Temporary Directory for Performance Results on Linux* Targets": [
+    "/en-us/vtune-amplifier-help-temporary-directory-for-performance-results-on-linux-targets"
+  ],
+  "GPU L3 Bound": [
+    "/en-us/vtune-amplifier-help-gpu-l3-bound"
+  ],
+  "no-summary": [
+    "/en-us/vtune-amplifier-help-no-summary",
+    {
+      "no-summary": "/en-us/vtune-amplifier-help-no-summary"
+    }
+  ],
+  "Window: Compare Results": [
+    "/en-us/vtune-amplifier-help-window-compare-results",
+    {
+      "Window: Compare Results": "/en-us/vtune-amplifier-help-window-compare-results"
+    }
+  ]
+}

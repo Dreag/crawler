@@ -1,0 +1,138 @@
+
+
+
+                          Android* Targets                        
+
+
+
+
+
+Use the Intel® VTune™ Amplifier installed on the Windows*, Linux,* or macOS* host to analyze code performance on a remote Android* system.
+
+Note
+For successful product operation, the target Android system should have ~25 MB disk space.
+
+VTune Amplifier supports the following usage mode with VTune Amplifier remote collector and ADB communication:
+
+
+
+
+
+
+1.
+
+
+Install VTune Amplifier
+
+
+Install the full-scale VTune Amplifier product on the host system. By default, the VTune Amplifier also installs the remote collector on the target Android system as soon as you run the first remote collection.
+
+Note
+If the remote VTune Amplifier collector is installed on a non-rooted device, during installation you may get an error message on missing/incorrect drivers. You can dismiss this message if you plan to run the user-mode sampling and tracing collection (Basic Hotspots) only.
+
+
+
+2.
+
+
+Prepare your target system for analysis
+
+
+
+
+Configure your Android device for analysis.
+
+
+Gain adb access through TCP/IP to an Android device.
+
+
+To enable hardware-event-based sampling analysis or Java* analysis, gain root mode adb access to the Android device.
+
+Note
+Depending on your system configuration, you may not need to gain a root mode access for Advanced Hotspots, General Exploration and Custom EBS analysis types.
+
+
+
+To enable hardware-event-based sampling analysis, verify that version compatible pre-installed signed drivers are on the target Android system.
+
+
+
+
+3.
+
+
+Configure and run remote analysis
+
+
+
+
+Prepare your Android application for analysis.
+
+
+Specify your analysis target and remote system.
+
+Note
+You may use the Analyze unplugged device option to exclude the ADB connection and power supply impact on the performance results. In this case, the collection starts as soon as you disconnect the device from the USB cable or a network. The analysis results are transferred to the host when you plug in the device back.
+
+
+
+Optionally, specify binary and source search directories.
+
+
+Choose an analysis type.
+
+Note
+On Android platforms, the VTune Amplifier supports hardware event-based sampling analysis types and Basic Hotspots analysis. Other algorithmic analysis types are not supported.
+
+
+
+Configure the analysis type.
+
+
+Run the analysis from the host.
+
+
+
+
+4.
+
+
+View collected data
+
+
+View the collected data on the host.
+
+
+
+
+
+Note
+To run Energy analysis on an Android system, use the Intel® SoC Watch tool.
+
+
+
+See Also
+
+Collecting Data Remotely on Android* from Command Line
+
+
+For more complete information about compiler optimizations, see our Optimization Notice.
+
+
+
+
+Prev
+Adding Administrative Privileges
+
+
+
+
+Next
+Building and Installing the Sampling Drivers for Android* Targets
+
+
+
+
+ 
+
+
